@@ -1,0 +1,3812 @@
+1/ Bạn có offer mới lương 25 triệu, cao hơn mức hiện tại 5 triệu. Bạn báo với sếp và được tăng lên đúng gần bằng mức đó. Hành động khôn ngoan nhất là? 
+A. Nghỉ việc vì tự ái.
+B. Ở lại vì không mất công chuyển việc mà vẫn được tăng lương.
+C. Ở lại nhưng lên kế hoạch nghỉ trong 6 tháng tới.
+D. So sánh tổng đãi ngộ và cơ hội phát triển trước khi quyết.
+
+2/Đâu là chiến lược tăng thu nhập được khuyến nghị khi chưa thể tăng lương ở công việc hiện tại?
+A. Góp vốn đầu tư chung với bạn bè.
+B. Làm tiếp thị liên kết sau giờ làm.
+C. Vay vốn khởi nghiệp.
+D. Xem tarot tìm kiếm lời khuyên từ vũ trụ.
+
+3/ 1 sản phẩm có giá bán là 250.000VND. Bạn chạy ads với chi phí 1,5 triệu VND và thu được 10 đơn. Phí nền tảng 10% mỗi đơn có lời ..
+A. 75.000VND
+B. 100.000VND
+C. 110.000VND
+D. 124.000VND
+
+1. Tính chi phí trên mỗi đơn hàng:
+Chi phí Ads cho 1 đơn: 1.500.000 / 10 = 150.000 VNĐ/đơn.
+Phí nền tảng cho 1 đơn (10% giá bán): 250.000 \10% = 25.000 VNĐ/đơn.
+2. Tính lợi nhuận trên mỗi đơn hàng:
+Lợi nhuận = Giá bán - (Chi phí Ads + Phí nền tảng)
+Lợi nhuận = 250.000 - (150.000 + 25.000)= 75.000 VNĐ.
+4/ Bạn có (1) công việc full-time với lương cố định 8 triệu VND và (2) các khoản đầu tư cho thu nhập biến động. Cách quản lý dòng tiền tối ưu của bạn là...
+A. Có bao nhiêu tiêu bấy nhiêu
+B. Dùng khoản (1) chi tiêu cơ bản, tiết kiệm/ tái đầu tư khoản (2).
+C.Chia đều cả hai vào và tiết kiệm.
+D.Tiết kiệm/ đầu tư khoản (1), chi tiêu cơ bản bằng khoản (2)
+
+5/ Bạn được offer một công việc freelance 10 triệu VND. Công viêc yêu cầu bạn tạm ứng 8 triệu VND cho phần mềm làm viẹc. Lúc này bạn..
+A. Lưu hóa đơn để cộng vào hợp đồng.
+B. Đề nghị dùng phần mềm miễn phí.
+C.Tạm ứng bằng quỹ khẩn cấp.
+D.Cảm ơn và hẹn gặp lại.
+
+6/Mỗi khi dự tiền, bạn chuyển vào “ngăn tiết kiệm” trên app ngân hàng. Số tiền này sau dó phục vụ chi tiêu hằng tháng của bạn. Đây là hình thức...
+A.Tiết kiệm ngắn hạn
+B.Tiết kiệm dài hạn
+C.Tiết kiệm mạo hiểm
+D.Tiết kiệm như không
+
+7/ Bạn gửi 1 tỷ đồng kỳ hạn 6 tháng, lãi suất 6,5%/năm. Sau 3 tháng, bạn cần 300 triệu. Chọn phương án nào giúp bạn tối ưu lãi suất cho phần còn lại?
+A. Rút toàn bộ sổ, gửi lại 700 triệu mới.
+B. Rút 300 triệu, phần còn lại vẫn giữ nguyên lãi ban đầu.
+C.Rút 300 triệu nếu ngân hàng cho rút từng phần, phần còn lại giữ nguyên kỳ hạn.
+D.Rút 300 triệu, phần còn lại chuyển san kỳ hạn 3 tháng mới.
+
+8/ SAFE (Simple Agreement for Future Equity) mang lại lợi ích loứn nhất cho nhà đầu tư start up trong trường hợp nào?
+A.Startup sớm sáp nhập
+B.Định giá vòng gọi vốn sau tăng mạng
+C.Tỷ lệ burn rate giảm đột ngột
+D.Fonder bị pha loãng cổ phần
+
+9/ Tại VN, lĩnh vực kinh doanh nào sau đây KHÔNG phải thực hiện kểm kê khí nhà kính?
+A.Năng lượng
+B.Xây dựng
+C.Giao thông vận tải
+D.Phát triển dô thị
+
+10/ Thị trường tín chỉ các-bon là 1 phần của...
+A.Thị trường bảo hiểm
+B.Thị trường chứng khoán
+C.Thị trường vốn
+D.Thị trường tiền tệ
+
+11/ Bạn là founder của startup. Sau 3 vòng gọi vốn, bạn nắm dưới 15% cổ phần, hệ quả nguy hiểm nhất là....
+A.Không còn động lực phát triển công ty
+B.Khổng kiểm soát được chiếm lược sản phẩm
+C.Không có quyền phủ quyết các quyết địng M&A
+D.Không đủ quyền bảo vệ nhà đầu tư cũ
+
+12/ Thước do nào cho thấy 1 startup đang vận hành bền vững, dù chưa có lãi?
+A.Burn multiple <1
+B.EBITDA margin >10%
+C.LTV/CAC >1
+D.Monthly recurring revenue (MRR) tăng 20%
+
+13/ Bạn có 500 triệu VND cần tiêu trong 4 đợt, mỗi đợt cách nhau 3 tháng. Giải pháp nào giúp bạn tối ưu lãi và thanh khoản?
+A.Gửi toàn bộ kỳ hạn 12 tháng
+B.Gửi không kỳ hạn
+C.Mở 4 sổ tiết kiệm kỳ hạn 3 tháng, đáo hạn lệch nhau 3 tháng
+D.Gửi 1 sổ 6 tháng, sau đó chia tiếp khi đáo hạn
+
+14/ Từ ngày 1/7/2025, theo nghị định 94/2025/ND-CP, người vay tiền qua các ứng dụng bắt buộc phải..
+A.Có bảo lãnh vay vốn
+B.Được kiểm tra thông tin tín dụng qua CIC
+C.Có tổng thu nhập tối thiểu 10 triệu đồng/ tháng
+D.Tất cả các phương án trên
+
+
+15/ Bạn vay 40 triệu đồng mua xe máy, lãi xuất 12%/ năm tính trên dư nợ giảm dần, trả góp đều trong 12 tháng. Tổng số tiền phải trả là khoảng...
+A.0 VND, bạn bùng nợ
+B.50,3 triệu VND
+C.56,3 triệu VND
+D.42,6 triệu VND
+
+ 
+Trong đó:      P (Gốc): 40.000.000 VND.
+$ (Lãi suất tháng): 12% / 12 = 1% = 0,01.
+n (Số tháng): 12.
+Áp dụng số liệu:    Số tiền trả hằng tháng (EMI) khoảng 3.553.920 VND.
+Tổng số tiền sau 12 tháng: 3.553.920 x 12 ≈ 42.647.040 VND.
+16/ Phương pháp trả nợ cá nhân Snowball tạo hiệu ứng tâm lí tích cực nhờ yếu tố nào?
+A.Giảm tổng lãi.
+B.Trả nợ nhỏ trước
+C.Không cần thanh toán
+D.Lãi gộp thấp
+
+17/ Công việc freelance chạy quảng cáo của bạn thu nhập 150 triệu VND/ năm. Để hợp pháp và tối ưu thuế, bạn nên....
+A.Không khai báo gì, vì chưa tới mức đóng thuế
+B.Đăng kí hộ kinh doanh và đóng thiế khoán
+C.Mở công ty trách nhiệm hữu hạn để khấu trừ chi phí
+D.Đăng kí cá nhân kinh doanh và tự khai thuế thu nhập cá nhân từng lần
+
+18/ Khi đầu tư vào căn hộ đang xây ( off-plan), rủi ro thường gặp là gì?
+A.Khó bán lại vì giá tăng quá nhanh
+B.Không vay được ngân hàng
+C.Bị trì hoãn bàn giao, chậm pháp lý
+D.Không được miễn thuế đất
+
+19/ Hệ số P/B ( Price-to-Book) thấp trong định giá cổ phiếu của 1 doanh nghiệp bất động sản thường cho thấy điều gì?
+A.Doanh nghiệp đang bị định giá quá cao
+B.Doanh nghiệp đang có khoản lỗ lớn
+C.Doanh nghiệp có giá thị trường thấp hơn giá trị sổ sách
+D.Doanh nghiệp có phong thủy không tốt
+
+20/ Ngân hàng Nhà nước VN khuyến khích tài chính xanh như thế nào?
+A.Cấp bù lãi cho các khoản vay xanh
+B.Hỗ trợ ngân hàng thương mại huy động trái phiếu xanh trong nước theo ICMA
+C.Yêu cầu các ngân hàng thương mại phát triển và ứng dụng các sản phẩm, dịch vụ ngân hàng xanh
+D.Cung cấp bảo lãnh tín dụng cho các dự án xanh
+
+
+ 
+21/ Tổng thu nhập tháng này là 15 triệu VND, bạn chi: 7 triệu cho ăn uống, nhà ở, đi lại;, 7 triệu di du lịch; 1 triệu cho tiết kiệm. Bạn có nên điều chỉnh kế hoạch tài chính cá nhân?
+A.Có, bạn không cần tiết kiệm
+B.Có, bạn đang chi tiêu quá nhiều vào du lịch
+C.Không, chi tiêu tháng này chỉ là tạm thời và chưa thể hiện kế hoạch tài chính cá nhân
+D.Không, tháng nào bạn cũng chi tiêu như vậy mà có sao đâu?
+
+22/ Theo báo cáo Lương & Thụ trường của Navigos ( 2025), có bao nhiêu phần trăm doanh nghiệp đang tuyển dụng qua các nền tảng số?
+A.12%
+B.100%
+C.76%
+D.51%
+
+23/ Với mức thu nhập cá nhân nào sau đây thì bạn bắt đầu phải trả thuế giá trị gia tăng?
+A.1 triệu VND
+B. 10 triệu VND
+C.100 triệu VND
+D.Mọi mức thu nhập
+
+24/  Những “tiêu sản” của bạn KHÔNG bao gồm...
+A.Danh mục cổ phiếu của bạn
+B.Laptop phục vụ việc học
+C.Chiếc xe mới mua để di làm
+D.Tất cả phương án trên
+
+25/ Sau 03 năm đầu kể từ khi mua, giá trung bình của chiếc ô tô mới có thể giảm bao nhiêu phần trăm so với giá mua ban đầu?
+A.5%
+B.10%
+C.20%
+D.35%
+
+26/ B ạn đổi giấy tờ sở hữu ô tô của mình để lấy 1 khoản tín dụng. Trong quá trình trả nợ, chiếc ô tô được chuyển vào kho của bên cho vay để quản lý. Đây là hình thức...
+A.Tín dụng cố chấp
+B.Tín dụng thế chấp
+C.Tín dụng cầm cố
+D.Tín dụng đen
+
+27/ Bạn có 1 khoản trả góp với lãi suất thay đổi ( ARM). Khi lãi suất chính sách giảm, khoản phải trả của bạn...
+A.Giảm tương ứng
+B.Không có gì thay đổi
+C.Tăng tương ứng
+D.Biến mất
+
+28/ Bạn chọn mua chứng chỉ tiền gửi ngân hàng với lãi suất 6%/ năm thay vì đầu tư vào quỹ ETF với lợi nhuận trung bình 9%/năm. Chi phí cơ hội bạn phải trả là gì?
+A.Lợi nhuân tiền năng 3% bị bỏ lỡ từ quỹ ETF
+B.Phí quản lý của chứng chỉ tiền gửi
+C.Lãi suất cố định 6%/năm
+D.Thời gian nghiên cứu quỹ ETF
+
+29/ Bạn tiết kiệm 30 triệu VND/ năm và đầu tư với lãi suất 8%/ năm. Nếu muốn tích lũy 3 tỷ VND để nghỉ hưu sớm, bạn mất bao lâu để đạt được mục tiêu?
+A.29 năm
+B.50 năm
+C.37 năm
+D. Chắc cũng phải cả đời
+
+Trong đó:
+FV (Future Value): Giá trị mục tiêu muốn đạt được = 3.000.000.000 VND.
+PMT (Payment): Số tiền tiết kiệm mỗi năm = 30.000.000 VND.
+r (Interest rate): Lãi suất hàng năm = 8% = 0,08.
+n: Số năm cần tìm.
+Các bước giải:
+Thay các giá trị vào công thức:
+
+Rút gọn phương trình:   
+<=>  
+<=>  
+Giải tìm n bằng Logarit:
+			   <=>  
+Làm tròn kết quả, chúng ta mất khoảng 29 năm để tích lũy được 3 tỷ đồng.
+
+30/  Theo số liệu Cục Thống Kê VN (2024), nhóm nghề “xanh” sẽ chiếm tỷ trọng bao nhiêu trên tổng số việc làm trong tlai?
+A.5%
+B.15%
+C.40%
+D.100%
+
+31/ Bạn tiết kiệm được 1 tỷ sau 10 năm đều đặn gửi tiết kiệm 6,5 triệu VND/ tháng. Phép màu nào giúp bạn đạt được điều này?
+A.Lãi suất kép 7%/ năm
+B.Lãi suất đơn 7%/năm
+C.Lãi suất ưu đãi 7%/ năm
+D.Lãi suất chiết khấu 7%/năm
+
+32/ Bạn đang xem xét đầu tư trái phiếu chính phủ. Mức rủi ro của tài sản này là..
+A.Rủi ro cao, bạn có thể mất hoàn toàn vốn đầu tư
+B.Rủi ro trung bình, bạn có thể không được hoàn vốn nếu kinh tế khó khăn
+C.Rủi ro cực cao, bạn không nên đầu tư
+D.Rủi ro cực thấp, khả năng bảo toàn vốn của bạn gần như tuyệt đối
+
+33/ Bạn “xuống tiền” mua trái phiếu 50 triệu, kỳ hạn 5 năm, lãi đơn 7%/năm. Đến ngày đáo hạn, bạn thu được....
+A.62,5 triệu
+B.64,5 triệu
+C.67,6 triệu
+D.68,5 triệu
+·  Bước 1: Tính tổng tiền lãi sau 5 năm
+·  I = 50 x 7% x 5 = 50 x 0,07 x 5 = 17,5 (triệu)
+·  Bước 2: Tính tổng số tiền thu được khi đáo hạn
+A = 50 + 17,5 = 67,5 (triệu)
+34/ Theo báo cáo của Quỹ tiền tệ Quốc tế IMF, tầng lớp trung lưu và dân số thành thị ở Việt Nam tăng nhanh dẫn đến...
+A.Lưu lượng tiền trong nền kinh tế tăng
+B.Mức tiêu dùng trong nước tăng
+C.Gia tăng tốc độ toàn cầu hóa nền kinh tế
+D.Sự phát triển của các kênh bán lẻ quốc tế
+
+35/ Bạn đang chi tiêu định kỳ trong vô thức khi ....
+A.Trả phí quản lý thẻ ngân hàng
+B.Mua gói data 5G cho 2 sim nhưng chỉ xài 1
+C.Mua chiếc túi hàng hiệu bạn không thực sự cần
+D.Đóng học phí
+
+36/ Bạn sẵn sàng chi trả nhiều hơn cho một sản phẩm vì đã bỏ thời gian lựa chọn, kể cả khi sản phẩm không còn phù hợp, là ví dụ của....
+A.Hiệu ứng neo (anchoring)
+B.Tư duy chi phí chìm ( sunk cost)
+C.Lệch chuẩn xác nhận ( confirmation bias)
+D.Tự định giá tài sản ( endowment effect)
+
+37/ Bạn vay 5 triệu VND từ ngân hàng với lãi đơn 10% mỗi năm trong 2 năm. Tổng số tiền gốc lãi bạn phải trả là bao nhiêu?
+A.5 triệu VND
+B.6 triệu VND
+C.7 triệu VND
+D.8 triệu VND
+công thức tính lãi đơn tương tự như câu trước.
+1. Công thức tính
+Tổng số tiền gốc và lãi (A) được tính bằng:
+A = P x (1 + r x n)
+Trong đó: P (Vốn gốc): 5.000.000 VND, r (Lãi suất): 10%/năm (0,1), n (Thời gian): 2 năm
+2. Các bước tính toán
+Bước 1: Tính tiền lãi (I)                                 I = 5.000.000 x 10% x 2 = 1.000.000 VND
+Bước 2: Tính tổng số tiền gốc và lãi (A)      A = 5.000.000 + 1.000.000 = 6.000.000 VND
+
+38/ Bạn có 1 khoản nợ đã quá hạn khoảng 200 ngày. Đây là khoản....
+A.Nợ xấu nhóm 3 - Nợ dưới tiêu chuẩn
+B.Nợ xấu nhóm 1 - Nợ đủ tiêu chuẩn
+C.Nợ xấu nhóm 4 - Nợ nghi ngờ
+D.Nợ xấu nhóm 2 - Nợ cần chú ý
+
+39/ Ngay cả khi bạn đã tất toán khoản nợ, CIC vẫn lưu trữ lịch sử nợ sấu của bạn trong vòng
+A.1 năm
+B.1 quý
+C.5 năm
+D.10 năm 
+
+40/ Bạn có quỹ dự phòng khẩn cấp là 35 triệu VND. Bạn nên “gửi gắm” khoản này ở đâu?
+A.Cổ phiếu tăng trưởng
+B.Bất động sản
+C.Tiết kiệm linh hoạt
+D.Vàng
+
+41/ Bạn mua cổ phiếu A với 80.000 VND/ cổ phiếu. Sau đó, giá cổ phiếu giảm xuống còn 70.000VND nhưng bạn nhận được cổ tức 2.000VND/ cổ phiếu. Bạn đã...
+A.Lãi 10% khi đầu tư
+B.Lãi 7% khi đầu tư
+C.Lỗ 10 khi đầu tư
+D.Lỗ 7% khi đầu tư
+
+42/ Sau khi bán cổ phiếu, bạn thu được 5 triệu VND. Bạn cần nộp thuế...
+A.5.000VND
+B.50.000VND
+C.500.000VND
+D.Bạn được miễn thuế trên khoản thu nhập này
+
+43/ Trọng tâm của chiến lược phát triển nền kinh tế xanh tại Việt Nam là...
+A.Phát triển thị trường tài chính xanh và thị trường các-bon
+B.Chính sách ưu đãi tín dụng cho các dự án năng lượng hóa thạch
+C.Khuyến khích các trang trại hữu cơ
+D.Tất cả các phương án trên
+
+44/ Thiên kiến giá trị cảm nhận ( Perceived value) là khi....
+A.Cùng một món hàng nhưng bạn phải mua với giá cao hơn người khác
+B.Bạn luôn cảm thấy mình không đủ tiền tiêu
+C.Bạn luôn cảm thấy bất an về tài chính cá nhân 
+D.Bạn luôn chọn combo rẻ dù vượt nhu cầu tiêu dùng
+
+45/ Các nền tảng mua sắm thiết kế các mốc thưởng như “ đơn từ 300k được tặng quà”, “tích điểm đổi quà” nhằm...
+A.Kéo dài thời gian sử dụng ứng dụng
+B.Kích hoạt tinh thần “ phiếu bé ngoan”
+C.Tăng tỷ lệ quay lại mua sắm
+D.Tất cả các phương án trên
+
+46/ Lạm phát và thị trường cổ phiếu “ là gì của nhau”?
+A.Khi lạm phát tăng cao, thị trường cổ phiếu có xu hướng tăng tương ứng
+B.Khi lạm phát tăng cao, thị trường cổ phiếu có xu hướng giảm điểm
+C.Khi lạm phát tăng cao, thị trường cổ phiếu có xu hướng bình ổn
+D.Lạm phát không còn là mối quan hệ với thị trường cổ phiếu
+
+47/ Bạn mua 100.000 VND/ cổ phiếu X. Sau đó cổ phiếu giảm còn 80.000VND nhưng bạn nhận được cổ tức 3.000VND/ cổ phiếu. Lợi suất đầu tư của bạn là...
+A.17%
+B.-17%
+C.10%
+D.-20%
+1. Công thức tính lợi suất
+Lợi suất đầu tư ($R$) được tính theo công thức: 
+Trong đó:
+P0 (Giá mua ban đầu): 100.000 VND
+P1 (Giá hiện tại): 80.000 VND
+D (Cổ tức nhận được): 3.000 VND
+2. Các bước tính toán cụ thể
+Bước 1: Tính chênh lệch giá (Lỗ vốn)
+Δ P = 80.000 - 100.000 = -20.000 VND
+Bước 2: Tính tổng lợi nhuận thực tế (Lỗ thuần)
+Tổng lợi nhuận = -20.000 + 3.000 =  -17.000 VND
+Bước 3: Tính tỷ lệ phần trăm lợi suất
+
+
+48/ 200 cổ phiếu A của bạn có tỷ lệ P/E là 15, bạn thu lời 1 triệu VND khi đầu tư. Giá của 1 cổ phiếu A là....
+A.200.000 VND
+B.20.000 VND
+C.75.000 VND
+D.50.000 VND
+Các công thức cần sử dụng
+Công thức P/E:
+	
+Từ đó suy ra:
+Giá cổ phiếu = P/E x EPS
+Công thức tính EPS (Lợi nhuận trên mỗi cổ phiếu):
+		
+2. Các bước tính toán cụ thể
+Theo đề bài, chúng ta có:
+Tổng số cổ phiếu: 200
+Chỉ số P/E: 15
+Tổng lợi nhuận thu được: 1.000.000 VND
+Bước 1: Tính lợi nhuận trên mỗi cổ phiếu (EPS)
+	
+Bước 2: Tính giá của một cổ phiếu A
+Giá cổ phiếu = P/E x EPS = 15 x 5.000 = 75.000 VND
+
+49/ Sự khác biệt lớn nhất giữa chiến lược DCA ( Dollar Cost Averaging) khi đầu tư vào quỹ và khi đầu tư và cổ phiếu riêng lẻ là gì?
+A.DCA vào quỹ ít chi phí hơn
+B.DCA vào quỹ giảm rủi ro hành vi
+C.DCA vào cổ phiếu có NAV ổn định hơn
+D.DCA vào quỹ chỉ áp dụng cho ETF
+
+50/ Bạn đang thực tập tại 1 quỹ đầu tư. Bạn lập kế hoạch truyền thông thu hút giới trẻ bằng nội dung dí dỏm, cam kết lãi 20% tháng nhưng bị xếp từ chối vì...
+A.Sếp không có khiếu hài hước
+B.Cách làm này đã cũ, thiếu hiệu quả
+C.Cách làm này không tuân thủ pháp lý
+D.Sếp không thích bạn 
+
+51/ Theo số liệu của tổng cục thống kê Việt Nam ( 2024), nhóm nghề nào sẽ chiếm tới 40% tổng số việc làm trong tương lai?
+A.Nhóm nghề công nghệ cao
+B.Nhóm nghề tài chính
+C.Nhóm nghề giáo dục
+D.Nhóm nghề “xanh”
+
+52/ Bạn đầu tư 5% tài sản vào một quỹ ESG, quỹ công bố lợi nhuận năm là 12%, phí quản lí 2%. Lợi nhuận thực nhận là...
+A.10%
+B.19%
+C.14%
+D.8%
+
+53/ Theo số liệu báo cáo của tổ chức Biến đổi khí hậu & Năng lượng, năm 2025 Việt Nam đang dẫn đầu ASEAN về...
+A.Ô nhiễm môi trường
+B.Rủi ro biến đổi khí hậu
+C.Quy mô các dự án điện mặt trời, điện gió và thủy điện
+D.Trình độ nhân lực ứng phó với thiên tai
+
+54/ Theo Vietnam Holding (2025), cứ 100 người VN thì có 9 người là...
+A.Nhà đầu tư mạo hiểm
+B.Chuyên viên tài chính
+C.Nhà đầu tư bất động sản
+D.Nhà đầu tư chứng khoán
+
+55/ Bạn có 10 triệu VND, 1 cổ phiếu A giá 10.000 VND. Nếu kỹ quý ban đầu 50%, bạn mua được tối đa bao nhiêu cổ phiếu A?
+A. 5.000
+B.1.000
+C.10.000
+D.2.000
+
+56/ Nếu bạn bị nhận lệnh gọi bổ sung ký quỹ ( call margin) mà không nộp tiền hay tăng số lượng chứng khoán thế chấp thì...
+A.Bạn sẽ bị cấm giao dịch trong 3 năm
+B.Bạn sẽ bị khởi tố hình sự
+C.Công ty chứng khoán sẽ bán giải chấp cố phiếu bạn
+D.Công ty chứng khoán sẽ gọi bạn cháy máy
+
+57/ Trong phân tích cơ bản khi đầu tư chứng khoán, bạn KHÔNG sử dụng chỉ báo nào...
+A.ROE
+B.RSI
+C.P/E
+D.EPS
+
+58/ Theo báo cáo xu hướng Tiêu dùng tại VN ( 2025 ) của Cimigo, các họ gia đình VN đang..
+A.Gia tăng đầu tư tài chính
+B.E ngại đầu tư tài chính
+C.Gia tăng tỷ lệ tiết kiệm
+D.Mở rộng các nguồn thu nhập
+
+59/ Bạn có điểm tín dụng cá nhân cao. Khi đó, rủi ro được nợ ....... và khả năng được cho vay .......
+A. Cao - Thấp
+B.Thấp - Cao
+C.Cao - Cao
+D.Thấp - Thấp
+
+60/ Bạn vay 40 triệu VND từ ngân hàng với lãi xuất 10% mỗi năm. Sau 4 năm, tổng số tiền phải trả là...
+A.70 triệu VND
+B.20 triệu VND
+C.50 triệu VND
+D.60 triệu VND
+
+61/ Hợp nhất nợ ( Debt Consolidation ) giúp được gì cho người vay?
+A.Xóa nợ xấu
+B.Cắt giảm số nợ
+C.Gộp và giảm lãi
+D.Chẳng giúp gì, chỉ đổi chỗ đau đầu
+
+62/ Ưu điểm chính của phương pháp trả nợ cách tuần ( Biweekly) là gì?
+A.Dễ tính
+B.Rút ngắn kỳ hạn
+C.Lãi suất thấp
+D.Trả ít hơn mỗi lần
+
+63/ Bạn là 1 nhà sáng tạo nội dung bán khóa học Excel. Tệp khách mục tiêu của bạn bão hòa. Cách mở rộng bền vững là gì?
+A. Hạ giá liên tục để cạnh tranh
+B.Ra thêm các gói hướng dẫn 1-1
+C.Làm thêm eBook hướng dẫn
+D.Chạy affiliate cho khóa học khác
+
+64/ Theo cục thống kê, nhóm hàng hóa dịch vụ nào sau đây chiếm trọng số lớn nhất CPI của VN giai đoạn 2020-2025?
+A. Nhà ở, nước, chất đốt
+B.Thuốc và dịch vụ y tế
+C.Hàng ăn và dịch vụ ăn uống
+D.Giáo dục
+
+65/ Bạn 25 tuổi, 4 năm kinh nghiệm, lương dưới 12 triệu. Đồng nghiệp mới vào lương đã 15 triệu. Bạn nên làm gì đầu tiên?
+A. Xin nghỉ việc ngay
+B.Thương lượng lại lương với sếp
+C.Rà soát kỹ profolio và đối chiếu giá thị trường
+D.Làm thêm job ngoài để bù lại
+
+66/ Trong mô hình lương thưởng đãi ngộ 3P, năng lựuc cá nhân của bạn được thể hiện qua...
+A.Positon
+B.Person
+C.Performance
+D.Potential
+
+67/ Bạn vay ngân hàng 200 triệu VND để khởi nghiệp, trả lãi trước, lãi xuất 5%/ năm. Lãi suất thực tế của khoản vay là bao nhiêu?
+A.5%/ năm
+B.5.26%/ năm
+C.10%năm
+D.10.26%/năm 
+
+68/ Thông thường, trong thời gian ân hạn của khoản vay, bạn sẽ..
+A.Không phải trả lãi
+B.Không phải trả nợ gốc
+C.Không phải trả bất kì khoản tiền nào
+D.Được hưởng lãi suất ưu đãi
+
+69/ Theo VnEconomy (2025), lĩnh vực khởi nghiệp tại VN đang thu hút nhiều vốn đầu tư nhất là...
+A.Thương mại điện tử
+B.Công nghệ viễn thông
+C.Công nghệ tài chính
+D.Công nghệ nông nghiệp và thực phẩm
+
+70/ Theo khảo sát của Báo Dân trí (2025), kênh đầu tư chính được nhiều người VN lựa chọn nhất là...
+A.Bất động sản
+B.Chứng khoán
+C.Tài sản mã hóa
+D.Vàng
+
+71/ Bạn tham gia vào một quỹ đầu tư tại VN. Bạn có thể rút vốn trong trường hợp nào?
+A.Khi quỹ hoàn thành một dự án cụ thể
+B.Bất kỳ lúc nào khi thị trường có nhu cầu cao
+C.Khi quỹ niêm yết trên sàn giao dịch chứng khoán
+D.Thời gian quy định trong điều lệ quỹ
+
+72/  Tỷ lệ ký quỹ ban đầu do công ty chứng khoán của bạn quy định. Con số này KHÔNG được thấp hơn...
+A.30%
+B.40%
+C.50%
+D.60%
+
+73/ Theo Thời báo Ngân Hàng, Tổng giá trị rút từ các quỹ đầu tư trong quý 1/2025 lên tới gần 4.700 tỷ đồng, phản ánh...
+A.Năng lực quản lý các quỹ đang sụt giảm
+B.Tâm lý phòng thủ của nhà đầu tư khi thị trường biến động
+C.Kinh tế khó khăn khiến các quỹ giải thể
+D.Nhà đầu tư chuyển dịch dần sang tài sản mã hóa
+
+74/  Bạn đầu tư mua 1chiếc xe ô tô cũ để chạy dịch vụ, thu nhập ổn định. Tuy nhiên xe mất giá 25% sau 2 năm. Nhiều người nói “xe là tiêu sản vì mất giá”. Vậy xe này là gì?
+A.Tiêu sản ( vì mất giá trị )
+B.Tích sản ( vì tạo ra dòng tiền dù mất giá )
+
+75/ Bạn mua điện thoại thông minh giảm 30% từ 20.000.000 VND còn 14.000.000 VND trên app, quẹt thẻ tín dụng lãi đơn 3%/tháng, sau 4 tháng mới thanh toán. Phí phạt trễ hạn: 200.000 VND. Tổng chi phí bạn phải trả gần đúng là:
+A. 15.500.000 VND
+B. 15.880.000 VND
+1. Xác định số tiền gốc (Principal)  -  Giá trị điện thoại sau khi giảm giá (số tiền bạn quẹt thẻ):    P = 14.000.000 VND
+2. Tính tiền lãi đơn (Simple Interest)   Công thức tính lãi đơn là: I = P × r × n
+Trong đó:    r là lãi suất mỗi tháng: 3% = 0,03, n là số tháng chậm thanh toán: 4
+Áp dụng vào công thức:
+I = 14.000.000 × 0,03 × 4 = 1.680.000  VND
+3. Tổng chi phí phải trả
+Tổng chi phí bao gồm: Số tiền gốc + Tiền lãi + Phí phạt trễ hạn.
+Tổng chi phí = 14.000.000 + 1.680.000 + 200.000 = 15.880.000 VND
+
+76/ Bạn mua khóa học ảo trên mạng giá 5.000.000 VND, không học nhưng tự tin rằng đây là “tích sản tri thức”. Bạn đang thực sự nắm giữ gì?
+A.Tiêu sản tâm lý ( vì không tạo giá trị thực )
+B.Tích sản ( vì đâù tư vào bản thân dù chưa sử dụng )
+
+77/ Tài sản số được hiểu là gì trong Luật Công nghiệp Công Ngệ số 2025?
+A.Là loại tiền mã hóa
+B.Là thông tin số có thể định danh, có giá trị và được xác lập quyền sở hữu, có thể được giao dịch trong môi trường số. 
+
+78/ Bạn mua gói bảo hiểm nhân thọ đóng phí 10 năm, không đầu tư, chỉ bảo vệ. Bạn tin rằng mình đang:
+A.Mua tiêu sản ( vì không tạo ra dòng tiền )
+B.Mua tích sản ( vì bảo vệ rủi ro và an toàn tài chính )
+
+79/ Bạn đăng clip viral 1 triệu lượt xem nhưng không có đơn hàng. Bạn tự tin nghĩ mình có thương hiệu vững chắc để kiếm tiền. Đây là sai lầm gì?
+A.Sai lầm quản lí ( không biết chốt sale )
+B.Sai lầm dopamine ảo ( ngỡ view là tiền )
+
+80/ Bạn thấy trên app giảm giá 80%, chỉ còn 1 chiếc đồng hồ và thời gian đếm ngược 5 phút. Bạn quẹt thẻ ngay. Bạn đã dính bẫy?
+A.Bẫy chi phí chìm ( vì đã xem lâu nên mua cho đỡ tiếc )
+B.Bẫy dopamine khẩn cấp ( kích hoạt hành vi mua vội )
+
+81/ Bạn nạp tiền vào app 12 tháng để lên hạng VIP, nhận khuyến mãi 5.000.000 VND nhưng khuyến mãi chỉ giảm tối đa 15% mỗi giao dịch. Bạn nghĩ mình đã tích lũy tài sản. Thực chất bạn đang?
+A.Dính bẫy dopamine cấp bậc -> tưởng thăng hạng là sinh lời 
+B.Đầu tư thông minh -> tích sản khuyến mãi
+
+82/ Bạn vào nhóm tài chính , thấy nhiều người khoe lãi coin xyz và mua ngay vì “ nhóm uy tín mà”. Bạn vừa rơi vào?
+A.Bẫy đám dông ảo ( tin theo số đông chưa kiểm chứng )
+B.Bẫy buồng vang thông tin ( chỉ nghe điều mình muốn nghe )
+
+83/ Bạn mua bảo hiểm điện tử giá rẻ, cam kết “ tặng voucher 1.000.000 VND nếu không có sự cố”. Khuyến mãi chỉ giảm tối đa 10% mỗi lần mua hàng. Bạn thực sự đang giữ?
+A.Tích sản khuyến mãi -> vì có giá trị sử dụng
+B.Tiêu sản ngụy trang -> vì khuyến mãi giới hạn và chi phí bảo hiện đều là chi phí lặp
+
+84/ Bạn chi 55.000 VND/ ngày/ cốc cà phê. 5 ngày/ tuần. Nếu mua máy pha cà phê, giá 3.000.000VND + 300.000VND mỗi tháng cho nguyên liệu và điện nước. Bạn tiết kiệm được bao nhiêu trong 2 năm:
+A.~10.000.000 VND
+B.>18.000.000 VND
+
+1. Chi phí mua cà phê ngoài tiệm
+Chi phí mỗi tuần: 55.000 × 5 = 275.000 VND.
+Số tuần trong 2 năm: 52  tuần/năm × 2 = 104 tuần.
+Tổng chi phí mua ngoài: 275.000 × 104 = 28.600.000 VND.
+2. Chi phí khi mua máy pha cà phê
+Giá mua máy (chi phí một lần): 3.000.000 VND.
+Chi phí vận hành (nguyên liệu, điện nước): 300.000 × 24 tháng = 7.200.000 VND.
+Tổng chi phí tự pha: 3.000.000 + 7.200.000 = 10.200.000 VND.
+3. Số tiền tiết kiệm được
+Tiết kiệm = Chi phí mua ngoài - Chi phí tự pha
+Tiết kiệm: 28.600.000 - 10.200.000 = 18.400.000VND.
+
+85/ Bạn mua điện thoại 25.000.000 VND. Trả một lần: được hoàn 2.000.000 VND. Trả góp 0%: mất phí 2,5% (~625.000 VND ) và không được hoàn tiền. Bạn đang tốn thêm bao nhiêu nếu chọn trả góp?
+A.>1.000.000 VND
+B.>2.500.000 VND
+
+1. Chi phí nếu trả một lần
+Khi trả một lần, bạn được hoàn tiền trực tiếp vào giá mua:
+Chi phí thực tế: 25.000.000 - 2.000.000 =  23.000.000 VND.
+2. Chi phí nếu trả góp 0%
+Khi trả góp, bạn không được hoàn tiền và phải chịu thêm phí chuyển đổi trả góp:
+Chi phí thực tế: 25.000.000 + 625.000 = 25.625.000 VND.
+3. Số tiền tốn thêm khi chọn trả góp
+Số tiền tốn thêm chính là khoản chênh lệch giữa việc trả góp và trả thẳng:
+Chênh lệch: 25.625.000 - 23.000.000 = 2.625.000 VND.
+(Hoặc tính nhanh: Bạn vừa mất 2.000.000 VND tiền hoàn, vừa mất thêm 625.000 VND tiền phí → Tổng tốn thêm 2.625.000 VND).
+
+
+86/ Bạn mua một chiếc máy tính xách tay giá 35.000.000 VND và làm freelence. Trong 1 năm, bạn kiếm được 50.000.000 VND từ nó. Bạn nghĩ chiếc laptop là:
+A. Tích sản
+B. Tiêu sản
+
+87/ Bạn được rủ đầu tư vào quỹ “ siêu cổ tức 20%/ tháng”. Nghe nói do cựu nhân viên DC sáng lập. Bạn băn khoăn... Đây là tín hiệu cần “ tháo chạy” ngay lập tức?
+A.Nhân vật sáng lập từng làm ở nơi danh tiếng
+B.Cam kết lợi nhuận cao bất thường
+
+88/ Gói bảo hiểm của bạn: Phí 20.000.000 VND/ năm. Hợp đồng 20 năm. Quyền lợi tử vong 500.000.000 VND. Cuối kỳ đáo hạn được hoàn lại toàn bộ phí đã đóng + lãi suất cam kết 3%/ năm ( lãi kép ). Nếu không xảy ra gì, cuối kỳ hạn sẽ nhận được bao nhiêu ( làm tròn )?
+A.520.000.000 VND
+B.538.000.000 VND
+
+89/ Bạn lập startup, đổ toàn bộ tiền tiết kiệm vào sản phẩm nhưng không trả lương cho mình trong 1 năm. Khi startup thất bại, bạn định nộp đơn phá sản cá nhân. Việc không hạch toán lương trong 12 tháng có thể bị tòa xem là?
+A.Quyết định cá nhân
+B.Dấu hiệu quản trị thiêú trách nhiệm
+
+90/ Bạn góp 300.000.000 VND tiết kiệm vào 1 startup dưới danh nghĩa cho vay không lãi. Không có hợp đồng vay. Khi startup phá sản, bạn xin giữ lại số tiền đó trong quá trình xét xử tài sản thanh lý. Số tiền bạn góp sẽ được tòa xử lý theo hướng nào?
+A.Có thể giữ lại nếu chứng minh là tài sản cá nhân
+B.Có nguy cơ mất trắng vì không hợp đồng, tiền đã hòa vào công ty
+
+91/ Trong 2 năm, bạn nhận “ cổ tức tạm ứng” là 5.000.000 VND/ tháng. Không gửi báo cáo tài chính. Năm thứ 3, công ty phá sản. Vậy bạn có đòi được phần vốn góp?
+A.Không - vì cổ đông không có quyền ưu tiên hoàn trả khi doanh nghiệp phá sản
+B.Có - vì chưa nhận đủ lợi nhuận như cam kết nên vẫn được ưu tiên hoàn vốn
+
+92/ Bạn thế chấp căn nhà giá trị 1.200.000.000 VND, vay 600.000.000 VND vốn kinh doanh. Sau 18 tháng không trả được nợ, ngân hàng phát mãi tài sản được 950.000.000 VND. Sau thanh toán khoản vay 600 triệu + 12%/ năm, chi phí phát mãi 5% giá bán, bạn còn lại bao nhiêu ( làm tròn )?
+A.122.000.000 VND
+B.194.000.000 VND
+
+1. Tính tổng số nợ phải trả cho ngân hàng :Số nợ bao gồm vốn gốc và lãi suất trong vòng 18 tháng (1,5 năm).
+Vốn gốc: 600.000.000 VND
+Lãi suất: 12%/năm
+Thời gian: 18 tháng = 1,5 năm
+Tiền lãi: 600.000.000 × 12% × 1,5 = 108.000.000 VND
+Tổng nợ (Gốc + Lãi): 600.000.000 + 108.000.000 = 708.000.000 VND
+2. Tính chi phí phát mãi tài sản
+Chi phí này được tính dựa trên giá bán thực tế của căn nhà tại thời điểm phát mãi.
+Giá phát mãi: 950.000.000 VND
+Chi phí phát mãi (5%): 950.000.000 × 5% = 47.500.000$ VND
+3. Tính số tiền còn lại sau khi thanh toán
+Số tiền bạn nhận lại được tính bằng giá bán trừ đi tổng nợ và chi phí phát mãi.
+Số tiền còn lại: 950.000.000 - (708.000.000 + 47.500.000)
+Kết quả: 950.000.000 - 755.500.000 = 194.500.000 VND
+
+93/ Bạn mở quán cf với lãi ròng 5 triệu/ tháng. Tuy nhiên, bạn vẫn phải ứng tiền cá nhân bù dòng tiền mặt bằng, nhân sự và nguyên liệu. Sau 6 tháng, bạn không còn khả năng chi trả. Bạn đang gặp rủi ro gì?
+A.Tỷ suất lợi nhuận thấp - chưa đủ để tái đầu tư
+B.Dòng tiền âm kéo dài - mất khả năng thanh toán dù có lợi nhuận kế toán
+
+1.ĐỀ CASTING CỦA EIU 
+
+Câu 1: ( Tiêu tiền và kiếm tiền ) Tổng thu nhập tháng này là 15 triệu VND, bạn chỉ: 7 triệu cho ăn uống, nhà ở, đi lại; 7 triệu đi du lịch; 1 triệu tiết kiệm. Bạn có nên điều chỉnh kế hoạch tài chính cá nhân?
+A.Có bạn không cần tiết kiệm 
+B.Có, bạn chi tiêu quá nhiều vào du lịch 
+C.Không, chi tiêu tháng này chỉ là tạm thời và không thể hiện kế hoạch tài chính cá nhân của bạn 
+D.Không, tháng nào bạn cũng chi tiêu như vậy có sao đâu 
+
+Câu 2: ( Kiếm tiền ) Theo báo cáo Lương & Thị trường Lao động của Navigos (2025), có bao nhiêu phần trăm doanh nghiệp đang tuyển dụng qua các nền tảng số?
+A.12%
+B.100%
+C.76%
+D.51%
+
+Câu 3: ( Thuế ) Với mức thu nhập nào dưới đây thì bạn phải bắt đầu trả thuế giá trị gia tăng? 
+A.1 triệu VND 
+B.10 triệu VND
+C.100 triệu VND
+D.Mọi mức thu nhập 
+
+Câu 4: ( Tiêu tiền ) Những “ Tiêu sản” của bạn không bao gồm? 
+A.Danh mục cổ phiếu của bạn 
+B.Laptop phục vụ việc học 
+C.Chiếc xe mới mua để đi làm 
+D.Tất cả phương án trên 
+
+Câu 5: ( Tiêu tiền ) Sau 03 năm đầu kể từ khi mua, giá trị trung bình của một chiếc ô tô mới có thể giảm bao nhiêu phần trăm so với giá mua ban đầu?
+A.5% 
+B.10%
+C.20%
+D.35%
+
+Câu 6: ( Tiêu tiền )  Bạn đổi giấy tờ sở hữu ô tô của mình để lấy một khoản tín dụng. Trong quá trình trả nợ, chiếc ô tô được chuyển vào kho của bên cho vay để quản lý. Đây là hình thức…
+A.Tín dụng tín chấp 
+B.Tín dụng thế chấp 
+C.Tín dụng cầm cố 
+D.Tín dụng đen 
+
+Câu 7: ( bảo toàn ) Bạn có một khoản trả góp với lãi suất thay đổi ( ARM), khi lãi suất chính sách giảm, khoản phải trả của bạn 
+A.Giảm tương ứng 
+B.Không có gì thay đổi 
+C.Tăng tương ứng 
+D.Biến mất 
+
+Câu 8: ( Đầu tư ) Bạn chọn mua chứng chỉ tiền gửi ngân hàng với lãi suất 6%/năm thay vì đầu tư vào quỹ ETF với lợi nhuận trung bình 9%/năm. Chi phí cơ hội bạn đã trả là gì?
+A.Lợi nhuận tiềm năng 3% khi bỏ lỡ quỹ ETF 
+B.Phí quản lý của chứng chỉ tiền gửi 
+C.Lãi suất cố định 6%/ năm 
+D.Thời gian nghiên cứu của ETF
+
+Câu 9: ( Tích lũy ) Bạn tiết kiệm 30 triệu VND/năm và đầu tư với lãi suất 8%/năm. Nếu muốn tích lũy 3 tỷ VND để nghỉ hưu sớm, bạn mất bao lâu để đạt được mục tiêu?
+A.29 năm 
+B.50 năm 
+C.37 năm 
+D.Cả đời 
+
+Câu 10: ( Kiếm tiền ) Theo số liệu của cục thống kê Việt Nam năm 2024 nhóm nghề xanh sẽ chiếm tỷ trọng bao nhiêu trong tổng số việc làm trong tương lai ? 
+A.5%
+B.15%
+C.40% 
+D.100% 
+
+2.ĐỀ CASTING CỦA UEF 
+
+Câu 1: ( Tích lũy ) bạn tích kiệm 1 tỷ sau 10 năm gửi đều đặn 6,5 triệu / tháng. Phép màu nào giúp bạn đạt được điều này? 
+A.lãi suất kép 7%/ năm 
+B.Lãi suất đơn 7%/ năm 
+C.Lãi suất ưu đãi 7%/ năm 
+D.Lãi suất chiết khấu 7%/ năm 
+
+Câu 2: ( Đầu tư ) Bạn đang xem xét đầu tư trái phiếu chính phủ. Mức rủi ro của tài sản này là 
+A.rủi ro cao bạn có thể mất hoàn toàn vốn đầu tư 
+B.Rủi ro trung bình, bạn có thể không được hoàn vốn nếu kinh tế khó khăn 
+C.Rủi ro cực cao bạn không nên đầu tư 
+D.Rủi ro cực thấp, khả năng bảo toàn vốn gần như tuyệt đối 
+
+
+Câu 3: ( Đầu tư ) Bạn xuống tiền mua trái phiếu 50 triệu đồng, kỳ hạn 5 năm, lãi đơn 7%/ năm. Đến ngày đáo hạn bạn thu được? 
+A.62,5 triệu VND 
+B.64,5 triệu VND 
+C.67,5 triệu VND 
+D.68,5 triệu VND 
+
+Câu 4: Phần thu nhập tính thuế trên 60 triệu đồng / tháng của bạn sẽ có mức thuế suất là 
+A.15% 
+B.20%
+C.25%
+D.30% 
+
+Câu 5: ( tiêu tiền ) bạn sử dụng thẻ tín dụng trả chậm với lãi suất cao. Chi phí cơ hội bạn phải chấp nhận là 
+A.Số tiền phải trả cho ngân hàng 
+B.Phí quản lý thẻ tín dụng 
+C.Khả năng sử dụng số tiền lãi tín dụng cho việc khác 
+D.Điểm thưởng tích lũy từ thẻ tín dụng 
+
+Câu 6: (Tiêu tiền) Thẻ tín dụng của bạn được hoàn 4%/ số tiền chi tiêu mỗi tháng, tối đa 300.000 VND/tháng. Giả sử trong tháng đó bạn tiêu 20 triệu đồng, số tiến bạn được hoàn lại trong tháng là…
+A.200.000 VND 
+B.2,4 triệu VND 
+C.800.000 VND 
+D.300.000 VND 
+
+Câu 7: ( Bảo toàn ) Để giảm thiểu chi phí cơ hội khi sử dụng sản phẩm của ngân hàng, bạn nên… 
+A.Tập trung săn các sản phẩm ngân hàng có lãi cao 
+B.So sánh lợi nhuận và rủi ro giữa các sản phẩm của ngân hàng và kênh đầu tư khác 
+C.Tăng số tiền gửi vào tài khoản tiết kiệm 
+D.Tất cả các phương án trên 
+
+
+Câu 8: ( Kiếm tiền) Theo báo cáo xu hướng nhân tài ESG ( 2025), nhu cầu tuyển dụng người lao động có kỹ năng xanh so với lao động thông thường là 
+A.154,6% 
+B.15,8% 
+C.85,6% 
+D.102,7% 
+
+
+Câu 9: ( Kiếm tiền ) Khi đàm phán lương, bạn cần xác định con số tối thiểu mình có thể chấp nhận. Con số đó dựa trên 
+A.Bằng cấp của bạn và danh tiếng của doanh nghiệp ứng tuyển 
+B.Chi phí sinh hoạt, kinh nghiệm và giá trị thị trường của vị trí ứng tuyển 
+C.Phong cách làm việc, số năm kinh nghiệm và mạng lưới quan hệ của bạn 
+D.Tổ tiên mách bảo  
+
+
+Câu 10: ( đầu tư ) Theo số liệu báo cáo của tổ chức biến đổi khí hậu và năng lượng ASEAN, năm 2025 quốc gia nào đang dẫn đầu khu vực về quy mô và các dự án điện mặt trời, điện gió và thủy điện ? 
+A.Thái lan 
+B.Singapo 
+C.Nhật bản 
+D.Việt Nam 
+
+
+3.ĐỀ CASTING CỦA KINH TẾ QUỐC DÂN 
+
+Câu 1: ( Bảo toàn, kiếm ) Bạn có offer mới lương 25 triệu, cao hơn mức hiện tại 5 triệu. Bạn báo với sếp và được tăng lên đúng bằng mức đó. Hành động khôn ngoan nhất là?
+A.Nghỉ việc vì tự ái 
+B.Ở lại vì không mất công chuyển việc mà vẫn được tăng 
+C.Ở lại nhưng kế hoạch nghỉ trong 6 tháng tới 
+D.So sánh đãi ngộ và cơ hội phát triển trước khi quyết định 
+
+
+Câu 2: ( Kiếm ) Đâu là chiến lực tăng thu nhập được kiến nghị khi chưa có thể tăng lương ở công việc hiện tại ? 
+A.Góp vốn đầu tư chung với bạn bè 
+B.Làm tiếp thị liên kết sau giờ làm 
+C.Vay vốn khởi nghiệp 
+D.Xem tarot tìm kiếm lời khuyên từ vũ trụ 
+
+Câu 3: ( Kiếm) Một sản phẩm có giá bán là 250.000 VND. Bạn chạy ads với chi phí 1,5 triệu VND được 10 đơn. Phí nền tảng 10%, mỗi đơn có lời 
+A.75.000 VND 
+B.100.000 VND 
+C.110.000 VND 
+D.124.000 VND 
+
+
+Câu 4: ( Tiêu, tích lũy) Bạn có: (1) công việc full-time với lương cổ định 8 triệu VND và (2) các khoản đầu tư cho thu nhập biến động. Cách quản lý dòng tiền tối ưu của bạn là...
+A.Có bao nhiêu tiêu bấy nhiêu
+B.Dùng khoản (1) chỉ tiêu cơ bản, tiết kiệm/ tái đầu tư khoản (2)
+C.Chia đều cả hai vào chỉ tiêu và tiết kiệm
+D.Tiết kiệm đầu tư khoản (1), chỉ tiêu cơ bản bằng khoản (2)
+
+Câu 5: ( Kiếm ) Bạn được offer một hợp đồng freelance 10 triệu đồng, bạn được yêu cầu ứng trước 8 triệu cho phần mềm làm việc, lúc này bạn nên… 
+A.Lưu hóa đơn để cộng vào hợp đồng 
+B.Đề nghị dùng phần mềm miễn phí 
+C.Tạm ứng bằng quỹ khẩn cấp 
+D.Cảm ơn và hẹn gặp lại 
+
+
+Câu 6: (tích lũy) Mỗi khi dư tiền, bạn chuyển tiền vào “ ngăn tiết kiệm” trên app ngân hàng. Số tiền này sau đó phục vụ chi tiêu hàng tháng của bạn. Đây là hình thức 
+A.Tiết kiệm ngắn hạn 
+B.Tiết kiệm dài hạn 
+C.Tiết kiệm mạo hiểm 
+D.Tiết kiệm như không 
+
+
+Câu 7: ( Tích lũy ) Bạn gửi 1 tỷ đồng, kỳ hạn 6 tháng, lãi suất 6,5%/năm. Sau 3 tháng bạn cần 300 triệu. Chọn phương án giúp bạn tối ưu hóa lãi suất cho phần còn lại
+A.Rút toàn bộ sổ, gửi lại 700 triệu mới 
+B.Rút 300 triệu, phần còn lại giữ nguyên lãi ban đầu 
+C.Rút 300 triệu nếu ngân hàng cho rút từng phần, phần còn lại giữ nguyên kỳ hạn 
+D.Rút 300 triệu, phần còn lại chuyển sang kỳ hạn 3 tháng 
+
+
+Câu 8: ( Đầu tư) SAFE ( Simple agreement for future equity) mang lại lợi ích lớn nhất cho nhà đầu tư startup ở điểm nào 
+A.Startup sớm sáp nhập 
+B.Định giá dòng gọi vốn tăng mạnh 
+C.Tỷ lệ burn rate giảm đột ngột 
+D.Founder bị pha loãng cổ phần 
+
+
+Câu 9: ( Hiểu biết chung, ESG) Tại Việt Nam, lĩnh vực kinh doanh nào sau đây Không phải thực hiện kiểm kê khí nhà kính 
+A.Năng lượng 
+B.Xây dựng 
+C.Giao thông vận tải 
+D.Phát triển đô thị 
+
+
+Câu 10: Thị trường tín chỉ cacbon là một phần của… 
+A.Thị trường bảo hiểm 
+B.Thị trường chứng khoán 
+C.Thị trường vốn 
+D.Thị trường tiền tệ 
+
+4.ĐỀ CASTING CỦA ĐẠI HỌC THƯƠNG MẠI 
+
+Câu 1: Bạn là founder của một startup. Sau 3 vòng gọi vốn, bạn nắm giữ 15%, hệ quả nguy hiểm nhất là 
+A.Không còn động lực phát triển công ty 
+B.Không kiểm soát được chiến lược sản phẩm 
+C.Không có quyền phủ quyết các quyết định M&A 
+D.Không có đủ quyền bảo vệ nhà đầu tư cũ 
+
+Câu 2: Thước đo nào cho thấy startup đang vận hàng bền vững dù chưa có lãi 
+A.Burn multiple <1 
+B.EBITDA margin >10% 
+C.LTV/ CAC > 1
+D.Monthly recurring revenue (MRR) tăng 20% 
+
+Câu 3: Bạn có 500 triệu VND cần chi tiêu trong 4 đợt, mỗi đợt cách nhau 3 tháng. Giải pháp nào giúp bạn tối ưu lãi và thanh khoản
+A.Gửi toàn bộ kỳ hạn 12 tháng 
+B.Gửi không kỳ hạn 
+C.Mở 4 sổ tiết kiệm kỳ hạn 3 tháng, đáo hạn chênh lệch nhau 3 tháng 
+D.Gửi 1 sổ 6 tháng, sau đó chia tiếp khi đáo hạn 
+
+Câu 4: Từ ngày 1/7/2025, theo nghị quyết 94/2025 NĐ - CP, người vay tiền qua các ứng dụng trực tuyến bắt buộc phải… 
+A.Bảo lãnh vay vốn 
+B.Được kiểm tra ứng dụng trên CIC 
+C.Có tổng thu nhập tối thiểu 10 triệu đồng/ tháng 
+D.Tất cả phương án trên 
+
+
+Câu 5: Bạn vay 40 triệu đồng mua xe máy, lãi suất 12%/năm tính trên dư nợ giảm dần, trả góp đều trong 12 tháng. Tổng số tiền phải trả là
+A.0 VND, bạn bùng nợ 
+B.50,3 triệu VND 
+C.56,3 triệu VND 
+D.42,6 triệu VND 
+
+
+Câu 6: Phương pháp trả nợ cá nhân snowball tạo hiệu ứng tâm lý tích cực nhờ yếu tố nào? 
+A.Giảm tổng lãi 
+B.Trả nợ nhỏ trước 
+C.Không cần tính toán 
+D.Lãi gộp thấp 
+
+
+Câu 7: Công việc freelance chạy quảng cáo của bạn thu nhập 150 triệu VND. Để hợp pháp và tối ưu thuế, bạn nên 
+A.Không khai báo gì vì chưa tới mức đóng thuế 
+B.Đăng ký hộ kinh doanh và đóng thuế khoán 
+C.Mở công ty Trách nhiệm hữu hạn để khấu trừ chi phí 
+D.Đăng ký cá nhân kinh doanh và tự khai thuế thu nhập cá nhân từng lần 
+
+
+Câu 8: Khi đầu tư và căn hộ đang xây ( Off - plan), rủi ro thường gặp là gì? 
+A.Khó bán lại với giá tăng nhanh 
+B.Không vay được ngân hàng 
+C.Bị trì hoãn bàn giao, chậm pháp lý 
+D.Không được miễn trừ thuế đất 
+
+Câu 9: Hệ số P/B thấp trong định giá cổ phiếu doanh nghiệp bất động sản thường cho thấy điều gì? 
+A.Doanh nghiệp đang bị định giá quá cao 
+B.Doanh nghiệp đang có khoản lỗ lớn 
+C.Doanh nghiệp có giá trị trường thấp hơn giá trị sổ sách 
+D.Doanh nghiệp có phong thủy không tốt 
+
+
+Câu 10: Ngân hàng Nhà nước Việt Nam khuyến khích tài chính xanh như thuế nào? 
+A.Cấp bù lãi suất cho các khoản vay xanh 
+B.Hỗ trợ các ngân hàng thương mại huy động trái phiếu xanh trong nước theo ICMA 
+C.Yêu cầu các ngân hàng thương mại phát triển và ứng dụng các sản phẩm, dịch vụ ngân hàng xanh 
+D.Cung cấp bảo lãnh tín dụng cho các dự án xanh 
+
+
+5.ĐỀ CASTING ĐẠI HỌC KIẾN TRÚC HÀ NỘI 
+
+Câu 1: ( Hiểu biết chung ) Theo Viet Nam holding (2025), cứ 100 người Việt Nam thì có 9 người là… 
+A.Nhà đầu tư mạo hiểu 
+B.Chuyên viên tài chính 
+C.Nhà đầu tư bất động sản 
+D.Nhà đầu tư chứng khoán 
+
+Câu 2: ( Đầu tư)  Bạn có 10 triệu VND, 1 cổ phiếu A có giá 10.000 VND. Nếu ký quỹ 50% thì bạn có thể mua bao nhiêu cổ phiếu 
+A.5.000 
+B.1.000 
+C.10.000
+D.2.000 
+
+Câu 3: ( Đầu tư ) Nếu bạn bị nhận lệnh gọi bổ sung ký quỹ ( Call margin ) mà không nộp thêm tiền hay tăng số lượng chứng khoán thế chấp 
+A.Bạn sẽ bị cấm giao dịch trong 3 năm 
+B.Bạn sẽ bị khởi tố hình sự 
+C.Công ty chứng khoán sẽ bán giải chấp cổ phiếu của bạn 
+D.Công ty chứng khoán sẽ gọi bạn cháy máy 
+
+Câu 4: Trong phân tích cơ bản khi đầu tư chứng khoán, bạn không sử dụng đến chỉ báo 
+A.ROA
+B.RSI
+C.P/E 
+D.EPS 
+
+Câu 5: Theo báo cáo xu hướng tiêu dùng tại Việt Nam ( 2025 ) của Cimigo, các hộ gia đình Việt Nam đang… 
+A.Gia tăng đầu tư tài chính 
+B.E ngại đầu tư tài chính 
+C.Gia tăng tỷ lệ tiết kiệm 
+D.Mở rộng các nguồn thu nhập 
+
+
+Câu 6: Bạn có điểm tín dụng cao, khi đó rủi ro trả được nợ … và khả năng cho vay…
+A.cao - thấp 
+B.thấp - cao 
+C.cao - cao 
+D.thấp - thấp 
+
+Câu 7: Bạn vay 40 triệu VND từ ngân hàng với lãi suất đơn 10% mỗi năm. Sau 4 năm, tổng số tiền phải trả là… 
+A.70 triệu VND 
+B.20 triệu VND 
+C.50 triệu VND 
+D.60 triệu VND 
+
+
+Câu 8: Hợp nhất nợ ( Debt consolidation ) giúp được gì cho người vay? 
+A.Xóa nợ xấu 
+B.Cắt giảm số nợ 
+C.Gộp và giảm lãi 
+D.Chẳng giúp gì, chỉ đỡ đau đầu 
+
+Câu 9: Ưu điểm chính của phương pháp trả nợ cách tuần ( Biweenly ) là gì
+A.Dễ tính 
+B.Rút ngắn kỳ hạn 
+C.Lãi suất thấp 
+D.Trả ít hơn mỗi lần 
+
+Câu 10: bạn là một nhà sáng tạo nội dung bán khóa học Excel, Tệp khách hàng mục tiêu của bạn đã bão hòa. các mở rộng bền vững là gì 
+A.Hạ giá liên tục để cạnh tranh 
+B.Ra thêm các gói hướng dẫn 1 - 1
+C.Làm thêm eBook hướng dẫn 
+D.Chạy Affiliate cho khóa học khác 
+
+
+6.ĐỀ CASTING ĐẠI HỌC BÁCH KHOA HÀ NỘI 
+
+Câu 1: Theo cục thống kê, nhóm hàng hóa nào sau đây chiếm tỷ trọng số lớn nhất trong CPI của Việt Nam giai đoạn 2020-2025 
+A.Nhà ở, điện nước, chất đốt 
+B.Thuốc và dịch vụ y tế 
+C.Hàng ăn và dịch vụ ăn uống 
+D.Giáo dục 
+
+Câu 2: Bạn 25 tuổi, 4 năm kinh nghiệm, lương mãi dưới 12 triệu. Đồng nghiệp mới vào lương 15 triệu. Bạn nên làm gì đầu tiên 
+A.Xin nghỉ việc ngay 
+B.Thương lượng lại lương với sếp 
+C.Rà soát kỹ portfolio và đối chiếu giá trị trường 
+D.Làm thêm job ngoài để bù lại 
+
+Câu 3: Trong mô hình lương thưởng 3P, năng lực cá nhân của bạn được thể hiện qua 
+A.Position 
+B.Person 
+C.Performance 
+D.Potential 
+
+
+Câu 4: Bạn vay ngân hàng 200 triệu VND, trả trước lãi, lãi 5%/ năm. lãi suất thực tế là bao nhiêu %? 
+A.5%/ năm 
+B.5,26%/ năm 
+C.10%/ năm 
+D.10,26%/ năm 
+
+
+Câu 5: Thông thường, trong thời gian ân hạn của khoản vay, bạn sẽ
+A.Không phải trả lãi 
+B.Không phải trả nợ gốc 
+C.Không phải trả bất kỳ khoản tiền nào 
+D.Được hưởng lãi ưu đãi 
+
+
+Câu 6: Theo VnEconomy ( 2025 ), lĩnh vực khởi nghiệp tại Việt Nam đang thu hút nhiều vốn đầu tư nhất là… 
+A.Thương mại điện tử 
+B.Công nghệ viễn thông 
+C.Công nghệ tài chính 
+D.Công nghệ nông nghiệp và thực phẩm 
+
+
+Câu 7: Theo khảo sát của báo dân trí ( 2025 ) kênh đầu tư chính của nhiều người Việt Nam lựa chọn là 
+A.Bất động sản 
+B.Chứng khoán 
+C.Tài sản mã hóa 
+D.Vàng 
+
+Câu 8: Bạn tham gia một quỹ đầu tư tại Việt Nam, bạn có thể rút vốn khi nào? 
+A.Khi quỹ hoàn thành dự án cụ thể 
+B.Bất cứ lúc khi thị trường có nhu cầu 
+C.Khi quỹ niêm yết trên sàn giao dịch chứng khoán 
+D.Theo thời hạn quy định trong điều lệ quỹ 
+
+
+Câu 9: Tỷ lệ ký quỹ ban đầu do công ty chứng khoán của bạn quy định, Con số không thấp hơn 
+A.30%
+B.40%
+C.50%
+D.60%
+
+
+Câu 10: Theo thời báo ngân hàng, tổng giá trị rút ròng các quỹ đầu tư trong quý I/2025 lên tới 4.700 tỷ đồng, phản ánh 
+A.Năng lực quản lý quỹ đang giảm sút 
+B.Tâm lý phòng thủ của nhà đầu tư khi thị trường biến động 
+C.Kinh tế khó khăn khiến các quỹ giải thể 
+D.Nhà đầu tư chuyển dịch dần sang tài sản mã hóa 
+
+
+7.ĐỀ CASTING ĐẠI HỌC DUY TÂN 
+
+Câu 1:(Tích lũy và đầu tư )  Giá vàng không thể tăng nhanh hơn đáng kể so với lạm phát khi nào? 
+A.Luôn luôn
+B.Trong ngắn hạn 
+C.Trong dài hạn 
+D.Trong trung hạn 
+
+
+Câu 2: Bạn có thể đạt mức lãi suất cao hơn lợi nhuận sau thuế với cùng một khoản đầu tư bằng cách nào? 
+A.Nắm giữ tài sản trong dài hạn 
+B.Gia tăng tần suất giao dịch 
+C.Khởi nghiệp với lợi nhuận từ đầu tư 
+D.Trốn thuế 
+
+Câu 3: Đây là dạng biểu đồ gì trong đầu tư chứng khoán 
+
+A.Biểu đồ nến 
+B.Biểu đồ dạng đường 
+C.Biểu đồ hình thang 
+D.Biểu đồ dạng cột 
+
+
+Câu 4: Việc bạn chi tiêu nhiều hay ít quyết định bởi 
+A.Tình hình kinh tế xã hội 
+B.Thu nhập hàng tháng 
+C.Thái độ và hành vi cá nhân 
+D.Tất cả phương án trên 
+
+Câu 5: Bạn vay ngân hàng để mua một chiếc laptop mới phục vụ công việc. Phương thức hoàn trả nào sau đây phù hợp nhất cho mục đích này? 
+A.Tín dụng đen 
+B.Tín dụng hoàn trả một lần 
+C.Tín dụng tuần hoàn 
+D.Tất cả các phương án trên 
+
+
+Câu 6: Bạn có một khoản tiền gửi tiết kiệm kỳ hạn 5 năm với lãi suất dưỡng sinh 5%/ năm trong khi bạn bè đồng trang lứa đầu tư sinh lời chóng mặt bạn nên làm gì ? 
+A.Rút tiền để đầu tư 
+B.Rút tiền để gửi sang ngân hàng khác lãi suất cao hơn 
+C.Không làm gì cả, mỗi khoản tiền của bạn đã có kế hoạch riêng 
+D.Than thân trách phận 
+
+
+Câu 7: Bạn có thu nhập hàng tháng 12 triệu VND, theo quy tắc 50/30/20, bạn có thể chi bao nhiêu tiền để du lịch chữa lành 
+A.2,4 triệu VND 
+B.3,6 triệu VND 
+C.6 triệu VND 
+D.9,5 triệu VND 
+
+Câu 8: Bạn đặt mục tiêu 4 năm nữa du học với 800 triệu VND trong tay. Nếu tiền lãi đều 8%/ năm và bạn rót vốn mỗi đầu năm, vậy mỗi năm bạn cần đổ xăng bao nhiêu để cất cánh ? 
+A.80 triệu vnd 
+B.115 triệu vnd
+C.165 triệu vnd 
+D.285 triệu vnd 
+
+Câu 9: Theo số liệu của ngân hàng nhà nước ( 2024 ) tỷ trọng dư nợ cho vay phục vụ đời sống và tiêu dùng Việt Nam so toàn nền kinh tế là… 
+A.3% 
+B.82% 
+C.20% 
+D.37%
+
+
+Câu 10: Theo số liệu của BloombergNEF ( 2025 ) xu hướng đầu tư nào sau đây mạnh mẽ nhất trong ngành năng lượng toàn cầu 
+A.Năng lượng mặt trời 
+B.Năng lượng tái tạo 
+C.Năng lượng hóa thạch 
+D.Năng lượng hạt nhân 
+
+8.ĐỀ CASTING ĐẠI HỌC FPT ĐÀ NẴNG
+
+Câu 1: Với khoản thu nhập nào sau đây, bạn được nhận ưu đãi về thuế 
+A.Lợi nhuận đầu tư cổ phiếu 
+B.Sổ tiết kiệm cho hưu trí 
+C.Lương làm thêm giờ 
+D.Tất cả phương án trên 
+
+
+Câu 2: Khoản đầu tư nào sau đây cung cấp thu nhập định kỳ cho bản thân 
+A.Cổ phiếu 
+B.Đầu cơ lướt sóng 
+C.Vàng
+D.Đầu tư cho bản thân 
+
+
+Câu 3: Độ lệch chuẩn của lợi nhuận trong đầu tư cổ phiếu được hiểu như nào? 
+A.Một khoản đầu tư với độ lệch chuẩn cao có thể “ được ăn cả , ngã về không “ 
+B.Một khoản đầu tư với độ lệch chuẩn thấp có thể “ được ăn cả , ngã về không”
+C.Một khoản đầu tư với độ lệch chuẩn cao có nhiều khả năng bị thu hồi 
+D.Một khoản đầu tư với độ lệch chuẩn thấp thường không thu hút được đầu tư 
+
+
+Câu 4: Bạn tính toán khả năng thanh toán các khoản nợ tín dụng mua sắm của mình như nào? 
+A.Giá trị tài sản ngắn hạn / nợ ngắn hạn 
+B.Tài sản có tính thanh khoản cao / Chi tiêu định kỳ 
+C.Số tiền thanh toán nợ định kỳ / Thu nhập định kỳ 
+D.Số tiền tiết kiệm định kỳ / tổng thu nhập định kỳ 
+
+
+Câu 5: Thẻ ngân hàng của bạn xuất hiện một khoản chi tiêu bất thường. Bạn ngay lập tức 
+A.Tra soát thông tin giao dịch 
+B.Đăng xuất khỏi tài khoản ngân hàng 
+C.Khóa thẻ 
+D.Up locket 
+
+Câu 6: Đây là hình ảnh đại diện 
+
+A.Nền tảng giao dịch chứng khoán SDG
+B.Các mục tiêu phát triển bền vững của liên hợp quốc 
+C.Tổ chức phi chính phủ về giáo dục tài chính cá nhân 
+D.Thị trường tín chỉ các - bon khu vực châu á thái bình dương 
+
+Câu 7: Bạn có thu nhập 20 triệu VND, theo quy tắc 6 lọ, số tiền bạn nên dành cho giáo dục là 
+A.1 triệu vnd
+B.2 triệu vnd 
+C.10 triệu vnd 
+D.0 đồng bạn đã hài lòng với mức lương hiện tại và không muốn học hỏi gì thêm 
+
+
+Câu 8: Bạn muốn 60 tuổi gác phím, cất lap, sống chill với 3 tỷ trong tài khoản. Nếu bắt đầu từ năm 30 tuổi với lãi suất 8% / năm, mỗi năm bạn cầu đầu tư 
+A.26,5 triệu vnd 
+B.35 triệu VND
+C.56 triệu vnd 
+D.10,3 triệu vnd 
+
+Câu 9: Theo khảo sát “ Nhận thức và hành vi tiêu dùng xanh năm 2024” có bao nhiêu người tiêu dùng cho rằng giá cả là rào cản lớn nhất cho tiêu dùng xanh 
+A.23%
+B.56%
+C.78%
+D.100%
+
+Câu 10: Theo báo cáo ngân hàng số của Incorp 2025, dịch vụ ngân hàng trực tuyến tại Việt Nam đã tăng so với cùng kỳ năng trước 
+A.10%
+B.50%
+C.75%
+D.hơn 100% 
+
+9.ĐỀ CASTING ĐẠI HỌC VIỆN HÀNG KHÔNG VIỆT NAM
+
+Câu 1: Tổng thu nhập tháng này là 16 triệu, bạn chi 8 triệu cho ăn uống, nhà ở và đi lại. 4 triệu cho giải trí, mua sắn. 3 triệu cho tiết kiệm. Khoản tiền không thể không tiêu của bạn chiến 
+A.10% 
+B.25%
+C.60% 
+D.18,75%
+
+Câu 2: Theo báo cáo việc làm AI toàn cầu của Pwc 2024, nhu cầu tuyển dụng cho các vai trò liên quan AI 
+A.Tăng nhanh hơn so với các ngành khác 3,5 lần 
+B.Giảm nhẹ so với các ngành nghề khác 
+C.Tăng không đáng kể
+D.Giữ nguyên 
+
+
+Câu 3: Bạn là người có khả năng chịu áp lực tốt và làm việc hiệu quả hơn nếu có động lực tài chính. Mô hình đãi ngộ nào sau đây phù hợp với bạn 
+A.Lương cứng + phụ cấp 
+B.Lương net + Cơ hội đào tạo mở rộng mối quan hệ 
+C.Lương Gross + Thời gian làm việc linh hoạt 
+D.Lương cứng + thưởng KPIs
+
+
+Câu 4: Những chi phí núp lùm, chẳng ai để ý nhưng vẫn âm thầm làm ví bạn xẹp dần 
+A.Chi phí cơ hội 
+B.Thời gian 
+C.Chi phí ẩn 
+D.Điểm tín dụng 
+
+
+Câu 5: Bạn vay ngân hàng 200 triệu, với lãi suất 8%/ năm, bạn bàn hoàng nhận ra mình mất … 
+A.Thời gian đi làm để trả nợ 
+B.Cơ hội sử dụng 16 triệu đồng lãi vay để đầu tư hoặc chi tiêu khác 
+C.Lãi suất cố định của tài khoản tiết kiệm 
+D.Không có gì cảm vì đây là khoản vay có chi phí nhất thời
+
+
+Câu 6: Lương tháng 20 triệu VND, mỗi tháng phải trả nợ gốc 7 triệu, lãi 1 triệu, chỉ số DTI của bạn là 
+A.10% 
+B.25%
+C.40% 
+D.0% bạn quyết định trốn nợ cho nhẹ lòng 
+
+
+Câu 7: Không thể trả nợ tín dụng đúng hạn. bạn giảm áp lực tài chính bằng cách 
+A.Vay người thân, bạn bè để trả nợ 
+B.Mở thêm thẻ tín dụng để xoay vòng vốn 
+C.Tăng hạn mức tín dụng hiện tại 
+D.Dâng sao giải hạn
+
+
+Câu 8: Quy mô thị trường tín dụng cá nhân trường lớn hơn ở những quốc gia nào 
+A.ác nước phát triển với dân số già 
+B.Các nước đang áp dụng chính sách tiền tệ thắt chặt 
+C.Các nước đang phát triển với dân số trẻ 
+D.Các nước tăng trưởng kinh tế chậm 
+
+
+Câu 9: Bạn rút tiền trước hạn từ tài khoản tiết kiệm 12 tháng. Chi phí ẩn bạn phải trả là 
+A.Ảnh hưởng phòng thủ tháng này 
+B.Mất toàn bộ hoặc một phần lãi 
+C.Thời gian xử lý giao dịch rút tiền  
+D.Hạ điểm tín dụng cá nhân 
+
+
+Câu 10: Bạn nạp đều vào tài khoản tiết kiệm 2 triệu mỗi tháng với lãi suất 6%/ năm. Lãi cộng dồn hàng tháng. sau 3 năm bạn lãi 
+A.2 triệu 
+B.6,7 triệu 
+C.8,4 triệu 
+D.10,3 triệu 
+
+
+10.ĐỀ CASTING ĐẠI HỌC VĂN HIẾN
+
+Câu 1: Bạn đưa giấy tờ sử hữu căn hộ chung cư của mình cho ngân hàng để lấy một khoản tín dụng. Trong quá trình trả nợ, bạn vẫn sống trong căn nhà đó. đây gọi là hình thức 
+A.Tín dụng tín chấp 
+B.Tín dụng đen 
+C.Tín dụng cầm cố 
+D.Tín dụng thế chấp 
+
+
+Câu 2: Các tiêu chí 6C trong thẩm định tín dụng và chấm điểm tín dụng cá nhân KHÔNG bao gồm yếu tố nào sau đây 
+A.Chuyên môn nghề nghiệp 
+B.Tính cách 
+C.Năng lực pháp lý và tài chính 
+D.Vốn chủ sở hữu và tài sản đảm bảo 
+
+
+Câu 3: 02 yếu tố đầu tiên bạn cần xác định khi có nhu cầu mua nhà là ? 
+A.Loại nhà đất và phong cách nội thất 
+B.Vị trí và thời gian 
+C.Mục đích và mức chấp thuận rủi ro 
+D.Bản đồ sao của bạn 
+
+
+Câu 4: Báo động, chi phí thuê nhà đang chiếm… thu nhập của bạn 
+A.15% 
+B.30% 
+C.50%
+D.Trên 50%
+
+Câu 5: Bạn có thể đạt trạng thái an toàn tài chính ở đội tuổi nào sau đây 
+A.60 - 45 tuổi 
+B.25 - 40 tuổi 
+C.18 - 25 tuổi 
+D.Mọi độ tuổi đều có thể 
+
+
+Câu 6: Bạn vay 300 triệu mua nhà, mỗi năm trả lãi 9%/ năm. Chi phí cơ hội bạn bỏ ra là 
+A.27 triệu VND 
+B.300 triệu VND 
+C.Quyền sở hữu căn nhà 
+D.Bạn không thể sử dụng tiền đó cho mục đích khác  
+
+
+Câu 7: Bạn nhắm 4 năm nữa cần 800 triệu du học. Nếu mỗi cuối năm bạn bỏ ống và lợi nhuận 8% / năm thì mỗi năm bạn cần góp bao nhiêu để giấc mơ không trượt visa
+A.35,8 triệu 
+B.98 triệu 
+C.125,5 triệu 
+D.177,5 triệu 
+
+
+Câu 8: Quẹt thẻ 20 triệu xong quên trả, để treo nợ 90 ngày. Với lãi 18%/ năm và phí chậm trả 4% , tổng số tiền bạn phải trả là 
+A.21,7 triệu vnd 
+B.36 triệu vnd 
+C.24,5 triệu vnd 
+D.0 VND bạn cung cấp cccd cho một ứng dụng tài chính và được thanh toán nợ tự động 
+
+
+Câu 9: Trong đàm phán lương, lợi thế BATNA đồng nghĩa với việc bạn có 
+A.Nhiều kinh nghiệm hơn mức nhà tuyển dụng yêu cầu 
+B.Mạng lưới mqh chuyên nghiệp sâu rộng 
+C.“ Tay trong” tại doanh nghiệp đang ứng tuyển 
+D.Nhiều offer công việc khác nhau để lựa chọn 
+
+
+Câu 10: Theo báo cáo xu hướng nhân tài ESG ( 2025), người lao động có kỹ năng xanh được tuyển dụng nhiều hơn bao nhiêu phần trăm 
+A.54,6% 
+B.15%
+C.25,6% 
+D.100% 
+
+
+11.ĐỀ CASTING ĐẠI HỌC MỞ HÀ NỘI
+
+Câu 1: Theo cổng thông tin điện tử chính phủ 2024, nền kinh tế số Việt Nam đang 
+A.Gặp nhiều khó khăn trong hạ tầng kỹ thuật công nghệ 
+B.Thiếu định hướng về chủ trương phát triển cụ thể 
+C.Là ưu tiên phát triển thứ hai sau nền kinh tế xanh 
+D.Tăng trưởng nhanh nhất khu vực đông nam á 
+
+
+Câu 2: Bạn kinh doanh sản phẩm số có chi phí biên gần như bằng 0, mục tiêu tối ưu chính là 
+A.Giảm chi phí vận hàng 
+B.Tối đa hóa doanh thu trọn đời trên mỗi khách hàng 
+C.Giảm tỷ lệ hoàn tiền 
+D.Tăng lượt chia sẻ sản phẩm 
+
+
+Câu 3: Bạn kinh doanh sản phẩm là template thiết kế ( Canva…). Bạn tối ưu khả năng viral thực ? 
+A.Đặt giá thấp nhất có thể 
+B.Làm tutorial ngắn đi kèm, dễ chia sẻ 
+C.Tối ưu SEO cho trang bán hàng 
+D.Chạy ads từ chính nền tảng thiết kế 
+
+
+Câu 4: Theo cổng thông tin điện tử chính phủ ( 2024). Chỉ số hệ sinh thái khởi nghiệp toàn cầu của Việt Nam đang 
+A.Chững lại
+B.Giữ vững 
+C.Lung lay
+D.Thăng hạng 
+
+Câu 5: Bạn có kế hoạch nghỉ hưu sớm sau 20 năm nữa với 2 tỷ VND. Nếu lãi suất trung bình là 6%/ năm, số tiền bạn cần tiết kiệm mỗi tháng từ bây giờ là
+A.Khoảng 1,75 triệu VND 
+B.Khoảng 5,3 triệu VND 
+C.Khoảng 10,2 triệu VND 
+D.Việc gì khó quá bỏ qua 
+
+Câu 6: Trong danh mục đầu tư của các quỹ hưu trí tự nguyện tại Việt Nam, tài sản nào chiếm tỷ trọng lớn nhất 
+A.Trái phiếu chính phủ 
+B.Cổ phiếu blue chip 
+C.Bất động sản 
+D.Tiền gửi ngân hàng 
+
+
+Câu 7: Biên độ dao động giá trong ngày giao dịch của cổ phiếu niên yết trên sàn giao dịch nào là cao nhất ? 
+A.UPCOM 
+B.HOSE
+C.HNX
+D.OTC 
+
+
+Câu 8: Theo khảo sát của cục thống kê, thành phố nào sau đây có chỉ số giá sinh hoạt không cao nhất cả nước
+A.TP HCM 
+B.TP HÀ NỘI 
+C.TP ĐÀ NẴNG
+D.TP HẢI PHÒNG 
+
+
+Câu 9: Nguyên nhân chủ yếu khiến chỉ số giá tiêu dùng CPI tại Việt Nam 3 tháng đầu năm 2025 tăng so với cùng kỳ năm trước là 
+A.Chỉ số nhóm hàng ăn và dịch vụ ăn uống tăng 
+B.Chỉ số giá dịch vụ tài chính tăng 
+C.Chỉ số giá nhập khẩu hàng hóa tăng
+D.Tất cả phương án trên 
+
+
+Câu 10:  Bạn tích lũy được 2 tỷ đồng và muốn rút để sống từ lãi đầu tư. Theo quy tắc 4%, mỗi năm bạn có thể rút bao nhiêu mà vẫn giữ vốn bền vững
+A.80 triệu VND 
+B.120 triệu VND 
+C.500 triệu VND 
+D.780 triệu VND 
+
+
+12.ĐỀ CASTING HỌC VIỆN NGÂN HÀNG
+
+Câu 1: Bạn được offer công việc mới với mức lương 18 triệu / tháng không bao gồm bảo hiểm xã hội và hợp đồng. Bạn nên 
+A.Nhận ngay vì lương cao hơn mức thị trường 
+B.Từ chối vì thiếu bảo hiểm là vi phạm pháp luật 
+C.Thương lượng để tăng lương và tự lo bảo hiểm ngoài 
+D.Nhận tạm thời đồng thời tìm công việc khác 
+
+
+Câu 2: Bạn chuẩn bị đánh giá hiệu suất để xét duyệt tăng lương nhưng công ty đang cắt giảm chi phí. Bạn nên 
+A.Hoãn việc đề xuất tăng lương vì dễ bị từ chối 
+B.Đề giữ nguyên lương những tăng phúc lợi mềm 
+C.Nhấn mạnh kết quả cá nhân và đề xuất tăng linh hoạt theo quý 
+D.Tìm job mới rồi ép công ty tăng nếu muốn giữ bạn 
+
+Câu 3: Bạn khởi nghiệp. Tăng trưởng tổng giá trị giao dịch ( GMV) mạnh nhưng đơn vị lại âm. Rủi ro là gì? 
+A.Bị thâu tóm giá rẻ 
+B.Không được định giá theo doanh thu 
+C.Cạn tiền mặt trước khi huề vốn 
+D.Không có giai đoạn phát triển 
+
+Câu 4: Theo báo cáo hệ sinh thái startup công nghệ Việt Nam ( 2024 ) của VinVentures các thương vụ nhỏ và vừa giá từ 1 - 5 triệu USD 
+A.18% 
+B.9%
+C.37%
+D.82% 
+
+
+Câu 5: Mục đích của bộ tài nguyên và môi trường thường thẩm định và đánh giá các tác động từ phía doanh nghiệp là gì ? 
+A.Xét duyệt cấp thêm hạn mức ngạch cac bon cho doanh nghiệp 
+B.Đánh giá chi phí và lợi nhuận trong chiến lược doanh nghiệp ESG 
+C.Đảm bảo rằng các dự án xanh tại Việt Nam đáp ứng các tiêu chuẩn môi trường quốc tế 
+D.Làm khó doanh nghiệp 
+
+
+Câu 6: Bạn gửi đều mỗi tháng vào tài khoản có lãi suất 8%/ năm. lãi nhập gốc hàng tháng. 10 năm nữa bạn muốn có 1 tỷ, mỗi tháng bạn gửi 
+A.1,65 triệu VND 
+B.5,4 triệu VND 
+C.850.000 VND 
+D.8,5 triệu VND 
+
+
+Câu 7: Thông thường khi gửi tiết kiệm bằng ngoại tệ ( USD) tại Việt Nam, bạn 
+A.Hưởng lãi suất cao hơn VND 
+B.Chịu thuế thu nhập cá nhân cao hơn gửi VND 
+C.Hưởng lãi suất rất thấp hoặc 0% 
+D.Không được gửi 
+
+
+Câu 8: Theo số liệu của ngân hàng nhà nước 2025, tiền gửi tiết kiệm của người dân Việt Nam tại hệ thống ngân hàng 
+A.Có tính thanh khoản cao hơn các khoản đầu tư 
+B.Đạt mức cao nhất trong thập kỷ vừa qua 
+C.Có xu hướng tăng nhẹ 
+D.Đang được hưởng mức lãi suất ưu đãi 
+
+
+Câu 9: Mã cổ phiếu A có mức hỗ trợ 20, kháng cự 40. Khi giá giảm xuống 15, mức kháng cự gần nhất của cổ phiếu là 
+A.18 
+B.20 
+C.30 
+D.40 
+
+Câu 10: Theo PwC ( 2025) thách thức lớn nhất trong việc xây dựng chiến lược tài chính và thu hút vốn đầu tư xanh tại Việt Nam là gì? 
+A.Nhà đầu tư nước ngoài đang thoát vốn 
+B.Các thủ tục giải ngân vốn quá cồng kềnh 
+C.Thiếu chuyên gia và nhân sự xanh 
+D.Khó khăn trong định nghĩa thế nào là xanh 
+
+
+13.ĐỀ CASTING HỌC VIỆN NGOẠI GIAO 
+
+Câu 1: Theo khảo sát của Microsoft năm 2025, tỷ lệ lao động Việt tìm đến AI vì không có đủ thời gian và năng lượng để hoàn thành công việc của mình là…
+A.10%
+B.23%
+C.45%
+D.76%
+
+Câu 2: Bạn góp vốn vào một startup công nghệ. Chỉ số nào phản ánh hiệu quả tăng trưởng bền vững nhất?
+A.Revenue CAGR
+B.Net Revenue Retention (NRR)
+C.ARPU
+D.CAC Payback Period
+
+
+Câu 3: Startup fintech của bạn có NRR = 140%. Điều này có nghĩa là gì?
+A.Doanh thu tăng chủ yếu nhờ khách hàng mới
+B.Chi phí vận hành tăng chậm hơn doanh thu
+C.Doanh thu từ khách hàng cũ đang tăng mạnh
+D.Khách hàng đang có hành vi dịch chuyển sang đối thủ
+
+Câu 4: Startup của bạn gọi vốn pre-seed với định giá 50 tỷ VND dù chưa có doanh thu. Phương pháp định giá nào có thể được sử dụng?
+A.DCF
+B.Asset-based
+C.Berkus Method
+D.P/E forward
+
+
+Câu 5: Quỹ đầu tư bạn chọn có tỷ trọng tiền mặt lớn trong danh mục nhưng hiệu suất vẫn kém. Khả năng cao là…
+A.Tiền mặt bị gửi sai kỳ hạn
+B.Chi phí vận hành ăn mòn lợi nhuận
+C.Mất cơ hội đầu tư trong giai đoạn tăng
+D.Tỷ trọng tiền mặt không ảnh hưởng NAV
+
+Câu 6:Sản phẩm nào sau đây KHÔNG thuộc danh mục tiết kiệm được bảo hiểm bởi Bảo hiểm tiền gửi Việt Nam (DIV)?
+A.Tiền gửi có kỳ hạn
+B.Tài khoản thanh toán tại ngân hàng
+C.Gói đầu tư trái phiếu qua app ngân hàng số
+D.Sổ tiết kiệm mở tại quầy
+
+
+Câu 7:Thiên kiến giá trị cảm nhận (Perceived Value Bias) là khi…
+A.Cùng mua một món hàng nhưng bạn khai thác được nhiều giá trị hơn người khác
+B.Bạn luôn cảm thấy mình không đủ tiền tiêu
+C.Bạn luôn cảm thấy bất an về tài chính cá nhân
+D.Bạn luôn loại bỏ cảm xúc khi đưa ra quyết định tài chính
+
+Câu 8:Bạn có khoản tiền gửi kỳ hạn 6 tháng với các lựa chọn sau:
+(1) Lãi 6%/năm nhận trước, hoặc
+(2) Lãi 6,2%/năm nhận cuối kỳ.
+Bạn cần tiền mặt ngay nên chọn…
+A.Phương án (1)
+B.Phương án (2)
+C.Không gửi
+D.Hai phương án như nhau
+
+Câu 9: Theo nghiên cứu của Ngân hàng HSBC, tỷ lệ nợ của hộ gia đình ở Việt Nam so với GDP đang…
+A.Giảm nhẹ, thể hiện người tiêu dùng ngày càng thận trọng
+B.Tăng mạnh, phản ánh xu hướng vay tiêu dùng ngày càng tăng
+C.Giảm mạnh, phản ánh hộ gia đình đang quản lý tài chính tốt hơn
+D.Giữ nguyên nhưng thể hiện sự cởi mở dần với đòn bẩy tài chính
+
+
+Câu 10: Theo số liệu của Ngân hàng Nhà nước, đã có bao nhiêu phần trăm ngân hàng thương mại tại Việt Nam có dư nợ dành cho tín dụng xanh lên tới 1.000 tỷ VND?
+A.1%
+B.5%
+C.10%
+D.30%
+
+
+14.ĐỀ CASTING ĐẠI HỌC GIAO THÔNG VẬN TẢI
+Câu 1:Theo báo cáo Thị trường lao động toàn cầu của WEF (2025), lĩnh vực chuyên môn có tỷ lệ tăng trưởng cao nhất tại Việt Nam là?
+A.Thương mại điện tử
+B.Phát triển kinh doanh
+C.Vận hành chuỗi cung ứng
+D.AI và máy học
+
+
+Câu 2:Vì sao nhiều nhà sáng tạo nội dung chọn bán sản phẩm số thay vì sản phẩm vật lý?
+A.Vì dễ được nền tảng ưu tiên hiển thị
+B.Vì không cần tạo nội dung quảng bá
+C.Vì không lo tồn kho, biên lợi nhuận cao
+D.Vì sản phẩm số dễ viral hơn
+
+
+Câu 3:Bạn bán eBook với giá 199.000 VND trên Gumroad. Phí nền tảng là 9%, phí thanh toán 3%. Lợi nhuận thực nhận khoảng…
+A.160.000 VND
+B.172.000 VND
+C.180.000 VND
+D.186.000 VND
+
+Câu 4:Thu nhập từ việc livestream bán hàng trên các nền tảng số cần kê khai thuế gì?
+A.Không cần kê khai
+B.Thuế thu nhập doanh nghiệp
+C.Thuế thu nhập cá nhân và thuế VAT theo hộ kinh doanh
+D.Thuế tiêu thụ đặc biệt
+
+
+Câu 5: Bạn tiết kiệm 50 triệu VND/năm và đầu tư với lãi suất 8%/năm. Bạn muốn tích lũy 3 tỷ VND để nghỉ hưu sớm. Bạn có thể đạt được mục tiêu sau…
+A.24 năm
+B.50 năm
+C.37 năm
+D.Không bao giờ
+
+Câu 6: Khi lạm phát tăng đột biến, gửi tiết kiệm kỳ hạn dài có thể khiến bạn…
+A.Sinh lời thực tế cao hơn do lãi suất giữ cố định
+B.Mất cơ hội hưởng lãi suất cao hơn nếu lãi suất tăng sau đó
+C.Được điều chỉnh lãi suất theo CPI
+D.Tự động rút trước hạn mà không mất lãi
+
+Câu 7:Khi thị trường điều chỉnh sâu, loại quỹ nào có thể buộc phải bán tài sản vào đúng đáy?
+A.Quỹ ETF
+B.Quỹ đóng
+C.Quỹ hưu trí
+D.Quỹ bảo hiểm nhân thọ
+
+Câu 8:Bạn chọn quỹ chỉ dựa vào hiệu suất 12 tháng gần nhất. Bạn có thể mắc sai lầm gì?
+A.Không biết quỹ có bị kiểm toán hay không
+B.Bỏ qua rủi ro phân bổ tài sản quá tập trung
+C.Đầu tư vào quỹ trái ngược với khẩu vị rủi ro
+D.Không được nhận cổ tức
+
+Câu 9:Một khoản đầu tư có độ lệch chuẩn cao có thể…
+A.“Được ăn cả, ngã về không”
+B.Mang lại lợi nhuận ổn định
+C.Có nhiều khả năng bị thu hồi
+D.Không thu hút được đầu tư
+
+Câu 10: Tổ chức tín dụng đầu tiên tại Việt Nam phát hành trái phiếu xanh theo tiêu chuẩn ICMA là…
+A.Ngân hàng TMCP Đầu tư và Phát triển Việt Nam (BIDV)
+B.Ngân hàng Nông nghiệp và Phát triển nông thôn Việt Nam (Agribank)
+C.Ngân hàng TMCP Công thương Việt Nam (VietinBank)
+D.Ngân hàng TMCP Ngoại thương Việt Nam (Vietcombank)
+
+15.ĐỀ CASTING ĐẠI HỌC GIA ĐỊNH 
+
+Câu 1:“F4” ngân hàng thương mại nhà nước Việt Nam KHÔNG bao gồm...
+A. Ngân hàng TMCP Công thương Việt Nam
+B. Ngân hàng TMCP Kỹ thương Việt Nam
+C. Ngân hàng TMCP Đầu tư và Phát triển Việt Nam
+D. Ngân hàng Nông nghiệp và Phát triển Nông thôn Việt Nam
+Câu 2: Bạn quyết định vay ngân hàng để khởi nghiệp trong lĩnh vực năng lượng tái tạo. Bạn làm thế nào để giảm thiểu chi phí cơ hội của khoản vay?
+A. Vay với số tiền lớn nhất có thể
+B. So sánh lãi suất vay giữa các ngân hàng
+C. Tăng thời hạn vay để giảm áp lực trả nợ
+D. Tìm hiểu kỹ về thị trường năng lượng tái tạo
+Câu 3: 03 yếu tố ảnh hưởng đến khoản thanh toán nợ vay hàng tháng của bạn là gì?
+A. Thu nhập, tài sản đảm bảo và hành vi tiêu dùng
+B. Số tiền vay, lãi suất và thời hạn vay
+C. Thu nhập, thời hạn vay và tình hình tài chính của bên cho vay
+D. Chu kỳ kinh tế, lãi suất và tài sản đảm bảo
+Câu 4:Theo số liệu báo cáo của tổ chức Biến đổi khí hậu & Năng lượng ASEAN, năm 2025 quy mô các dự án điện mặt trời, điện gió và thủy điện tại Việt Nam...
+A. Đứng đầu khu vực
+B. Giảm so với các nước khác trong khu vực
+C. Tăng so với các nước khác trong khu vực
+D. Có dấu hiệu chững lại vì thiếu vốn đầu tư
+Câu 5:Bạn sử dụng quy tắc 114 để tính lợi suất những khoản đầu tư của mình. Quy tắc này là “bạn thân nhất” của...
+A. Lãi suất đơn
+B. Lãi suất kép
+C. Lãi suất cố định hàng tháng
+D. Người giỏi toán
+Câu 6:Tháng 3/2022 bạn mua NFT giá 50 triệu. Năm 2025, bạn vào lại ví thấy... không ai mua. Bạn có thể làm gì lúc này?
+A. Thu thập thêm thông tin
+B. Coi đó là một khoản đầu tư thất bại
+C. Chờ trend và quay lại
+D. Tất cả các phương án trên
+Câu 7:Bạn liên tục mua chứng chỉ quỹ mở vào thời điểm NAV tăng mạnh theo sóng ngắn hạn. Bạn cần chuẩn bị tinh thần cho việc...
+A. Định giá sai và mua vào thấp hơn giá trị thực
+B. Gánh chi phí giao dịch và rủi ro thời điểm cao
+C. Không được mua nếu vượt hạn mức đóng quỹ
+D. Bị tính thuế lũy tiến trên lợi nhuận
+Câu 8:Một quỹ tương hỗ có lợi suất trung bình 7%/năm. Sau 5 năm, 30 triệu VND bạn “gửi gắm” vào quỹ đã trở thành...
+A. 42,1 triệu VND
+B. 35 triệu VND
+C. 67,1 triệu VND
+D. 29,2 triệu VND
+Câu 9:Công ty bạn đầu tư trả cổ tức hằng năm là 4.000 VND/cổ phiếu, giá cổ phiếu hiện tại là 40.000 VND. Tỷ suất cổ tức của cổ phiếu này là...
+A. 2%
+B. 5%
+C. 10%
+D. 15%
+Câu 10: Bạn “nhắm” nghỉ hưu lúc 60 tuổi với 3 tỷ trong tay. Nếu bắt đầu đầu tư từ năm 20 tuổi và kỳ vọng lãi 8%/năm, mỗi năm bạn cần đầu tư…
+A.
+26,5 triệu VND
+B.
+C.
+35 triệu VND
+D.
+E.
+11,6 triệu VND
+F.
+G.
+10,3 triệu VND
+H.
+
+16. ĐỀ THI CASTING CỦA ĐẠI HỌC FPT TP. HCM 
+
+Câu 1:Theo báo cáo Ngân hàng số InCorp (2025), tỷ lệ khách hàng Việt Nam sử dụng dịch vụ ngân hàng số thường xuyên là khoảng...
+A. 100%
+B. 50%
+C. 29%
+D. 70%
+Câu 2: Bạn lười không đọc hết các điều khoản khi vay vốn khởi nghiệp trên nền tảng số. Khoản vay của bạn có thể có chi phí ẩn nào?
+A. Tiền hoa hồng cho nền tảng số
+B. Thuế giá trị gia tăng
+C. Vi phạm bảo mật dữ liệu cá nhân
+D. Phí trả nợ trước hạn 
+
+Câu 3:Bạn thu được lợi nhuận 12 triệu VND từ hoạt động đầu tư chứng khoán. Thuế thu nhập cá nhân bạn phải nộp là...
+A. 600.000 VND
+B. 1,6 triệu VND 
+C. 2,85 triệu VND
+D. 0 VND
+
+Câu 4: Chi phí sinh hoạt hàng tháng của bạn là 15 triệu. Sau khi cãi nhau với sếp, bạn có thể tự tin nghỉ việc vì đã có quỹ khẩn cấp là...
+A. 15 triệu VND
+B. 30 triệu VND
+C. 45 triệu VND 
+D. Tất cả các phương án trên
+
+Câu 5: Bạn đang phỏng vấn ứng tuyển tại một doanh nghiệp mới. Bạn đã vô tình giới hạn sức mạnh đàm phán lương của mình khi...
+A. Xuất hiện quá sớm
+B. Chưa từng làm ở vị trí tương tự
+C. Tiết lộ mức lương hiện tại 
+D. Thừa nhận bạn là người hướng nội
+Câu 6: Bạn có hai lựa chọn: nhận 85 triệu ngay, hoặc chờ 3 năm để nhận 100 triệu. Với lãi suất chiết khấu 6%/năm, ví bạn dày hơn khi...
+A. Nhận ngay 85 triệu 
+B. 100 triệu sau 3 năm
+C. Cả hai như nhau
+D. Không đủ thông tin
+
+Câu 7: Quỹ mở bạn đầu tư mô phỏng chỉ số, nhưng hiệu suất thấp hơn chỉ số trong 6 tháng liền. Lý do hợp lý nhất là...
+A. Nhà đầu tư rút vốn quá nhanh
+B. Quỹ phân bổ sai quy định
+C. Phí quản lý và tracking error tích lũy 
+D. Quỹ này không hợp mệnh 
+
+Câu 8: Trong danh mục quỹ mở cổ phiếu, có cổ phiếu niêm yết nhưng thanh khoản rất thấp. Hệ quả là...
+A. Gây rủi ro định giá NAV sai lệch 
+B. Giúp quỹ tránh biến động thị trường
+C. Rủi ro chứng chỉ bị thu hồi
+D. “Thời tới” – mua giá thấp để lãi dài hạn
+
+Câu 9: Bạn “chốt lời” 5.000 VND/cổ phiếu A, giá cổ phiếu hiện tại là 65.000 VND. Tỷ lệ P/E của cổ phiếu này là...
+A. 13 
+B. 13%
+C. 35%
+D. 35
+
+Câu 10: Hệ thống công nghệ thông tin KRX được chính thức vận hành cho thị trường chứng khoán Việt Nam từ ngày...
+A. 15/12/2024 
+B. 01/01/2026
+C. 01/08/2025
+D. 05/05/2025
+
+17. ĐỀ THI CASTING CỦA ĐẠI HỌC VĂN LANG 
+
+Câu 1: Lần đầu tiên trong đời bạn thử sức đánh đề. Bạn nhận ra giá trị kỳ vọng trung bình của trò chơi này là...
+A. 1%
+B. 99%
+C. -29% 
+D. Niềm vui
+Câu 2: Theo nghiên cứu từ Motor Intelligence, quy mô thị trường Fintech tại Việt Nam năm 2025 ước tính đạt bao nhiêu?
+A. 1 tỷ USD
+B. 11 tỷ USD 
+C. 3,76 tỷ USD
+D. Gần 20 tỷ USD
+Câu 3: Bạn đang làm việc tại ngân hàng. Ngân hàng của bạn gặp phải rủi ro như thế nào khi cho khách hàng cá nhân vay tín dụng?
+A. Rủi ro mất hoàn toàn số tiền cho vay 
+B. Rủi ro khoản vay lãi suất cao và kém nhạy cảm với thị trường 
+C. Rủi ro khó tiếp cận và  bán chéo sản phẩm khác
+D. Rủi ro từ khoản tín dụng cao những độ phân tán rủi ro lớn 
+Câu 4: Đây là tổ chức CIC – Trung tâm thông tin tín dụng quốc gia Việt Nam, có chức năng...
+A. Lưu trữ và cung cấp dữ liệu lịch sử tín dụng của cá nhân, tổ chức 
+B. Cấp phép tín dụng
+C. Quản lý sản phẩm tín dụng trong nước 
+D. Đề xuất khoản vay hợp phong thủy 
+Câu 5: Theo số liệu của Ngân hàng Nhà nước, đến đầu năm 2025, bao nhiêu % người trưởng thành Việt Nam có tài khoản thanh toán tại ngân hàng?
+A. 10%
+B. Hơn 50%
+C. Gần 90% 
+D. Gần 100%
+Câu 6: Bạn mở tài khoản tiết kiệm online có ưu đãi, yêu cầu duy trì số dư tối thiểu 50 triệu VND. Chi phí ẩn là...
+A. Ưu đãi không phù hợp
+B. Tiền lãi trả hàng năm
+C. Chi phí lãi vay
+D. Giữ số dư vượt khả năng tài chính 
+
+Câu 7: Bạn nhận ra mình không phù hợp đầu tư vào quỹ cổ phiếu tăng trưởng. Lý do là...
+A. Có khẩu vị rủi ro cao
+B. Theo chiến lược DCA
+C. Ưa lợi suất đều, ổn định hàng năm 
+D. Tất cả các phương án trên
+
+Câu 8: Nếu NAV/CCQ tăng đều nhưng tỷ lệ rút vốn khỏi quỹ vẫn cao, điều gì có thể xảy ra?
+A. Quỹ gian lận NAV
+B. Nhà đầu tư chốt lời hoặc tái phân bổ 
+C. Quỹ bị ép bán cổ phiếu
+D. NAV tăng ảo
+
+Câu 9: Yếu tố quan trọng nhất khi đánh giá bất động sản đầu tư là gì?
+A. Địa điểm 
+B. Bên môi giới
+C. Chiết khấu
+D. Thông điệp từ vũ trụ 
+Câu 10: Bạn mua một căn nhà giá 4 tỷ, cho thuê 20 triệu/tháng, sau 10 năm bán 5 tỷ. Tổng lợi nhuận là...
+A. 2 tỷ
+B. 2,8 tỷ 
+C. 3 tỷ
+D. 3,4 tỷ
+18. CASTING ĐẠI HỌC UEH 
+
+Câu 1: Phí sinh hoạt của bạn chiếm 60% thu nhập. Quỹ khẩn cấp “như mơ” của bạn là 27 triệu VND - 54 triệu VND. Thu nhập của bạn là...
+A. 15 triệu VND
+B. 25 triệu VND
+C. 35 triệu VND
+D. 45 triệu VND
+
+Câu 2: Theo LinkedIn (2025), người lao động có kỹ năng AI tại Việt Nam có thể được hưởng mức lương _____ so với các vị trí thông thường.
+A. Tương đương
+B. 200%
+C. Bất công
+D. 125%
+
+Câu 3: Trong đầu tư, quy tắc 72 “phát huy sức mạnh” tốt nhất khi áp dụng với...
+A. Chi phí cơ hội
+B. Lãi kép
+C. NFT
+D. Người giỏi toán
+
+Câu 4: Tài khoản tiết kiệm của bạn có lãi suất 8%/năm. Nếu tỷ lệ lạm phát năm nay là 3% thì lãi suất thực bạn nhận được là...
+A. 7%
+B. 3%
+C. 5%
+D. 9%
+Câu 5: Nhận định nào sau đây là SAI về mối quan hệ giữa giá và lãi suất của trái phiếu?
+A. Khi lãi suất giảm, giá trái phiếu tăng
+B. Khi lãi suất giảm, giá trái phiếu giảm
+C. Khi lãi suất tăng, giá trái phiếu giữ nguyên
+D. Khi lãi suất giữ nguyên trong một thời gian dài, giá trái phiếu giảm
+
+Câu 6: Khi mua trái phiếu doanh nghiệp, bạn KHÔNG cần đánh giá yếu tố nào sau đây?
+A. Mục tiêu phát triển của doanh nghiệp
+B. Tình hình thị trường OTC
+C. Điểm tín dụng doanh nghiệp
+D. Bộ máy quản trị doanh nghiệp
+
+Câu 7: Bạn mua một trái phiếu trị giá 10 triệu VND, lãi suất 7% và đáo hạn trong 10 năm. Tới ngày đáo hạn, tổng thu nhập của bạn từ trái phiếu này là...
+A. 1,7 triệu VND
+B. 15,75 triệu VND
+C. 17 triệu VND
+D. 10 triệu VND
+
+Câu 8: Bạn vay tín dụng 15 triệu VND để mua điện thoại và trả chậm với lãi suất 28%/năm. Chi phí cơ hội của bạn là...
+A. 3,2 triệu VND
+B. Khả năng sử dụng tiền trả lãi tín dụng vào việc khác
+C. Thời gian làm thủ tục ngân hàng
+D. Giảm giá từ cửa hàng khi mua bằng thẻ
+
+Câu 9: Từ ngày 1/7/2025, theo Nghị định 94/2025/NĐ-CP, khi vay tiền online bạn bắt buộc phải...
+A. Có tài sản thế chấp
+B. Được kiểm tra thông tin tín dụng trên CIC
+C. Có thu nhập tối thiểu 10 triệu VND/tháng
+D. Tất cả các phương án trên
+
+Câu 10: Quẹt thẻ 100 triệu VND xong quên trả, để “treo nợ” 90 ngày. Với lãi suất 22%/năm và phí trễ hạn 4%, tổng số tiền bạn phải trả là...
+A. 109,4 triệu VND
+B. 117 triệu VND
+C. 152,3 triệu VND
+D. 5 triệu VND, bạn nạp tiền cho một ứng dụng tài chính và được thanh toán nợ tự động
+
+19. ĐỀ CASTING ĐẠI HỌC  UEH VĨNH LONG 
+Câu 1: Theo báo cáo của Quỹ tiền tệ Quốc tế IMF, tầng lớp trung lưu và dân số thành thị ở Việt Nam tăng nhanh dẫn đến...
+A. Lưu lượng tiền trong nền kinh tế tăng
+B. Mức tiêu dùng trong nước tăng
+C. Gia tăng tốc độ toàn cầu hóa nền kinh tế
+D. Sự phát triển của các kênh bán lẻ quốc tế
+
+Câu 2: Bạn đã chi tiêu định kỳ trong vô thức khi...
+A. Trả phí quản lý thẻ ngân hàng
+B. Mua gói data 5G cho 2 sim nhưng chỉ xài 1
+C. Mua chiếc túi hàng hiệu bạn không thực sự cần
+D. Đóng học phí
+
+Câu 3: Bạn sẵn sàng chi trả nhiều hơn cho một sản phẩm vì đã bỏ thời gian lựa chọn, kể cả khi sản phẩm không còn phù hợp, là ví dụ của...
+A. Hiệu ứng neo (anchoring)
+B. Tư duy chi phí chìm (sunk cost)
+C. Lệch chuẩn xác nhận (confirmation bias)
+D. Tự định giá tài sản (endowment effect)
+
+Câu 4: Bạn vay 5 triệu VND từ ngân hàng với lãi đơn 10% mỗi năm trong 2 năm. Tổng số tiền gốc lãi bạn phải trả là bao nhiêu?
+A. 5 triệu VND
+B. 6 triệu VND
+C. 7 triệu VND
+D. 8 triệu VND
+
+Câu 5: Bạn có một khoản nợ đã quá hạn khoảng 200 ngày. Đây là khoản...
+A. Nợ xấu nhóm 3 – Nợ dưới tiêu chuẩn
+B. Nợ xấu nhóm 1 – Nợ đủ tiêu chuẩn
+C. Nợ xấu nhóm 4 – Nợ nghi ngờ
+D. Nợ xấu nhóm 2 – Nợ cần chú ý
+
+Câu 6: Ngay cả khi bạn đã tất toán khoản nợ, CIC vẫn lưu trữ lịch sử nợ xấu của bạn trong vòng...
+A. 1 năm
+B. 1 quý
+C. 5 năm
+D. 10 năm
+
+Câu 7: Bạn có quỹ dự phòng khẩn cấp là 35 triệu VND. Bạn nên “gửi gắm” khoản này ở đâu?
+A. Cổ phiếu tăng trưởng
+B. Bất động sản
+C. Tiết kiệm linh hoạt
+D. Vàng
+
+Câu 8: Bạn mua cổ phiếu A với giá 80.000 VND/cổ phiếu. Sau đó, giá cổ phiếu giảm xuống còn 70.000 VND nhưng bạn nhận được cổ tức 2.000 VND/cổ phiếu. Bạn đã...
+A. Lãi 10% khi đầu tư
+B. Lãi 7% khi đầu tư
+C. Lỗ 10% khi đầu tư
+D. Lỗ 7% khi đầu tư
+
+Câu 9: Sau khi bán cổ phiếu, bạn thu được 5 triệu VND. Bạn cần nộp thuế...
+A. 5.000 VND
+B. 50.000 VND
+C. 500.000 VND
+D. Bạn được miễn thuế trên khoản thu nhập này
+
+Câu 10: Trọng tâm của chiến lược phát triển nền kinh tế xanh tại Việt Nam là...
+A. Phát triển thị trường tài chính xanh và thị trường các-bon
+B. Chính sách ưu đãi tín dụng cho các dự án năng lượng hóa thạch
+C. Khuyến khích các trang trại hữu cơ
+D. Tất cả các phương án trên
+
+20. ĐỀ CASTING ĐẠI HỌC CẦN THƠ 
+
+Câu 1: Thiên kiến giá trị cảm nhận (Perceived value) là khi...
+A. Cùng một món hàng nhưng bạn phải mua với giá cao hơn người khác
+B. Bạn luôn cảm thấy mình không đủ tiền tiêu
+C. Bạn luôn cảm thấy bất an về tài chính cá nhân
+D. Bạn luôn chọn combo rẻ dù vượt nhu cầu tiêu dùng
+
+Câu 2: Các nền tảng mua sắm thiết kế các mốc thưởng như “đơn từ 300K được tặng quà”, “tích điểm đổi quà” nhằm...
+A. Kéo dài thời gian sử dụng ứng dụng
+B. Kích hoạt tinh thần “phiếu bé ngoan”
+C. Tăng tỷ lệ quay lại mua sắm
+D. Tất cả các phương án trên
+
+Câu 3: Lạm phát và thị trường cổ phiếu “là gì của nhau”?
+A. Khi lạm phát tăng cao, thị trường cổ phiếu có xu hướng tăng tương ứng
+B. Khi lạm phát tăng cao, thị trường cổ phiếu có xu hướng giảm điểm
+C. Khi lạm phát tăng cao, thị trường cổ phiếu có xu hướng bình ổn
+D. Lạm phát không có mối quan hệ với thị trường cổ phiếu
+
+Câu 4: Bạn mua 100.000 VND/cổ phiếu X. Sau đó giá cổ phiếu giảm còn 80.000 VND nhưng bạn nhận được cổ tức 3.000 VND/cổ phiếu. Lợi suất đầu tư của bạn là...
+A. 17%
+B. -17%
+C. 10%
+D. -20%
+
+Câu 5: 200 cổ phiếu A của bạn có tỷ lệ P/E là 15, bạn thu lời 1 triệu VND khi đầu tư. Giá của một cổ phiếu A là...
+A. 200.000 VND
+B. 20.000 VND
+C. 75.000 VND
+D. 50.000 VND
+
+Câu 6: Sự khác biệt lớn nhất giữa chiến lược DCA (Dollar Cost Averaging) khi đầu tư vào quỹ và khi đầu tư vào cổ phiếu riêng lẻ là gì?
+A. DCA vào quỹ ít chi phí hơn
+B. DCA vào quỹ giảm rủi ro hành vi
+C. DCA vào cổ phiếu có NAV ổn định hơn
+D. DCA vào quỹ chỉ áp dụng cho ETF
+
+Câu 7: Bạn đang thực tập tại một quỹ đầu tư. Bạn đề xuất kế hoạch truyền thông thu hút giới trẻ bằng nội dung dí dỏm, cam kết lãi 20% tháng nhưng bị sếp từ chối vì...
+A. Sếp không có khiếu hài hước
+B. Cách làm này đã cũ, thiếu hiệu quả
+C. Cách làm này không tuân thủ pháp lý
+D. Sếp không thích bạn
+
+Câu 8: Theo số liệu của Cục Thống kê Việt Nam (2024), nhóm nghề nào sẽ chiếm tới 40% tổng số việc làm trong tương lai?
+A. Nhóm nghề công nghệ cao
+B. Nhóm nghề tài chính
+C. Nhóm nghề giáo dục
+D. Nhóm nghề “xanh”
+
+Câu 9: Bạn đầu tư 5% tài sản vào một quỹ ESG, quỹ công bố lợi nhuận năm là 12%, phí quản lý 2%. Lợi nhuận thực nhận là...
+A. 10%
+B. 19%
+C. 14%
+D. 8%
+Câu 10: Theo số liệu báo cáo của Tổ chức Biến đổi khí hậu & Năng lượng, năm 2025 Việt Nam đang dẫn đầu ASEAN về...
+A. Ô nhiễm môi trường
+B. Rủi ro biến đổi khí hậu
+C. Quy mô các dự án điện mặt trời, điện gió và thủy điện
+D. Trình độ nhân lực ứng phó với thiên tai
+
+21. ĐỀ CASTING ĐẠI HỌC HÀNG HẢI
+Câu 1: Bạn có thu nhập hàng tháng là 20 triệu VND. Theo quy tắc 6 chiếc lọ, số tiền bạn có thể đóng góp cho Mặt trận Tổ quốc Việt Nam là bao nhiêu?
+A. 1 triệu VND
+B. 2 triệu VND
+C. 5 triệu VND
+D. 10 triệu VND
+
+Câu 2: Tổng đãi ngộ tại nơi làm việc của bạn KHÔNG bao gồm...
+A. Thu nhập tài chính
+B. Môi trường làm việc
+C. Lịch sử tín dụng của nhân viên
+D. Cơ hội phát triển nghề nghiệp
+
+Câu 3: Khoản nào sau đây KHÔNG bị tính vào thu nhập chịu thuế?
+A. Tiền thưởng lễ Tết
+B. Học phí cho con học trường quốc tế do công ty chi trả
+C. Bảo hiểm nhân thọ công ty mua cho nhân viên
+D. Trợ cấp thôi việc theo đúng luật
+
+Câu 4: Bạn giữ lại những món đồ không dùng đến chỉ vì “đã bỏ nhiều tiền ra mua”, đây là...
+A. Hiệu ứng chi phí chìm (sunk cost)
+B. Bảo vệ môi trường
+C. Lối sống tối giản
+D. Tôn chỉ của “Hội người lười Việt Nam”
+
+Câu 5: Chỉ số PEG (Price/Earnings to Growth) có ý nghĩa gì trong đầu tư?
+A. Định giá cổ phiếu tăng trưởng theo tốc độ EPS
+B. Ước lượng rủi ro khi đầu tư vào doanh nghiệp chu kỳ
+C. Tính lợi nhuận kỳ vọng từ tăng vốn hóa
+D. So sánh cổ tức giữa các doanh nghiệp cùng ngành
+
+Câu 6 : Bạn đang có trong tay 300 cổ phiếu A có giá 40.000 VND/cổ phiếu. Với tỷ lệ P/E là 15, bạn đã kiếm lời...
+A. 120.000 VND
+B. 800.000 VND
+C. 1 triệu VND
+D. 1,200.000 VND
+
+Câu 7: Mục đích của việc Bộ Tài nguyên và Môi trường thẩm định đánh giá tác động môi trường từ phía doanh nghiệp là gì?
+A. Xét duyệt cấp thêm hạn ngạch các-bon cho doanh nghiệp
+B. Đánh giá chi phí và lợi nhuận trong chiến lược doanh nghiệp ESG
+C. Đảm bảo rằng các dự án xanh tại Việt Nam đáp ứng các tiêu chuẩn môi trường quốc tế
+D. Hỗ trợ kỹ thuật và đào tạo đội ngũ nhân viên môi trường
+
+Câu 8: Doanh nghiệp bạn đang đầu tư có ROE 25%, ROIC 9%, WACC 11%. Điều gì đang xảy ra?
+A. Doanh nghiệp tạo giá trị gia tăng lớn
+B. Giá trị vốn của cổ đông đang bị bào mòn
+C. Doanh nghiệp nên phát hành thêm cổ phiếu
+D. Không có gì bất thường
+
+Câu 9: Trong đầu tư theo chủ đề (thematic investing), việc ưu tiên cổ phiếu tăng trưởng thường không phù hợp khi nào?
+A. Lãi suất thấp và dòng tiền rẻ
+B. Nhà đầu tư theo đuổi tăng trưởng dài hạn
+C. Kinh tế bước vào giai đoạn suy thoái và chi phí vốn tăng
+D. Bạn lười
+
+Câu 10: Khẳng định nào sau đây về tín chỉ các-bon là SAI?
+A. Tất cả các dự án giảm phát thải đều có thể quy đổi thành tín chỉ các-bon bán được
+B. Một tín chỉ các-bon tương đương một tấn các-bon
+C. Việt Nam hướng tới nền kinh tế các-bon thấp
+D. Trên thế giới có 110 công cụ định giá các-bon
+
+22. ĐỀ CASTING ĐẠI HỌC CÔNG NGHỆ GIAO THÔNG VẬN TẢI
+
+Câu 1: Giấc mơ xế hộp 800 triệu trong 3 năm tới sẽ đạt được nếu bạn làm gì ngay hôm nay?
+A. Gửi tiết kiệm 305 triệu VND, lãi suất 6%/năm
+B. Đầu tư 601 triệu VND, lãi suất 10%/năm
+C. Đầu cơ 150 triệu VND, lãi suất 50%/năm
+D. Xin tiền mẹ
+
+Câu 2: Bạn có thu nhập hàng tháng là 20 triệu VND. Theo quy tắc 6 chiếc lọ, số tiền bạn nên dành cho chi tiêu cần thiết (NEC) là bao nhiêu?
+A. 1 triệu VND
+B. 20 triệu VND
+C. 5 triệu VND
+D. 11 triệu VND ( 55% - 10% - 10% -10% -10% -5%) 
+
+Câu 3: Mô hình “broadbanding” trong quản trị nhân sự có đặc điểm gì?
+A. Trả lương theo thâm niên
+B. Gộp nhiều bậc lương nhỏ thành dải rộng linh hoạt
+C. Tăng lương định kỳ theo năm
+D. Chỉ áp dụng cho cấp quản lý
+
+Câu 4: Tại Việt Nam, mô hình trả lương Broadbanding thường xuất hiện ở loại hình doanh nghiệp nào?
+A. Công ty nhà nước
+B. Doanh nghiệp bảo hiểm
+C. Công ty công nghệ và startup
+D. Doanh nghiệp sản xuất truyền thống
+
+Câu 5: Theo Bộ Công Thương, nguồn năng lượng tái tạo nào được xem là có tiềm năng lớn nhất để hỗ trợ Việt Nam đạt mục tiêu “Net Zero”?
+A. Năng lượng mặt trời
+B. Năng lượng gió
+C. Năng lượng sinh khối
+D. Năng lượng thủy điện
+
+Câu 6: Bạn không cư trú tại Việt Nam nhưng hàng năm vẫn về thăm gia đình trong khoảng 2 tháng. Bạn sẽ bị tính thuế thu nhập cá nhân theo cách nào?
+A. Theo biểu lũy tiến từng phần
+B. Miễn thuế nếu không có hộ khẩu
+C. Theo thuế suất cố định 20%
+D. Tùy theo quyết định của cơ quan thuế
+
+Câu 7:  Bạn có 3 khoản nợ: vay tiêu dùng 30 triệu (16%/năm), thẻ tín dụng 15 triệu (28%/năm), vay mua xe 100 triệu (10%/năm). Theo phương pháp Avalanche, bạn nên trả khoản nào trước?
+A. Thẻ tín dụng
+B. Vay tiêu dùng 
+C. Vay mua xe
+D. không khoản nào 
+Câu 8: Bạn là một freelancer với thu nhập cao nhưng không ổn định. Phương pháp trả nợ nào là phù hợp nhất với bạn?
+A. Avalanche
+B. Snowball
+C. Income-based
+D. Balance Transfer
+Câu 9: Bạn vay 10 triệu VND từ ngân hàng với lãi đơn 8% mỗi năm trong 5 năm. Tổng số tiền gốc lãi bạn phải trả là bao nhiêu?
+A. 9 triệu VND
+B. 12 triệu VND
+C. 14 triệu VND
+D. 10 triệu VND
+Câu 10: Theo số liệu của Ngân hàng Nhà nước (2024), ngành nào đang chiếm tỷ trọng cao nhất trong cơ cấu tín dụng xanh tại Việt Nam?
+A. Nông nghiệp xanh
+B. Năng lượng tái tạo, năng lượng sạch
+C. Quản lý nước bền vững
+D. Công trình xanh
+
+23. ĐỀ CASTING ĐẠI HỌC FTU 
+
+Câu 1.  Việc thiết kế giao diện ứng dụng mua sắm theo hướng “cuộn vô tận”, “mua chỉ bằng 1 chạm” khai thác tâm lý...
+A. Tiết kiệm chi phí cơ hội của người dùng
+B. Khả năng chịu rủi ro tiêu dùng cao hơn online
+C. Thiếu kiểm soát hành vi do quá tải lựa chọn
+D. Cấu trúc phần thưởng tức thời trong não bộ
+
+Câu 2. Bạn sử dụng thẻ ghi nợ để thanh toán trực tuyến và chịu phí 50.000 VND/giao dịch. Chi phí cơ hội đi kèm khoản phí này là...
+A. Phí quản lý của thẻ ghi nợ
+B. Thời gian thực hiện giao dịch
+C. Khả năng sử dụng số tiền đó cho việc khác
+D. Tất cả các phương án trên
+
+Câu 3. Cùng một mức giá, vì sao bạn luôn thấy chi tiêu bằng ví điện tử “rẻ” hơn tiền mặt?
+A. Cơ chế phi vật lý hóa chi tiêu
+B. Sự tiện lợi
+C. “Rút ví” điện tử nhanh hơn nên không kịp “đau”
+D. Tất cả các phương án trên
+
+Câu 4. Bạn vay 10 triệu VND từ ngân hàng với lãi đơn 8% mỗi năm trong 5 năm. Tổng số tiền gốc lãi bạn phải trả là bao nhiêu?
+A. 9 triệu VND
+B. 12 triệu VND
+C. 14 triệu VND
+D. 10 triệu VND
+
+Câu 5. Theo khảo sát của Microsoft năm 2025, tỷ lệ lao động tri thức Việt Nam đã sử dụng GenAI trong công việc là...
+A. 1,7%
+B. 23%
+C. 50%
+D. 88%
+
+Câu 6. Với mức thu nhập nào sau đây thì bạn phải trả thuế giá trị gia tăng?
+A. 100 triệu VND
+B. 10 triệu VND
+C. 1 triệu VND
+D. Tất cả các phương án trên
+
+Câu 7. Đâu là điểm khác biệt cơ bản giữa thuế giá trị gia tăng (VAT) và thuế tiêu thụ đặc biệt (TTĐB)?
+A. Thuế VAT chỉ áp dụng cho hàng xa xỉ
+B. Chỉ có doanh nghiệp phải chịu thuế VAT
+C. Thuế TTĐB nhằm tới hạn chế tiêu dùng
+D. Thuế VAT cao hơn thuế TTĐB
+
+Câu 8. Bạn mua 300 cổ phiếu A với giá 50.000 VND/cổ phiếu. Khi giá cổ phiếu tăng lên 70.000 VND, lợi nhuận của bạn khi bán toàn bộ cổ phiếu là...
+A. 5 triệu VND
+B. 6 triệu VND
+C. 8 triệu VND
+D. 30 triệu VND
+
+Câu 9. Khi một cổ phiếu có tín hiệu “phân kỳ âm RSI” kéo dài trên đồ thị ngày, điều đó thường cho thấy...
+A. Tín hiệu đảo chiều tăng mạnh
+B. Giá có thể sideway thêm vài tuần
+C. Lực mua yếu dần dù giá vẫn tăng
+D. Cổ phiếu đang bị làm giá
+
+Câu 10. Doanh nghiệp có dòng tiền từ hoạt động kinh doanh âm nhiều kỳ liên tiếp, ROE 25%, tăng trưởng lợi nhuận đều 5 năm. Bạn nên đánh giá đầu tư thế nào?
+
+A. Có mùi scam, cần cảnh giác
+B. Cổ phiếu tăng trưởng, nên giữ lâu dài
+C. Doanh nghiệp đang đầu tư mở rộng, dòng tiền âm là bình thường
+D. Lợi nhuận quan trọng hơn dòng tiền
+
+24. ĐỀ CASTING ĐẠI HỌC VINUNI 
+
+Câu 1.Theo khảo sát Dự báo Nhu cầu nhân lực thành thị của Navigos (2025), nhóm ngành kinh tế nào đang đứng đầu về tổng số lao động?
+A. Tài chính
+B. Thương mại - Dịch vụ
+C. Nông nghiệp
+D. Công nghiệp - Xây dựng
+Câu 2. Sản phẩm được giảm 80% từ 10 triệu VND còn 2 triệu VND, nhưng giá thị trường thực tế là 3 triệu VND. Đây là hình thức...
+A. Chiết khấu thực
+B. Marketing bất hợp pháp
+C. Tối ưu cảm xúc mua hàng
+D. Định giá gốc ảo để tạo cảm giác hời
+Câu 3. Bạn luôn chọn trả góp 0% thay vì trả toàn bộ khi có đủ tiền, ngay cả khi không có nhu cầu dùng tiền đó. Hành vi này tiềm ẩn rủi ro nào?
+A. Bỏ lỡ ưu đãi trả góp tốt hơn
+B. Vòng xoáy tiêu dùng lũy kế
+C. Gia tăng kỳ vọng lạm phát cá nhân
+D. Tiền để đâu cho hết
+Câu 4.  Bạn đang có 3 khoản nợ với lãi suất 12%, 18% và 7%. Khoản nào sẽ được ưu tiên trả trước theo phương pháp Avalanche?
+A. Khoản nợ 12%
+B. Khoản nợ 18%
+C. Khoản nợ 7%
+D. Khoản nợ có số tiền nhỏ nhất
+Câu 5. Trong một chu kỳ thắt chặt tiền tệ và thanh khoản suy giảm, nhóm ngành nào thường phản ứng tiêu cực nhất đầu tiên?
+A. Bất động sản
+B. Bán lẻ tiêu dùng
+C. Ngân hàng thương mại
+D. Hạ tầng giao thông
+Câu 6. Bạn luôn cần quan tâm điều gì khi tìm hiểu và đánh giá bất động sản để đầu tư?
+A. Sao Thủy nghịch hành
+B. Bên môi giới
+C. Chiết khấu
+D. Địa điểm
+Câu 7. Bạn mua căn hộ giá 1,2 tỷ, vay 70% trong 15 năm với lãi suất 10%/năm, trả góp đều theo tháng. Tổng tiền gốc và lãi bạn sẽ trả là khoảng...
+A. 275 triệu VND
+B. 785 triệu VND
+C. 1,6 tỷ VND
+D. 1,9 tỷ VND
+Câu 8.  Một cổ phiếu có P/E = 5, thanh khoản rất thấp và biên lợi nhuận gộp giảm liên tục. Bạn nên...
+A. Mua mạnh vì định giá đang tốt
+B. Đầu tư một ít kiểu “ném đá dò đường”
+C. So sánh với P/E ngành rồi quyết định
+D. Cảm ơn và hẹn gặp lại
+Câu 9. 100 cổ phiếu A của bạn có tỷ lệ P/E là 10, bạn “bỏ túi” phần lợi nhuận là 300.000 VND. Giá của một cổ phiếu A là...
+A. 3.000 VND
+B. 25.000 VND
+C. 30.000 VND
+D. 100.000 VND
+Câu 10. Theo khảo sát của Microsoft năm 2025, tỷ lệ lao động tri thức Việt Nam đã sử dụng GenAI trong công việc _____ so với mức trung bình toàn cầu.
+A. Thấp hơn đáng kể
+B. Tương đương
+C. Cao hơn
+D. Bằng 1/10
+25. ĐỀ CASTING ĐẠI HỌC ĐỒNG THÁP 
+Câu 1.Bạn vừa mất việc, quỹ dự phòng 0 VND, còn khoản vay 12 triệu VND. Ưu tiên của bạn là gì?
+A. Cắt toàn bộ chi tiêu và tìm việc mới
+B. Tạm ngưng trả nợ để sống
+C. Vay tiếp để xoay vòng
+D. Xin gia hạn khoản vay
+
+Câu 2. Để đảm bảo an toàn tài chính, khi mất nguồn thu nhập 20 triệu VND, bạn cần có quỹ khẩn cấp là...
+A. 25 triệu VND - 80 triệu VND
+B. 50 triệu VND - 100 triệu VND
+C. 60 triệu VND - 120 triệu VND
+D. 80 triệu VND - 150 triệu VND
+Câu 3. Phần thu nhập tính thuế từ 20 triệu VND đến 50 triệu VND của bạn sẽ có thuế suất thu nhập cá nhân là bao nhiêu?
+A. 25%
+B. 10%
+C. 20%
+D. 5%
+Câu 4. Bạn sử dụng thẻ ghi nợ để thanh toán quốc tế và chịu phí chuyển đổi ngoại tệ 3%. Chi phí cơ hội của quyết định này là...
+A. Thời gian thực hiện giao dịch quốc tế
+B. Lãi suất của thẻ ghi nợ
+C. Bạn đã có thể mua sắm trong nước không mất phí
+D. Không gì cả
+Câu 5. Bạn rinh Tivi 12 triệu VND trả góp trong 6 tháng, lãi suất 0%, phí quản lý khoản vay 1%/tháng. Sau 6 tháng, tổng chi phí vay của bạn là...
+A. 6 triệu VND
+B. 60.000 VND
+C. 600.000 VND
+D. 0 VND
+Câu 6. Theo công bố của Tổng cục Thống kê Việt Nam, nhóm hàng hoá dịch vụ nào sau đây chiếm trọng số lớn nhất trong chỉ số giá tiêu dùng của Việt Nam giai đoạn 2020 - 2025?
+A. Nhà ở, điện, nước, chất đốt
+B. Thuốc và dịch vụ y tế
+C. Hàng ăn và dịch vụ ăn uống
+D. Giáo dục
+Câu 7. 100 cổ phiếu A của bạn có giá 30.000 VND/cổ phiếu. Nếu tỷ lệ P/E là 15, bạn “bỏ túi” phần lợi nhuận là bao nhiêu?
+A. 100.000 VND
+B. 200.000 VND
+C. 300.000 VND
+D. 400.000 VND
+Câu 8. Khoản thu nhập nào sau đây của bạn được áp thuế thu nhập cá nhân?
+A. Học bổng khuyến khích học tập 9 triệu VND
+B. Tiền lãi gửi tiết kiệm 1,5 triệu VND
+C. Tiền mừng tuổi người họ hàng xa ở Mỹ gửi về 100 USD
+D. Tiền bán cổ phiếu để cắt lỗ 2 triệu VND
+Câu 9. Deadline quyết toán thuế thu nhập cá nhân ở Việt Nam hàng năm là ngày...
+A. 31/12
+B. 31/01
+C. 31/10
+D. 31/03
+Câu 10. Khi quyết toán thuế thu nhập, bạn được hoàn thuế vì tổng thu nhập tính thuế năm nay của mình thấp hơn hơn...
+A. 100 triệu
+B. 110 triệu
+C. 132 triệu
+D. Tất cả các phương án trên
+
+26. ĐỀ CASTING TRƯỜNG ĐẠI HỌC KỸ THUẬT - CÔNG NGHỆ CẦN THƠ
+
+1. Bạn vừa nhận một hợp đồng freelance 10 triệu VND. Công việc yêu cầu bạn tạm ứng 3 triệu VND cho phần mềm làm việc. Lúc này bạn…
+A. Lưu hoá đơn để cộng vào hợp đồng
+B. Đề nghị dùng phần mềm miễn phí
+C. Tạm ứng bằng quỹ khẩn cấp
+D. Kiểm tra kỹ vì mùi scam rõ hơn deadline
+2.Mỗi khi bạn được tăng thu nhập, tiêu chuẩn sống của bạn cao hơn và số tiền tiết kiệm giữ nguyên. Đây là biểu hiện của...
+A. Chi tiêu hợp lý
+B. Lạm phát lối sống
+C. Kỳ vọng thu nhập cao
+D. Có làm thì mới có ăn
+3.Bạn đã tiết kiệm được 1 tỷ sau 10 năm đều đặn gửi tiết kiệm 6,5 triệu VND/tháng. Phép màu nào đã giúp bạn đạt được điều này?
+A. Quy tắc 25
+B. Chu kỳ kinh tế tăng trưởng tại Việt Nam
+C. Lãi kép 7%/năm
+D. Tất cả các phương án trên
+4.Trách nhiệm xã hội của bạn được thể hiện trong kế hoạch Tài chính cá nhân như thế nào?
+A. Bạn đóng thuế đầy đủ
+B. Bạn đầu tư vào các mã cổ phiếu bền vững
+C. Bạn dành 5% thu nhập cho các hoạt động thiện nguyện
+D. Tất cả các phương án trên
+5.Bạn mua một mảnh đất với giá 2 tỷ VND và bán sau 5 năm. Nếu chi phí bảo dưỡng và thuế hàng năm là 2% giá trị mảnh đất, bạn đã bỏ ra...
+A. 200 triệu VND
+B. 210 triệu VND
+C. 120 triệu VND
+D. 130 triệu VND
+6.Là một nhà đầu tư mới bắt đầu, bạn cần phải theo dõi “bảng điện” mỗi ngày mới có thể yên tâm. Chi phí cơ hội bạn phải trả là gì?
+A. Thời gian đăng nhập tài khoản đầu tư
+B. Phí giao dịch khi đầu tư
+C. Rủi ro khi đầu tư
+D. Khả năng sử dụng thời gian đó làm việc khác
+7.Bạn mua 100 cổ phiếu ABC giá 50.000 VND, sau 1 năm giá lên 60.000 VND và nhận thêm 3.000 VND cổ tức mỗi cổ phiếu. Tổng lợi suất đầu tư của bạn là...
+A. 20%
+B. 26%
+C. 32%
+D. 40%
+8.Khoản tiền gửi tiết kiệm đáo hạn vào cuối tháng 6/2024 của bạn có gốc 1 tỷ VND, lãi 170 triệu VND. Thuế thu nhập cá nhân trên khoản lãi tiền gửi ngân hàng là...
+A. 0 VND
+B. 1,7 triệu VND
+C. 17 triệu VND
+D. 8,5 triệu VND
+9.Nguồn thu nào sau đây của bạn được áp mức thuế thu nhập cá nhân là 5%?
+A. 1 tỷ VND khi chiến thắng Giải đấu Vũ trụ Đồng tiền
+B. Bạn được trả cổ tức bằng tiền mặt
+C. Tiền lãi từ khoản tiền bạn gửi tiết kiệm
+D. Tiền bạn được thừa kế từ ông bà ngoại
+10.Khi dư tiền, bạn chuyển vào “ngăn tiết kiệm” trên app ngân hàng. Số tiền này sau đó phục vụ chi tiêu hàng tháng của bạn. Đây là hình thức...
+A. Tiết kiệm ngắn hạn
+B. Tiết kiệm linh hoạt
+C. Tiết kiệm mạo hiểm
+D. Tiết kiệm như không
+
+27. ĐỀ CASTING TRƯỜNG ĐẠI HỌC MỞ TPHCM 
+
+1.Theo báo cáo Xu hướng Tiêu dùng của NIQ (2024), có bao nhiêu phần trăm người tiêu dùng Việt Nam quan tâm đến những nỗ lực bảo vệ môi trường của các doanh nghiệp?
+A. 12%
+B. 100%
+C. 76%
+D. 35%
+2.Nhận định nào sau đây về các quyết định tiêu dùng của cá nhân là SAI?
+A. Ưu tiên những hàng hóa, dịch vụ phản ánh vai trò địa vị xã hội của mình
+B. Lời khuyên từ bạn bè ảnh hưởng mạnh hơn quảng cáo
+C. Bị ảnh hưởng bởi niềm tin với các hàng hóa và nhãn hiệu
+D. Càng mua sắm nhiều thì càng tiêu tiền thông minh
+3.Sức mua dài hạn của bạn tăng lên khi nào?
+A. Mở thẻ tín dụng
+B. Thu nhập định kỳ tăng
+C. Có tiền mừng tuổi
+D. Tất cả các phương án trên
+4.Khoản nào sau đây KHÔNG được coi là dòng tiền cá nhân của bạn?
+A. Sổ tiết kiệm của bạn
+B. Tiền bạn trúng xổ số
+C. Cổ tức từ danh mục chứng khoán
+D. Tiền đóng bảo hiểm nhân thọ
+5.Bạn có thu nhập hàng tháng là 20 triệu VND. Theo quy tắc 6 chiếc lọ, số tiền bạn nên dành cho quỹ tự do tài chính (FFA) là bao nhiêu?
+A. 1 triệu VND
+B. 2 triệu VND
+C. 10 triệu VND
+D. 0 đồng, lương tháng 20 triệu VND là bạn tự do tài chính rồi
+6.Bạn đưa giấy tờ sở hữu ô tô của mình cho một bên cho vay ngang hàng (P2P). Do trễ hạn trả nợ 14 ngày, bên cho vay yêu cầu bạn trả lãi suất 200%. Đây là hình thức...
+A. Tín dụng tín chấp
+B. Tín dụng thế chấp
+C. Tín dụng cầm cố
+D. Tín dụng đen
+7.Báo động! Phần thu nhập bạn cần phải trích ra để thanh toán nợ cá nhân hàng tháng đã vượt quá...
+A. 10%
+B. 20%
+C. 30%
+D. 50%
+8.Lãi suất đối với những khoản tín dụng trung và dài hạn “đổi mood” như thế nào?
+A. Cố định
+B. Được điều chỉnh mỗi năm một lần dựa trên lãi suất cơ sở
+C. Tuỳ từng định chế tài chính
+D. Tất cả các phương án trên
+9.Suốt 2 năm, tháng nào bạn cũng đều đặn “chuyển khoản cho tương lai” 3 triệu VND, lãi 8%/năm, lãi cộng dồn hàng tháng. Lúc này, bạn đang có...
+A. 12 triệu VND
+B. 36 triệu VND
+C. 77 triệu VND
+D. 98 triệu VND
+10.Theo Nghị định 94/2025/NĐ-CP về sandbox ngân hàng, công nghệ tài chính nào dưới đây đủ điều kiện “vào sân” thử nghiệm có kiểm soát?
+A. Chấm điểm tín dụng
+B. Chia sẻ dữ liệu qua giao diện lập trình ứng dụng mở (Open API)
+C. Cho vay ngang hàng
+D. Tất cả các phương án trên
+
+28. ĐỀ CASTING TRƯỜNG ĐẠI HỌC VIỆT ĐỨC
+
+1.Theo báo cáo Lương & Thị trường Lao động của Navigos (2025), yếu tố chính mà người lao động cân nhắc khi “nhảy” việc là gì?
+A. Mức lương
+B. Cơ hội thăng tiến
+C. Môi trường phát triển cá nhân
+D. Danh tiếng doanh nghiệp
+2.Bạn có thu nhập hàng tháng là 20 triệu VND. Theo quy tắc 6 chiếc lọ, số tiền tối đa bạn có thể dành ra để sưu tầm Labubu là bao nhiêu?
+A. 1 triệu VND
+B. 2 triệu VND
+C. 5 triệu VND
+D. 10 triệu VND
+3.Những yếu tố tâm lý nào đang âm thầm “thao túng” hành vi tiêu tiền của bạn?
+A. Nghề nghiệp và mức lương
+B. Động cơ, Hiểu biết, và Thái độ
+C. Vai trò địa vị xã hội
+D. Nền tảng giáo dục và vị trí địa lý
+4.Gửi tiết kiệm kiểu gì để ngân hàng “nhẹ gánh” chi phí giao dịch còn bạn thì được hưởng lãi suất cao hơn?
+A. Gửi tiết kiệm trả lãi trước
+B. Chứng chỉ tiền gửi
+C. Gửi tiết kiệm trả lãi định kỳ
+D. Gửi tiết kiệm online
+5.Công ty cho bạn bốc “sít rịt” thưởng Tết hai kiểu: 50 triệu nhận ngay hoặc 54 triệu nhận sau 1 năm. Với lãi suất tiết kiệm 9%/năm, bạn chọn...
+A. Nhận ngay 50 triệu VND
+B. Nhận 54 triệu sau 1 năm
+C. Cả hai phương án như nhau
+D. Không thể kết luận vì thiếu thông tin
+6.Quy tắc 72 có thể được sử dụng để ước tính điều gì khác ngoài lợi suất đầu tư?
+A. Cách lạm phát “thao túng” giá trị đồng tiền
+B. Chi phí bảo hiểm hằng năm
+C. Thuế thu nhập cá nhân
+D. Chi phí “chữa lành” hằng tháng của bạn
+7.Nếu doanh nghiệp X phá sản, tòa nhà hội sở X sẽ được bán đấu giá để trả lại tiền cho các trái chủ. Trái phiếu X là sản phẩm...
+A. Trái phiếu có thể chuyển đổi
+B. Trái phiếu có thể mua lại
+C. Trái phiếu bảo đảm
+D. Trái phiếu bất hợp pháp
+8.Khi mua trái phiếu zero-coupon, bạn có thể nhận lãi như thế nào?
+A. Không nhận lãi, thay vào đó mua trái phiếu với giá chiết khấu
+B. Nhận lãi bất cứ khi nào bạn thích
+C. Nhận mức lãi bạn thỏa thuận với bên phát hành
+D. Tất cả các phương án trên
+9.Theo Bộ Công Thương (2025), việc áp thuế đối ứng của Mỹ khiến mặt hàng nào tại Việt Nam giảm giá?
+A. Dịch vụ tài chính
+B. Điện tử
+C. Tiêu dùng nhanh (FMCG)
+D. Dịch vụ giải trí
+10.Theo số liệu của Global Market Insights, thị trường tài chính bền vững toàn cầu trong giai đoạn 2025 - 2034 sẽ...
+A. Hạ nhiệt 91%
+B. Tăng nhẹ 6,85%
+C. Thu nhỏ 37,5%
+D. Tăng trưởng kép 19,8%
+29. ĐỀ CASTING TRƯỜNG ĐẠI HỌC ĐIỆN LỰC 
+
+1. Theo khảo sát của Microsoft năm 2025, đã có khoảng bao nhiêu phần trăm doanh nghiệp tại Việt Nam ứng dụng AI vào công việc?
+A. 10%
+B. 30%
+C. 50%
+D. 75%
+2.Công ty phần mềm của bạn có chi phí biên gần như bằng 0, chi phí tăng trưởng thấp. Lợi thế này gọi là...
+A. Hiệu ứng mạng lưới
+B. Đòn bẩy vận hành
+C. Hiệu quả cộng hưởng chi phí
+D. Lợi thế quy mô
+3.Đối với thu nhập từ trúng thưởng như xổ số, mức thuế thu nhập cá nhân được áp dụng là bao nhiêu?
+A. 10% phần vượt trên 10 triệu đồng
+B. 5% trên toàn bộ giá trị
+C. Theo biểu thuế lũy tiến
+D. 20% toàn bộ số tiền trúng
+4.Bạn trúng số 50 triệu VND. Bạn cần nộp thuế thu nhập cá nhân...
+A. 1 triệu VND
+B. 4 triệu VND
+C. 5 triệu VND
+D. Bạn không cần nộp thuế thu nhập cá nhân
+5.Bạn đang cân nhắc về một món hàng nhưng được biết thông tin “đã bán 10.000 đơn, chỉ còn 5!”, bạn dứt khoát xuống tiền. Đây là hiệu ứng tâm lý...
+A. JOMO
+B. YONO
+C. FOMO
+D. MONO
+6.Trong đầu tư, bẫy giá trị (Value trap) là hiện tượng gì?
+A. Giá cổ phiếu tăng vượt giá trị nội tại trong thời gian ngắn
+B. Cổ phiếu định giá thấp nhưng không có động lực tăng trưởng dài hạn
+C. Cổ phiếu bị rớt giá vì hoạt động M&A bất thành
+D. Nhà đầu tư bị lừa tình cảm
+7.Bạn “chốt đơn” 500 cổ phiếu công nghệ với giá 45.000 VND/cổ phiếu. Nếu ROI sau 1 năm của bạn là 10%, giá cổ phiếu bây giờ rơi vào khoảng...
+A. 45.000 VND
+B. 40.000 VND
+C. 50.000 VND
+D. 55.000 VND
+8.Rủi ro lớn nhất khi đầu tư vào cổ phiếu công nghệ giai đoạn đầu là gì?
+A. Biến động theo chính sách vĩ mô
+B. Không có dòng tiền dương, mô hình chưa kiểm chứng
+C. Không được các quỹ đầu tư mua vào
+D. Không tiếp cận được người dùng cuối
+9.Trong phân tích đầu tư, chỉ số ROIC đo lường điều gì?
+A. Hiệu suất sử dụng vốn chủ sở hữu
+B. Khả năng thanh toán chi phí lãi vay
+C. Mức độ hiệu quả khi doanh nghiệp sử dụng cả nợ và vốn chủ
+D. Tử vi tài lộc của hội đồng quản trị doanh nghiệp
+10. Theo thống kê từ Diễn đàn Kinh tế Thế giới (WEF) năm 2025, với sự phát triển của công nghệ, khoảng _____ kỹ năng của người lao động trên toàn cầu sẽ thay đổi trong vòng 5 năm tới.
+A. 10%
+B. 23%
+C. 44%
+D. 90%
+
+30. ĐỀ CASTING TRƯỜNG HỌC VIỆN TÀI CHÍNH 
+
+1. Bạn gọi một cốc cà phê. Người bán hàng gợi ý bạn dùng thêm bánh vì đang giảm giá, bạn chần chừ rồi đồng ý đại. Đây là hiệu ứng tâm lý...
+A. Ảo tưởng “thêm chút không sao”
+B. Thiếu kiến thức tài chính
+C. Người hướng nội
+D. Đáp án A và B đúng
+2. Bạn mua chứng chỉ tiền gửi ngân hàng với lãi suất 5%/năm, chi phí cơ hội có thể là gì?
+A. Không thể dùng tiền đó đầu tư tài sản khác
+B. Phí quản lý chứng chỉ tiền gửi
+C. Lãi suất cố định của chứng chỉ tiền gửi
+D. Thời gian làm thủ tục mua chứng chỉ
+3.Bạn ưu tiên chọn gói dịch vụ trả theo năm vì rẻ hơn trả theo tháng, ngay cả khi không chắc sẽ dùng bao lâu. Đây là ví dụ của...
+A. Tư duy chi tiêu dài hạn
+B. Tâm lý tránh tổn thất
+C. Lỗi tính toán chi phí cơ hội
+D. Tối ưu hóa lệch chuẩn
+4.Bạn mua 1000 cổ phiếu A với giá 80.000 VND/cổ phiếu, sử dụng tỷ lệ ký quỹ ban đầu là 50%. Số tiền mà bạn phải bỏ ra ban đầu là bao nhiêu?
+A. 40 triệu VND
+B. 80 triệu VND
+C. 160 triệu VND
+D. 100 triệu VND
+5.Theo thông tin từ Ngày hội Trí tuệ nhân tạo Việt Nam (2024), người Việt đang ứng dụng AI nhiều nhất trong lĩnh vực nào?
+A. Marketing và bán hàng
+B. Công nghệ thông tin
+C. Chuỗi cung ứng và vận tải
+D. Quản trị nhân lực
+6.Các quỹ ETF mô phỏng chỉ số theo chủ đề như “Năng lượng sạch”, “AI”, “Fintech” thường có rủi ro lớn nhất là gì?
+A. Biến động thấp, khó giao dịch
+B. Tính thanh khoản quá cao nên bị làm giá
+C. Phụ thuộc vào chu kỳ chính sách và xu hướng toàn cầu
+D. Không có rủi ro đáng kể vì được quản lý quỹ lựa chọn
+7. Rổ chỉ số VNFin Lead do cơ quan nào xây dựng và quản lý?
+A. VNDirect
+B. HOSE
+C. CIC
+D. HNX
+8. Bạn tham gia vào một quỹ ETF mô phỏng chỉ số VNFin Lead. Danh mục của quỹ này bao gồm...
+A. Cổ phiếu công ty fintech chưa niêm yết
+B. Trái phiếu các định chế tài chính
+C. Cổ phiếu tài chính thanh khoản cao, được sàng lọc kỹ
+D. Hợp đồng tương lai chỉ số VN30
+9. Bạn được giới thiệu một cổ phiếu có chỉ số beta lớn hơn 1.5. Điều này có nghĩa là gì?
+A. Cổ phiếu ít biến động hơn chỉ số thị trường
+B. Cổ phiếu phòng thủ, phù hợp với thời kỳ suy thoái
+C. Biến động mạnh hơn thị trường, rủi ro cao
+D. Được các quỹ phòng thủ ưa chuộng
+10.Bạn mua cổ phiếu A với giá 30.000 VND/cổ phiếu. Sau đó, bạn được trả cổ tức 5.000 VND/cổ phiếu nhưng giá cổ phiếu giảm xuống còn 28.000 VND. Bạn đã...
+A. Lãi 10% khi đầu tư
+B. Lãi 15% khi đầu tư
+C. Lỗ 15% khi đầu tư
+D. Lỗ 10% khi đầu tư
+
+31. ĐỀ CASTING TRƯỜNG HỌC FPT CẦN THƠ 
+
+1.Bạn vừa mới ra trường nhưng đã có áp lực “cơm áo gạo tiền” rất lớn. Ngoài lương cứng, bạn sẽ ưu tiên loại hình đãi ngộ nào sau đây?
+A. Thưởng chuyến du lịch trọn gói hằng năm
+B. Cơ hội trở thành cổ đông trong công ty
+C. Cơ hội mở rộng mối quan hệ
+D. Thưởng KPIs
+2.Bạn có: (1) công việc full-time với lương cố định 15 triệu VND và (2) “nghề tay trái” cho thu nhập biến động.
+Cách quản lý dòng tiền tối ưu của bạn là...
+A. Có bao nhiêu tiêu bấy nhiêu
+B. Dùng khoản (1) chi tiêu cơ bản, tiết kiệm/đầu tư khoản (2)
+C. Chia đều cả hai vào chi tiêu và tiết kiệm
+D. Tiết kiệm/đầu tư khoản (1), chi tiêu cơ bản bằng khoản (2)
+3.Bạn cần phải nộp thuế thu nhập cá nhân là 1 triệu VND cho khoản nào sau đây?
+A. Thu nhập 20 triệu VND từ hoạt động đầu tư
+B. Thừa kế 100 triệu VND
+C. Trúng xổ số 10 triệu VND
+D. Tiền mừng tuổi của người bác bên Mỹ gửi về 100 USD
+4.Bạn trung thành với một ngân hàng duy nhất đã nhiều năm. Chi phí cơ hội của bạn là gì?
+A. Phí giao dịch cố định của ngân hàng
+B. Rủi ro rò rỉ dữ liệu cá nhân
+C. Bỏ lỡ những dịch vụ, sản phẩm tốt hơn ở ngân hàng khác
+D. Tất cả các phương án trên
+5.Bạn vay 40 triệu VND từ ngân hàng với lãi suất đơn 10% mỗi năm trong 4 năm. Sau 4 năm, số tiền lãi phải trả là...
+A. 4 triệu VND
+B. 16 triệu VND
+C. 50 triệu VND
+D. 56 triệu VND
+6.Bạn thường sử dụng quy tắc 114 để ước tính lợi suất đầu tư. Quy tắc này có hạn chế là...
+A. Chỉ cho kết quả chính xác khi lãi suất cố định và tính theo lãi kép
+B. Không thể sử dụng với các khoản đầu tư có rủi ro cao
+C. Không thể tính toán khi nào bạn giàu
+D. Bạn học dở toán
+7.Nhận định nào sau đây là đúng về trái phiếu chính phủ?
+A. Trái phiếu chính phủ có mức rủi ro cao
+B. Trái phiếu chính phủ có lãi suất đầu tư thấp hơn tiền gửi ngân hàng
+C. Giá trái phiếu chính phủ sẽ giảm khi thị trường chứng khoán gặp vấn đề
+D. Người mua trái phiếu chính phủ được miễn thuế thu nhập cá nhân
+8.Bạn mua trái phiếu 200 triệu, kỳ hạn 3 năm, lãi coupon 7%/năm. Sau 1 năm muốn “sang tay” khi lãi suất thị trường giảm còn 6%, trái phiếu của bạn lúc này được định giá bao nhiêu?
+A. 208 triệu VND
+B. 204 triệu VND
+C. 202 triệu VND
+D. 206 triệu VND
+9. Loại thuế nào sau đây có liên quan đến mục tiêu quốc gia Net Zero?
+A. Thuế tiêu thụ đặc biệt
+B. Thuế sử dụng đất
+C. Thuế thu nhập cá nhân
+D. Thuế tài nguyên
+10.Phương hướng hành động nào sau đây củng cố mục tiêu Net Zero trong sản xuất thương mại?
+A. Mở rộng quy mô các nhà máy năng lượng sinh khối
+B. Phát triển vật liệu xây dựng các-bon
+C. Gia tăng các thủ tục hành chính về tín dụng xanh
+D. Tất cả các phương án trên
+
+32. ĐỀ CASTING TRƯỜNG HỌC CỬU LONG 
+
+1.Bạn dùng 1 tỷ VND chiến thắng Vũ trụ Đồng tiền để mua đất thay vì đầu tư vào cổ phiếu với lợi nhuận 12%/năm. Chi phí cơ hội của bạn là gì?
+A. Thời gian làm thủ tục mua đất
+B. Lợi nhuận 120 triệu VND bị bỏ lỡ từ cổ phiếu
+C. Phí chuyển nhượng quyền sử dụng đất
+D. Bạn không mất gì cả vì giá mảnh đất tăng trong năm đầu
+2.Để giảm chi phí cơ hội khi chọn sản phẩm đầu tư, bạn nên làm gì?
+A. Đầu tư vào nhiều sản phẩm cùng lúc để đa dạng hóa
+B. So sánh lợi nhuận, rủi ro của các kênh đầu tư
+C. Chỉ chọn các sản phẩm đầu tư có thanh khoản cao
+D. Tăng số tiền đầu tư để tối đa hóa lợi nhuận
+3.Loại tài sản nào sau đây của bạn KHÔNG được Chính phủ Việt Nam công nhận và bảo vệ?
+A. Tài sản số
+B. Vàng miếng
+C. Danh mục chứng khoán
+D. Đáp án A và C đúng
+4.Bạn mua 500 cổ phiếu với giá 30.000 VND/cổ phiếu, sử dụng tỷ lệ ký quỹ ban đầu là 50%. Số tiền mà bạn phải bỏ ra ban đầu là bao nhiêu?
+A. 1,5 triệu VND
+B. 7,5 triệu VND
+C. 15 triệu VND
+D. 30 triệu VND
+5.Mã chứng khoán nào sau đây KHÔNG thuộc nhóm VN30 Index?
+A. FPT
+B. VCB
+C. SSI
+D. NVL
+6.Bạn thu được lợi nhuận 20 triệu VND từ hoạt động đầu tư chứng khoán. Thuế thu nhập cá nhân của bạn trên khoản tiền này là...
+A. 5 triệu VND
+B. 2 triệu VND
+C. 1 triệu VND
+D. 500.000 VND
+7.Bạn mua điện thoại trả góp 0% nhưng lỡ trả chậm kỳ đầu. Lúc này...
+A. Khoản trả góp không ảnh hưởng
+B. Bạn mất quyền lợi 0%
+C. Điểm tín dụng của bạn tăng
+D. Bạn phải trả lại điện thoại
+8.Theo báo cáo Xu hướng Tiêu dùng của NIQ (2024), có đến 76% người tiêu dùng Việt Nam quan tâm đến...
+A. Những nỗ lực bảo vệ môi trường của các doanh nghiệp
+B. Báo cáo tài chính doanh nghiệp
+C. Những người nổi tiếng đang đại diện cho thương hiệu
+D. Giá cổ phiếu của doanh nghiệp
+9.Trên lộ trình “Net Zero”, Việt Nam đặt mục tiêu tỷ trọng năng lượng tái tạo trong tổng cung cấp năng lượng quốc gia là bao nhiêu % vào năm 2050?
+A. Khoảng 70%
+B. Khoảng 50%
+C. Khoảng 40%
+D. Khoảng 10%
+10.Ứng với Mục tiêu Phát triển bền vững của Chính phủ Việt Nam, các nhà đầu tư đang quan tâm đến...
+A. Trái phiếu Chính phủ
+B. Trái phiếu chuyển dịch sang ESG
+C. Trái phiếu ngành “kinh tế nâu”
+D. Trái phiếu ngân hàng
+33. ĐỀ CASTING TRƯỜNG HỌC VIỆN CÔNG AN NHÂN DÂN 
+
+1.Bạn đang phỏng vấn cho một vị trí mới. Nhà tuyển dụng hỏi “Mức lương hiện tại của bạn là bao nhiêu?” Bạn nên…
+A. Có sao nói vậy
+B. Nói thấp hơn thực tế, tạo lợi thế đàm phán
+C. Trả lời kèm theo định vị giá trị thị trường
+D. Từ chối trả lời: “Thân chưa mà giỡn kiểu đó?”
+2.Thu nhập hàng tháng của bạn là 10 triệu VND. Theo quy tắc 50/30/20, bạn có thể dành bao nhiêu tiền để uống matcha latte?
+A. 4 triệu VND
+B. 5 triệu VND
+C. 3 triệu VND
+D. 1 triệu VND
+3.Theo báo cáo Hành vi tiêu dùng của McKinsey (2023), so với các quốc gia Châu Á – Thái Bình Dương khác, người Việt Nam có xu hướng…
+A. Ưu tiên hàng nội địa hơn
+B. Chi tiêu thoải mái hơn
+C. Chi tiêu tiết kiệm hơn
+D. Chi tiêu trên các sàn thương mại điện tử nhiều hơn
+4.Bạn dùng thẻ tín dụng ưu đãi 0% trong 6 tháng để “xoay nợ” thẻ cũ. Hết ưu đãi mà bạn chưa trả xong thì chuyện gì có thể xảy ra?
+A. Không ảnh hưởng vì nợ đã chuyển sang thẻ mới
+B. Bị tính lãi suất ngược lại từ thời điểm chuyển nợ
+C. Chỉ trả lãi cho phần chưa thanh toán
+D. Bị tạm giam
+5.Rủi ro lớn nhất khi dùng thẻ 0% để chuyển nợ là gì?
+A. Hạn mức thấp
+B. Phí chuyển cao
+C. Lãi sốc sau ưu đãi
+D. Không thể trả sớm
+6.Bạn vay thế chấp 2 tỷ trong 20 năm, lãi 10%/năm, trả theo dư nợ giảm dần. Muốn rút ngắn thời gian vay mà dòng tiền hàng tháng không “bội thực” — bạn nên chọn cách nào?
+A. Trả góp hàng tháng đều
+B. Chuyển sang trả gốc cuối kỳ
+C. Chuyển sang trả góp hai tuần một lần (biweekly)
+D. Gia hạn thêm thời gian vay
+7.Theo Luật các tổ chức tín dụng, bạn không cần chứng minh mục đích sử dụng vốn khả thi nếu vay dưới…
+A. Tùy từng hồ sơ tín dụng
+B. 200 triệu VND
+C. 1 tỷ VND
+D. 100 triệu VND
+8.50 cổ phiếu A bạn mua với giá 100.000 VND/cổ phiếu đã tăng lên 150.000 VND/cổ phiếu. ROI của bạn là bao nhiêu?
+A. 10%
+B. 15%
+C. 50%
+D. 1,5%
+9.Bạn hoan hỉ nhận cổ tức 2 triệu VND từ khoản đầu tư của mình. Mức thuế suất thu nhập cá nhân trên khoản thu này là bao nhiêu?
+A. 10%
+B. 5%
+C. 1%
+D. Bạn được miễn thuế
+10.Khi chuyển nhượng bất động sản, trường hợp nào được miễn thuế thu nhập cá nhân?
+A. Bán nhà dưới 500 triệu đồng
+B. Bán căn nhà đầu tiên đứng tên cá nhân
+C. Cha mẹ cho con thừa kế
+D. Bán nhà tại khu vực nông thôn
+
+34. ĐỀ CASTING TRƯỜNG ĐẠI HỌC CÔNG NGHỆ BƯU CHÍNH VIỄN THÔNG
+
+ 1: Theo báo cáo Lương & Thị trường Lao động của Navigos (2025), khi thay đổi công việc, người lao động quan tâm đến yếu tố nào nhất?
+
+35. ĐỀ CASTING TRƯỜNG ĐẠI HỌC BUV 
+
+1.Theo số liệu của Cục Thống kê, người Việt Nam đang chi tiêu nhiều nhất cho...
+A. Nhà ở, điện nước, chất đốt
+B. Giáo dục và y tế
+C. May mặc, giày dép và dịch vụ cá nhân
+D. Nhà hàng, thực phẩm và đồ uống 
+2.Tài sản lưu động của bạn bao gồm...
+A. Tài khoản ngân hàng, Danh mục chứng khoán 
+B. Bất động sản cho thuê, Vàng miếng
+C. Bất động sản để ở, Xe hơi
+D. Thương hiệu cá nhân, Vốn nhân lực
+3.Xác định giá trị nội tại của cổ phiếu là mục tiêu của phương pháp phân tích đầu tư nào sau đây?
+A. Cơ bản 
+B. Kỹ thuật
+C. Định lượng
+D. Định tính
+4. Mã cổ phiếu A có lệnh mua giới hạn (LO) là 27.300 VND. Vì muốn bán số cổ phiếu A mình đang nắm giữ ngay lập tức, bạn sẽ đặt lệnh bán ở...
+A. 27.100 VND 
+B. 27.000 VND
+C. 27.300 VND
+D. Tất cả các phương án trên
+5.Theo Cổng Thông tin điện tử Chính phủ (2024), tỉ lệ truy cập các nền tảng số “Make in Vietnam” _____ so với các nền tảng số nước ngoài.
+A. Tương đương
+B. Thấp hơn 37% 
+C. Bằng một nửa
+D. Cao hơn 20%
+6.Bạn có nguồn thu là bán khóa học trên KTCity và Udemy. Làm thế nào để bán được lâu dài mà không cần quảng cáo liên tục?
+A. Giá thấp hơn thị trường
+B. Tên giảng viên có uy tín
+C. Nội dung luôn cập nhật, được nền tảng gợi ý
+D. Có group học kèm riêng
+7.Bạn bán một khóa học với giá 499.000 VND, chi phí quay dựng là 5 triệu VND, phí nền tảng 15%. Nếu bạn thu được 20 học viên, tổng lợi nhuận là khoảng...
+A. 3,5 triệu VND 
+B. 1,5 triệu VND
+C. 6 triệu VND
+D. 0 VND, bạn huề vốn
+8. Luật Dữ liệu Việt Nam có hiệu lực từ 1/7/2025 nghiêm cấm hành vi nào?
+A. Tích hợp AI để phân tích dữ liệu cá nhân
+B. Mua bán dữ liệu cá nhân 
+C. Sử dụng dữ liệu cá nhân phát triển điểm tín dụng thay thế
+D. Tất cả các phương án trên
+9.Tính đến năm 2025, đâu là yếu tố chính thúc đẩy sự phát triển của thị trường trái phiếu xanh tại Việt Nam?
+A. Sự gia tăng nhận thức về biến đổi khí hậu trong cộng đồng doanh nghiệp
+B. Hỗ trợ tài chính từ các tổ chức quốc tế
+C. Sức ép từ người tiêu dùng quan tâm ESG
+D. Khung pháp lý hoàn chỉnh về phát hành trái phiếu xanh 
+10. Khi phát hành trái phiếu xanh tại Việt Nam, doanh nghiệp phải thực hiện báo cáo định kỳ về nội dung nào sau đây?
+A. Tình hình tài chính của doanh nghiệp
+B. Tác động môi trường của dự án được tài trợ 
+C. Số lượng cổ đông tham gia mua trái phiếu xanh
+D. Lợi nhuận từ dự án xanh so với các dự án thông thường
+
+36. ĐỀ CASTING HỌC VIỆN CẢNH SÁT NHÂN DÂN 
+
+1. Sắp xếp các tài sản sau đây theo mức độ thanh khoản tăng dần:
+(1) Căn hộ studio; (2) Bộ sưu tập mô hình; (3) 200.000 cổ phiếu blue-chip; (4) 1 BTC.
+A. 2-4-1-3
+B. 3-2-4-1
+C. 4-1-3-2
+D. 2-1-4-3
+2. Để được niêm yết trên sàn giao dịch chứng khoán, doanh nghiệp phải có mức vốn điều lệ tối thiểu là...
+A. 20 tỷ VND
+B. 30 tỷ VND
+C. 40 tỷ VND
+D. 50 tỷ VND
+3. Loại hình dự án nào hiện đang chiếm tỷ trọng lớn nhất trong danh mục đầu tư xanh tại Việt Nam?
+A. Dự án năng lượng tái tạo
+B. Dự án xử lý chất thải và nước thải
+C. Dự án giao thông công cộng
+D. Dự án xây dựng công trình xanh
+4. Theo số liệu của Cục Thống kê, nhóm người Việt Nam có tỷ lệ chi tiêu nhiều nhất cho nhà hàng, thực phẩm và đồ uống là...
+A. Nhóm thu nhập thấp – trung bình
+B. Nhóm thu nhập trung bình – cao
+C. Nhóm sinh viên mới ra trường
+D. Nhóm có nhiều nguồn thu
+5. Bạn hiện chi tiêu 12 triệu VND mỗi tháng. Nếu lạm phát bình quân là 5%/năm, thì sau 3 năm, bạn cần khoảng bao nhiêu mỗi tháng để duy trì mức sống hiện tại?
+A. 10,1 triệu VND
+B. 12 triệu VND
+C. 13,9 triệu VND
+D. 17 triệu VND
+6.  Theo Cổng Thông tin điện tử Chính phủ (2024), tốc độ tăng trưởng thanh toán không dùng tiền mặt hằng năm ở Việt Nam đang...
+A. Dẫn đầu Đông Nam Á
+B. Không theo kịp các quốc gia khác trong khu vực
+C. Bị cản trở bởi hạ tầng kỹ thuật công nghệ
+D. Chững lại so với các quốc gia đang phát triển
+7. Bạn gặp phải rủi ro không thể đảm bảo thu nhập dài hạn cao hơn khi tham gia vào...
+A. Thị trường đầu tư tài chính
+B. Nền kinh tế hợp đồng và lao động tự do
+C. Xu hướng nghỉ hưu sớm
+D. Công việc “bán mình cho tư bản”
+8. Thành phố nào đang là trung tâm khởi nghiệp sôi động nhất Việt Nam tính đến năm 2025?
+A. Hà Nội
+B. Đà Nẵng
+C. TP. Hồ Chí Minh
+D. Hạ Long
+9. Startup của bạn đối mặt với rủi ro nào khi CAC tăng nhanh hơn LTV nhưng doanh thu vẫn tăng?
+A. Rủi ro thanh khoản ngắn hạn
+B. Mất kiểm soát tăng trưởng
+C. Định giá bị pha loãng
+D. Hiệu quả truyền thông không bền vững
+10. Theo số liệu mới nhất, nhóm ngành nào có xu hướng thu hút nhiều vốn đầu tư mạo hiểm tại Việt Nam nhất trong giai đoạn 2024–2025?
+A. Fintech
+B. Bất động sản
+C. Nông nghiệp xanh
+D. Du lịch số hóa
+
+37. ĐỀ CASTING ĐẠI HỌC AN NINH NHÂN DÂN 
+
+1.Bạn đã tiết kiệm được 1 tỷ sau 10 năm đều đặn gửi tiết kiệm 6,5 triệu VND/tháng. Phép màu nào đã giúp bạn đạt được điều này?
+A. Lãi suất kép 7%/năm
+B. Lãi suất đơn 7%/năm
+C. Lãi suất ưu đãi 7%/năm
+D. Lãi suất chiết khấu 7%/năm
+2.Theo báo cáo Ngân hàng số của InCorp (2025), 3% là tỷ lệ người Việt Nam sử dụng...
+A. Thẻ tín dụng
+B. Thẻ ghi nợ
+C. Sổ tiết kiệm
+D. Dịch vụ ký quỹ khi đầu tư
+3.Nhận định nào sau đây là đúng về tín dụng cá nhân?
+A. Thường kém nhạy cảm với lãi suất và nhạy cảm với chu kỳ kinh tế
+B. Thường nhạy cảm với lãi suất và kém nhạy với chu kỳ kinh tế
+C. Thường nhạy cảm với cả lãi suất và chu kỳ kinh tế
+D. Thường kém nhạy với cả lãi suất và chu kỳ kinh tế
+4. Là một người dùng thẻ tín dụng thông minh, bạn không cho phép hạn mức thẻ vượt quá ___ thu nhập.
+A. 50%
+B. 70%
+C. 85%
+D. 100%
+5.Theo số liệu của Ngân hàng Nhà nước (2024), ngành nào đang chiếm tỷ trọng cao nhất trong cơ cấu tín dụng xanh?
+A. Năng lượng tái tạo, năng lượng sạch
+B. Nông nghiệp xanh
+C. Quản lý nước bền vững
+D. Công trình xanh
+6.Đây là hình ảnh nhận diện của...
+
+A. Nền tảng giao dịch chứng khoán GRI
+B. Thị trường tín chỉ các-bon khu vực Châu Á – Thái Bình Dương
+C. Tổ chức phi chính phủ về Giáo dục Tài chính cá nhân
+D. Tổ chức Sáng kiến Báo cáo toàn cầu
+7.Bạn đưa căn cước công dân và giấy tờ chứng minh thu nhập của mình cho ngân hàng để đổi lấy một khoản tín dụng đóng học phí. Đây là hình thức...
+A. Tín dụng tín chấp
+B. Tín dụng đen
+C. Tín dụng cầm cố
+D. Tín dụng thế chấp
+8.Hệ số tiết kiệm được hiểu như thế nào?
+A. Khả năng thanh toán những khoản nợ ngắn hạn của bạn
+B. Khả năng thanh toán các chi phí sinh hoạt định kỳ nếu bạn mất thu nhập
+C. Cân bằng giữa nợ và thu nhập của bạn
+D. Thu nhập được chuyển hóa thành tài sản ròng của bạn
+9.Bạn sử dụng quy tắc 114 trong tài chính cá nhân như thế nào?
+A. Tính số tiền tiết kiệm sau một khoảng thời gian
+B. Ước tính thời gian để số tiền đầu tư tăng gấp ba
+C. Xác định tỷ lệ lạm phát hàng năm
+D. Gọi cứu hỏa khi “cháy túi”
+10.Bạn mua túi hàng hiệu giá 20 triệu VND, sau 3 tháng đăng lại trên chợ đồ cũ giá 22 triệu VND. Đã có người trả 18 triệu VND. Nếu bán, bạn...
+A. Lỗ 2 triệu VND
+B. Lỗ 4 triệu VND
+C. Lãi 2 triệu VND
+D. Lỗ giá trị tinh thần
+
+38. ĐỀ CASTING ĐẠI HỌC NÔNG LÂM TP HCM 
+1. Bạn không tham gia bất cứ kênh đầu tư hay tiết kiệm nào và giữ tiền mặt. Rủi ro lớn nhất của bạn là...
+A. Mất vốn
+B. Không có thanh khoản
+C. Lạm phát
+D. Thành "người tối cổ"
+
+2.Bạn gửi tiền vào tài khoản tiết kiệm với lãi suất 3%/năm. Lạm phát là 5%/năm. Chi phí ẩn là gì?
+A. Tiền của bạn "yếu" đi 2%/năm
+B. Cơ hội sử dụng tiền đó đầu tư sinh lời
+C. Phí duy trì tài khoản tiết kiệm
+D. Mất toàn bộ hoặc một phần lãi
+
+3.Khi xem xét đầu tư, bạn phân tích tình hình tài chính của một công ty qua...
+A. Bảng cân đối kế toán
+B. Báo cáo phát triển bền vững
+C. Báo cáo lưu chuyển tiền tệ
+D. Tướng số học của Hội đồng quản trị
+
+4.Bạn được trả cổ tức bằng tiền mặt là 1 triệu VND. Bạn cần phải làm gì đầu tiên?
+A. Đóng thuế giá trị gia tăng 10.500 VND
+B. Lên kế hoạch chi tiêu hoặc tái đầu tư
+C. Đóng thuế thu nhập cá nhân 50.000 VND
+D. Tất cả các phương án trên
+
+5.Nếu giá tham chiếu của cổ phiếu A giao dịch trên sàn UPCoM đang ở mức 120.000 VND thì bạn KHÔNG đặt được lệnh giao dịch ở mức giá...
+A. 138.500 VND
+B. 100.000 VND
+C. 140.000 VND
+D. Tất cả các phương án trên
+
+6.Chỉ số VNSI-20 có ý nghĩa gì trong đầu tư?
+A. Top 20 công ty có giá trị vốn hóa cao nhất niêm yết trên sàn HOSE
+B. Top 20 công ty có điểm số Phát triển bền vững cao nhất niêm yết trên sàn HOSE
+C. Nhóm 20 tiêu chí để đo lường giá trị cổ phiếu trên sàn HOSE
+D. Top 20 nhà đầu tư “cá mập” có sức ảnh hưởng lớn nhất trên sàn HOSE
+
+7.Bạn nộp hồ sơ tín dụng cho ngân hàng để xét duyệt khoản mua ô tô. Hồ sơ của bạn bị đánh giá là không tốt vì...
+A. Bạn từng sử dụng quá nhiều loại hình tín dụng
+B. Bạn vay số tiền quá lớn
+C. Bạn không có chuyên môn tài chính
+D. Bạn chưa từng sử dụng tín dụng trong quá khứ
+
+8.Theo Luật các tổ chức tín dụng có hiệu lực từ ngày 1/7/2024, bạn không cần chứng minh mục đích sử dụng vốn nếu vay dưới...
+A. 100 triệu VND
+B. 200 triệu VND
+C. 1 tỷ VND
+D. 10.000 USD
+
+9.Khi bạn mua mới một phương tiện di chuyển như ô tô hay xe máy, chi phí cố định lớn nhất là gì?
+A. Tiền xăng
+B. Tiền đỗ xe
+C. Tiền hoa hồng
+D. Khấu hao
+
+10.Bạn được giới thiệu một app tài chính mới ra mắt, lãi suất cam kết 20%/năm, hoàn tiền 100% nếu xảy ra rủi ro. Quyết định của bạn là...
+A. Tất tay
+B. Đăng ký và đọc kỹ điều khoản
+C. Giới thiệu lại cho người khác vì dù rất muốn nhưng bạn không có tiền đầu tư
+D. Cảm ơn và hẹn gặp lại
+
+39. ĐỀ CASTING ĐẠI HỌC KINH TẾ ĐẠI HỌC CÔNG NGHIỆP HÀ NỘI 
+
+1.Bạn gọi trà sữa thêm topping vì “chỉ cần thêm 10.000 VND” dù ban đầu không có nhu cầu, đây là...
+A. Ảo tưởng “thêm chút không sao”
+B. Tâm lý mua sắm bù đắp tổn thương tinh thần
+C. Tham ăn
+D. Tất cả các phương án trên
+2.Trạng thái an toàn tài chính cao nhất thường đạt được ở độ tuổi nào sau đây?
+A. 45–60 tuổi
+B. 25–40 tuổi
+C. 18–25 tuổi
+D. Không có đáp án đúng
+3.Bạn là một nhà sáng tạo nội dung cư trú tại Việt Nam, thu nhập khoảng 120 triệu VND từ YouTube mỗi năm (Google trả từ nước ngoài). Bạn cần nộp loại thuế nào?
+A. Thuế tiêu thụ đặc biệt
+B. Thuế thu nhập doanh nghiệp
+C. Thuế thu nhập cá nhân từ kinh doanh
+D. Không cần nộp vì hình thức kinh doanh này không có hợp đồng lao động
+4.Bạn lựa chọn đầu tư vào một cổ phiếu chủ đề “AI Enabler”. Đây là một doanh nghiệp...
+A. Chuyên bán robot AI
+B. Cung cấp hạ tầng phần cứng/phần mềm cho hệ sinh thái AI
+C. Cung cấp chatbot nội bộ hỗ trợ chăm sóc khách hàng
+D. Startup AI chưa IPO
+5.Vì sao doanh nghiệp sản xuất GPU hoặc thiết kế vi xử lý AI thường được định giá cao trong đầu tư?
+A. Biên lợi nhuận gộp thấp nhưng quy mô lớn
+B. Khấu hao tài sản thấp
+C. Lợi thế công nghệ độc quyền và nhu cầu toàn cầu
+D. Chi phí nhân sự rẻ do dùng AI thay người
+6.Trong giai đoạn thị trường giảm sâu, khi thấy khối ngoại mua ròng mạnh trong nhiều phiên nhưng giá cổ phiếu không tăng, bạn nên làm gì?
+A. Mua theo vì “tiền thông minh” đang vào
+B. Chờ tín hiệu xác nhận từ volume và giá
+C. Short ngược vì đây là bẫy tăng giá
+D. Cắt lỗ ngay lập tức
+7.100 cổ phiếu nhóm ESG của bạn có tỷ lệ P/E là 10, bạn “bỏ túi” phần lợi nhuận là 300.000 VND. Giá của một cổ phiếu này là...
+A. 3.000 VND
+B. 300.000 VND
+C. 30.000 VND
+D. Bạn không quan tâm, quan trọng là đóng góp cho xã hội
+8.Loại hình dự án nào hiện đang chiếm tỷ trọng lớn nhất trong danh mục đầu tư xanh tại Việt Nam?
+A. Dự án tái chế rác thải nhựa
+B. Dự án trồng rừng và chống xói mòn
+C. Dự án công trình xanh tiêu chuẩn LEEDs
+D. Dự án năng lượng tái tạo
+9.Cơ chế nào sau đây được thiết lập để đảm bảo rằng các dự án xanh tại Việt Nam đáp ứng các tiêu chuẩn môi trường quốc tế?
+A. Chương trình Chứng nhận Dự án Xanh của Chính phủ
+B. Tiêu chuẩn báo cáo Phát triển bền vững của Sở Giao dịch Chứng khoán TP.HCM
+C. Chương trình Giám sát Tài chính Xanh của Ngân hàng Nhà nước
+D. Hệ thống đánh giá tác động môi trường của Bộ Tài nguyên và Môi trường
+10.Áp hạn ngạch các-bon để kiểm soát lượng phát thải trong sản xuất kinh doanh là phương pháp của...
+A. Cơ chế Phát triển Sạch (CDM)
+B. Cơ chế Đồng ý tự nguyện (VER)
+C. Hệ thống giới hạn và thương mại (Cap-and-Trade)
+D. Cơ chế Đồng thuận chung (JCM)
+
+40. ĐỀ CASTING ĐẠI HỌC HÀ NỘI 
+
+1. Bạn có thu nhập hàng tháng là 20 triệu VND. Theo quy tắc 6 chiếc lọ, số tiền tối đa bạn có thể dùng mua bảo hiểm là...
+A. Toàn bộ số tiền dư ra sau khi bạn đã đáp ứng các nhu cầu thiết yếu
+B. 2 triệu VND
+C. 20 triệu VND
+D. 11 triệu VND
+
+2.Việc bạn sẵn sàng chi nhiều hơn để “được chọn” thay vì dùng combo sẵn có, ngay cả khi không khác biệt nhiều, thể hiện...
+A. Ảo tưởng kiểm soát chi tiêu
+B. Chi tiêu lệch chuẩn
+C. Chi tiêu tỉnh táo
+D. Tâm lý chống đối xã hội
+
+3.Khi tính thuế thu nhập cá nhân, chi phí nào sau đây không hợp lý để giảm trừ?
+A. Đóng bảo hiểm xã hội
+B. Khoản đóng góp quỹ từ thiện
+C. Viện phí
+D. Gia cảnh cho người phụ thuộc
+
+4. Bạn cần nộp thuế thu nhập cá nhân cho khoản thu nào trong đầu tư chứng khoán?
+A. Khi cổ phiếu tăng giá
+B. Khi bán cổ phiếu có lãi
+C. Khi cổ tức được chia
+D. Tất cả các phương án trên
+
+5. Đâu không phải là điểm chung của trái phiếu chính phủ và trái phiếu doanh nghiệp?
+A. Lãi suất thường giữ ở mức cố định
+B. Rủi ro thấp hơn cổ phiếu
+C. Kỳ hạn tối thiểu là 01 năm
+D. Nhà đầu tư có thu nhập dựa trên lãi suất định kỳ
+
+6.Khi cần định giá công ty công nghệ có biên lợi nhuận thấp và tăng trưởng nhanh, bạn sử dụng chỉ số...
+A. EV/EBITDA
+B. P/E
+C. P/B
+D. EV/Sales
+
+7.Trong phân tích đầu tư, chỉ số EV/EBITDA khác với P/E ở điểm nào sau đây?
+A. EV/EBITDA bỏ qua ảnh hưởng của đòn bẩy tài chính và thuế
+B. P/E áp dụng cho các công ty có lỗ ròng
+C. EV/EBITDA thấp luôn là tín hiệu tốt
+D. EV là giá trị tài sản hữu hình thuần
+
+8. Nếu giá tham chiếu của cổ phiếu A giao dịch trên sàn HNX đang ở mức 120.000 VND thì bạn không đặt được lệnh giao dịch ở mức giá...
+A. 90.000 VND
+B. 110.000 VND
+C. 112.000 VND
+D. 120.000 VND
+
+9. Mã cổ phiếu A có tỷ lệ P/E là 30. Nếu lợi nhuận mỗi cổ phiếu là 2.000 VND, giá của cổ phiếu là bao nhiêu?
+A. 20.000 VND/cổ phiếu
+B. 30.000 VND/cổ phiếu
+C. 40.000 VND/cổ phiếu
+D. 60.000 VND/cổ phiếu
+
+10. Là một nhà đầu tư cá nhân ở Việt Nam, bạn còn gặp khó khăn khi ứng dụng Trí tuệ nhân tạo (AI) vào hỗ trợ đầu tư do...
+A. Nhiều kênh thông tin rác gây nhiễu loạn dữ liệu phân tích của AI
+B. Chính phủ chưa hợp pháp hóa việc ứng dụng AI vào mục đích đầu tư
+C. Phần lớn hạ tầng kết nối Internet không đảm bảo để phục vụ dữ liệu AI
+D. Tất cả các phương án trên
+
+41. ĐỀ CASTING ĐẠI HỌC KINH TẾ KỸ THUẬT CÔNG NGHIỆP 
+
+1.Bạn là một nhà đầu tư mới bắt đầu. Việc các nền tảng fintech phân phối chứng chỉ quỹ cho bạn tiềm ẩn rủi ro gì?
+A. Bạn mất khả năng tiếp cận quỹ lớn
+B. Bạn thể bán lại chứng chỉ
+C. Bạn không được bảo hiểm NAV
+D. Bạn thiếu hiểu biết về sản phẩm và kỳ vọng sai lệch
+2.Bạn đặt lệnh mua thị trường (MP) với mã cổ phiếu D. Điều này có nghĩa là gì?
+A. Bạn sẵn sàng mua cổ phiếu với mức giá bán thấp nhất lúc đó
+B. Bạn sẵn sàng mua cổ phiếu với mọi mức giá
+C. Bạn mua cổ phiếu với giá trần
+D. Bạn chỉ mua cổ phiếu trên sàn HNX
+3. Bạn góp vốn vào một fintech vận hành mô hình Buy Now Pay Later (BNPL). Hãy cẩn thận với rủi ro vỡ nợ cao khi...
+A. Tệp khách của bạn có điểm tín dụng cao và thu nhập thấp
+B. Không kiểm soát tốt tốc độ tăng trưởng GMV
+C. Liên kết với sàn thương mại điện tử lớn
+D. Tất cả các phương án trên
+4.Chỉ số nào đo hiệu quả sử dụng vốn đầu tư tốt hơn trong môi trường lạm phát cao?
+A. ROE
+B. ROIC
+C. EBITDA Margin
+D. P/E forward
+5.Bạn có 300 triệu VND, muốn tối ưu lãi mà vẫn có thể rút một phần khi cần. Phương án nào hợp lý nhất?
+A. Tiêu hết luôn để đỡ phải nghĩ
+B. Chia làm 3 sổ kỳ hạn khác nhau
+C. Gửi kỳ hạn 1 tháng rồi quay vòng
+D. Gửi tiết kiệm linh hoạt có thể rút gốc từng phần
+6. Sinking Fund là phương pháp trả nợ cá nhân như thế nào?
+A. Trả nợ trực tiếp
+B. Trả nợ bằng tài sản
+C. Tạo quỹ trước khi trả
+D. Chuyển nợ sang bên thứ ba
+7. Tại sao nhiều người bán chọn “trả tiền tùy tâm” (Pay what you want) trên Gumroad cho sản phẩm số đầu tay?
+A. Vì không biết định giá
+B. Vì muốn thăm dò nhu cầu và tệp khách hàng
+C. Vì đây là bắt buộc với tài khoản mới
+D. Bán hàng vì đam mê
+8. Tại sao một số công ty không thể tăng lương cho nhân viên dù hiệu suất tốt?
+A. Vì chưa đến chu kỳ tăng lương
+B. Vì ngân sách không cho phép
+C. Vì dùng hệ số và khung bậc cứng theo hệ thống
+D. Vì keo kiệt
+9.Theo báo cáo Thị trường lao động toàn cầu của WEF (2025), những kỹ năng cốt lõi được nhà tuyển dụng kỳ vọng ở ứng viên là...
+A. AI, Dữ liệu lớn và Tư duy phân tích
+B. Khả năng lãnh đạo và Sức chống chịu
+C. Sự linh hoạt và Tư duy sáng tạo
+D. AI, Dữ liệu lớn và Bảo mật hệ thống
+10.Theo Tổng cục Thống kê, những năm gần đây, khi trình độ lao động của thế hệ mới dần được nâng cao thì...
+A. Lao động thanh niên không còn thất nghiệp
+B. Lao động trung niên thất nghiệp nhiều hơn vì cạnh tranh cao
+C. Nhiều lao động nghỉ hưu sớm hơn
+D. Lao động thanh niên thất nghiệp nhiều hơn vì “kén chọn”
+
+42. ĐỀ CASTING ĐẠI HỌC LUẬT HÀ NỘI 
+
+1.Trong thị trường lao động số, đâu là rủi ro lớn nhất khi thu nhập cá nhân phụ thuộc vào nền tảng như TikTok, YouTube, Upwork?
+A. Mức phí nền tảng cao
+B. Khó quản lý thời gian
+C. Mất tài khoản do thay đổi chính sách
+D. Thiếu hợp đồng lao động chính thức
+2.Bạn bán hàng trên nền tảng số. Chạy quảng cáo hết 900.000 VND, thu về 15 đơn, giá 99.000 VND/đơn. Chi phí quảng cáo mỗi đơn (CPA) là...
+A. 45.000 VND
+B. 60.000 VND
+C. 66.000 VND
+D. 70.000 VND
+4.Bạn gửi tiết kiệm 200 triệu kỳ hạn 12 tháng, lãi suất 7%/năm. Nếu rút trước hạn sau 2 tháng, bạn thường nhận mức lãi nào?
+A. 7%/năm tính theo số ngày gửi
+B. 0,1%/năm tính theo số ngày gửi
+C. Không được lãi
+D. 3,5%/năm tính theo 2 tháng đầu
+5.Bạn cài đặt tài khoản: hễ vượt 50 triệu VND, phần dư tự động chuyển tiết kiệm. Ngày 1 nhận lương 60 triệu VND, ngày 2 chi 20 triệu VND. Phần tiết kiệm tự động là...
+A. 10 triệu VND
+B. 0 VND
+C. 60 triệu VND
+D. 40 triệu VND
+6.Trong giai đoạn thị trường tăng nóng, dòng tiền vào quỹ cổ phiếu tăng mạnh nhất vào lúc nào?
+A. Khi P/E thị trường giảm
+B. Sau khi chỉ số đạt đỉnh
+C. Giai đoạn tăng giữa chu kỳ
+D. Khi có tin tức vĩ mô tiêu cực
+7.Quỹ cổ phiếu bạn chọn có hiệu suất cao hơn VN-Index trong 3 năm liền nhưng vẫn bị rút vốn mạnh. Khả năng cao là do...
+A. Hiệu suất bị bóp méo do mua vào đúng đáy
+B. Nhà đầu tư thiếu kiên nhẫn và ưa lướt sóng
+C. Thông tin minh bạch kém, niềm tin suy giảm
+D. Quỹ đầu tư vào các cổ phiếu ít tên tuổi
+8. Bạn thành lập một startup xanh, gọi vốn vòng Pre-Series A với định giá 100 tỷ VND và bán 20% cổ phần. Hệ quả có thể là...
+A. Dễ bị định giá thấp ở vòng sau
+B. Mất khả năng pivot mô hình
+C. Bị ép sáp nhập không có lợi
+D. Pha loãng founder quá sớm
+9. Theo Bộ Công Thương, nguồn tài nguyên nào được xem là có tiềm năng lớn nhất để hỗ trợ Việt Nam đạt mục tiêu “Net Zero”?
+A. Năng lượng gió
+B. Than đá
+C. Nhân lực công nghệ cao
+D. Tâm linh
+10. Theo đúng lộ trình “Net Zero” của Việt Nam, vào năm 2050, tỷ trọng năng lượng tái tạo trong tổng cung cấp năng lượng quốc gia sẽ là...
+A. 10%
+B. 40%
+C. 50%
+D. 70%
+
+43. ĐỀ CASTING ĐẠI HỌC HUẾ 
+
+1.Thị trường tài chính KHÔNG bao gồm “thành viên” nào sau đây?
+A. Thị trường tiền tệ
+B. Thị trường chứng khoán
+C. Thị trường hàng hóa
+D. Thị trường lao động
+2.Vì sao đầu tư vào cổ phiếu đem lại lợi nhuận trung bình cao về lâu về dài?
+A. Vì rủi ro thấp
+B. Vì doanh nghiệp tạo ra thêm giá trị cho xã hội 
+C. Vì cổ phiếu tăng giảm theo lãi suất
+D. Vì các cụ bảo thế
+3.Theo báo cáo Ngân hàng số của InCorp (2025), có bao nhiêu người Việt Nam sử dụng đa kênh dịch vụ ngân hàng?
+A. 13%
+B. 100%
+C. 29%
+D. 70%
+4.Bạn vay ngân hàng để mua căn nhà đầu tiên. Phương thức hoàn trả nào sau đây là phù hợp nhất cho mục đích này?
+A. Tín dụng trả góp 
+B. Tín dụng hoàn trả một lần
+C. Tín dụng tuần hoàn
+D. Tất cả các phương án trên
+5.Lương 5 triệu mỗi tháng, theo quy tắc 50/30/20, thì bạn nên trích bao nhiêu cho tiết kiệm và đầu tư để ví không bao giờ rỗng vào cuối tháng?
+A. 2 triệu VND
+B. 2,5 triệu VND
+C. 1,5 triệu VND 
+D. 1 triệu VND
+6.Hệ số thanh toán hiện thời được hiểu như thế nào?
+A. Khả năng thanh toán những khoản nợ ngắn hạn của bạn 
+B. Khả năng thanh toán các chi phí sinh hoạt định kỳ nếu bạn mất thu nhập
+C. Cân bằng giữa nợ và thu nhập của bạn
+D. Thu nhập được chuyển hóa thành tài sản ròng của bạn
+7.Bạn có khẩu vị an toàn và lựa chọn gửi tiền vào tài khoản tiết kiệm với lãi suất thấp. Chi phí cơ hội bạn đã trả là...
+A. Lợi nhuận tiềm năng từ việc đầu tư 
+B. Phí giao dịch của tài khoản tiết kiệm
+C. Lãi suất cố định của tài khoản tiết kiệm
+D. Không gì cả, vì gửi tiết kiệm không có chi phí cơ hội nào
+8.Đây là dạng biểu đồ gì trong đầu tư chứng khoán?
+
+A. Biểu đồ hình nến 
+B. Biểu đồ dạng đường
+C. Biểu đồ hình thanh
+D. Biểu đồ dạng cột
+9. Bạn gửi đều mỗi tháng vào tài khoản có lãi suất 8%/năm, lãi nhập gốc hàng tháng. 20 năm nữa bạn muốn có 1 tỷ VND, mỗi tháng bạn gửi...
+A. 65.000 VND
+B. 1,65 triệu VND
+C. 650.000 VND
+D. 6,5 triệu VND
+10.Theo số liệu của Global Market Insights, thị trường tài chính bền vững toàn cầu trong giai đoạn 2025–2034 có tỷ lệ tăng trưởng kép (CAGR) là...
+A. 91%
+B. 6,85% 
+C. 37,5%
+D. 19,8%
+
+44. ĐỀ CASTING ĐẠI HỌC KINH TẾ HUẾ
+
+1.Lạm phát có lợi cho ai?
+A. Người cho vay với lãi suất cố định
+B. Người đi vay với lãi suất cố định 
+C. Chủ doanh nghiệp
+D. Chính phủ
+2.Khoản đầu tư nào sau đây KHÔNG cung cấp bất cứ thu nhập định kỳ nào?
+A. Bất động sản
+B. Trái phiếu
+C. Vàng 
+D. Cổ phiếu
+3.Hai thước đo phổ biến của rủi ro đầu tư là gì?
+A. Uy tín doanh nghiệp và chính sách kinh tế
+B. Khẩu vị rủi ro và tình hình tài chính cá nhân
+C. Chỉ số thị trường và điểm tín dụng quốc gia
+D. Phạm vi lợi nhuận và mức độ biến động của lợi nhuận
+4.Bạn “gửi gắm” 100 triệu cho lãi suất kép 7%/năm làm việc không nghỉ. Vậy bao lâu nữa tài khoản của bạn sẽ tự nhân đôi?
+A. 1 năm
+B. 2 năm
+C. 5 năm
+D. 10 năm
+
+5.Hệ số thanh toán nợ được hiểu như thế nào?
+A. Khả năng thanh toán những khoản nợ ngắn hạn của bạn 
+B. Khả năng thanh toán các chi phí sinh hoạt định kỳ nếu bạn mất thu nhập
+C. Cân bằng giữa nợ và thu nhập của bạn
+D. Thu nhập được chuyển hóa thành tài sản ròng của bạn
+6. Theo khảo sát “Tiếng nói Người tiêu dùng” của PwC (2024), người tiêu dùng sẵn sàng trả giá cao hơn ____ cho các sản phẩm, dịch vụ xanh.
+A. 5%
+B. 10% 
+C. 15%
+D. 30%
+7. Đây là loại tiền tệ nào?
+(tờ 5 – 10 – 20 – 50 Yuan, in hình Mao Trạch Đông)
+A. Nhân Dân tệ 
+B. Yên Nhật
+C. Baht Thái
+D. Việt Nam đồng
+8. Tại Việt Nam, bạn KHÔNG thể gửi tiết kiệm loại tiền tệ nào sau đây?
+A. JPY
+B. XRP
+C. CNY
+D. INR
+9. Thu nhập 12 triệu VND/tháng, theo quy tắc 50/30/20 thì bạn nên dành bao nhiêu cho các nhu cầu thiết yếu để cuối tháng không phải gặm mì tôm?
+A. 2,4 triệu VND
+B. 3,6 triệu VND
+C. 6 triệu VND
+D. 9,5 triệu VND
+10. Theo báo cáo Ngân hàng số của InCorp (2025), tỷ lệ người Việt Nam sử dụng thẻ tín dụng là...
+A. 3%
+B. 15% 
+C. 29%
+D. 71%
+
+45. ĐỀ CASTING ĐẠI HỌC PHÒNG CHÁY CHỮA CHÁY 
+
+1.Theo số liệu của Ngân hàng Nhà nước, tỷ lệ người Việt Nam có tài khoản thanh toán tại ngân hàng đầu năm 2025 đã thay đổi như thế nào so với 2024?
+A. Giảm 1,7%
+B. Tăng 10% 
+C. Tăng 33,4%
+D. Giữ nguyên
+2.Bạn nhận ra lợi ích lớn nhất của Thẻ Ghi nợ (Debit) là gì?
+A. Tài trợ cho bạn mức sống cao hơn thu nhập
+B. Cho phép bạn vay tiền với lãi suất ưu đãi
+C. Giúp bạn học cách kỷ luật trong chi tiêu 
+D. Tất cả các phương án trên
+3.Bạn gửi tiết kiệm kỳ hạn 5 năm với lãi suất 5%/năm. Chi phí cơ hội bạn đã bỏ ra là...
+A. Lãi suất 5% ở ngân hàng khác
+B. Bạn không thể dùng tiền đó để đi du lịch trải nghiệm
+C. Lợi nhuận tiềm năng từ việc đầu tư cổ phiếu 
+D. Tất cả các phương án trên
+4.Bạn hiện chi tiêu 12 triệu VND mỗi tháng. Nếu lạm phát bình quân là 5%/năm, thì sau 3 năm, bạn cần khoảng bao nhiêu mỗi tháng để duy trì mức sống hiện tại?
+A. 10,1 triệu VND
+B. 12 triệu VND
+C. 13,9 triệu VND 
+D. 17 triệu VND
+5.Đây là hình ảnh nhận diện của tổ chức nào?
+(Ảnh: logo SASB – chữ đỏ và biểu đồ cột)
+✅ SASB – Sustainability Accounting Standards Board (Hội đồng Chuẩn mực Kế toán Bền vững)
+6.Trái phiếu doanh nghiệp khác trái phiếu chính phủ như thế nào?
+A. Kỳ hạn ngắn hơn
+B. Rủi ro ở mức trung bình với khả năng bảo toàn vốn là tương đối
+C. Có khả năng chuyển đổi thành cổ phiếu
+D. Tất cả các phương án trên
+7.Bạn mua trái phiếu 200 triệu, kỳ hạn 3 năm, lãi coupon 7%/năm. Sau 1 năm muốn “sang tay” khi lãi suất thị trường giảm còn 6%, trái phiếu của bạn lúc này được định giá bao nhiêu?
+A. 208 triệu VND 
+B. 204 triệu VND
+C. 202 triệu VND
+D. 206 triệu VND
+8.Theo “Báo cáo Rủi ro toàn cầu 2024” của Diễn đàn Kinh tế Thế giới, rủi ro dài hạn nghiêm trọng nhất trên toàn cầu đang là...
+A. Tội phạm không gian mạng
+B. Chiến tranh vũ trang
+C. Ảnh hưởng tiêu cực của công nghệ AI
+D. Biến đổi khí hậu
+9.Để đạt được cam kết “Net Zero” vào năm 2050, Chính phủ Việt Nam đang ưu tiên chuyển đổi xanh đối với nhóm ngành nào?
+A. Bán lẻ
+B. Tài chính – Ngân hàng
+C. Năng lượng 
+D. Giao thông vận tải
+10.Năm 2028 đánh dấu sự vận hành chính thức của cơ chế nào trên lộ trình thực hiện Mục tiêu “Net Zero” ở Việt Nam?
+A. Sàn giao dịch tín chỉ các-bon 
+B. Công trình thủy điện theo Cơ chế Phát triển Sạch (CDM) lớn nhất Việt Nam
+C. Thuế Bảo vệ Môi trường đối với túi ni-lông
+D. Tinh giản bộ máy hành chính trên toàn quốc
+
+46. ĐỀ CASTING ĐẠI HỌC THỦY LỢI
+Câu 1
+Bạn là một nhà đầu tư mới bắt đầu. Tiêu chí quan trọng để bạn đánh giá giá trị của một mã cổ phiếu là...
+A. Tính thanh khoản
+B. Mức lạm phát trong nước
+C. Lời khuyên từ các hội nhóm anh em chứng sỹ
+D. Lá số tử vi của bạn
+Câu 2
+Bạn mua 200 cổ phiếu A với giá 50.000 VND/cổ phiếu. Sau một năm, bạn được trả cổ tức 5.000 VND/cổ phiếu. Lợi suất đầu tư của bạn là...
+A. 10%
+B. 20%
+C. 40%
+D. 50%
+Câu 3
+Theo Nghị định 65/2022/NĐ-CP, bạn là nhà đầu tư chứng khoán chuyên nghiệp khi có tổng danh mục đầu tư chứng khoán được niêm yết giá trị tối thiểu...
+A. 10 tỷ VND
+B. 1 tỷ VND
+C. 2 tỷ VND
+D. 20 tỷ VND
+Câu 4
+Tháng 06/2024, quỹ đầu tư nào đã trở thành quỹ mở cổ phiếu đầu tiên tại Việt Nam chia cổ tức bằng tiền mặt cho thành viên quỹ?
+A. Quỹ DCDE
+B. Quỹ VEOF
+C. Quỹ iFund
+D. Quỹ VCBF-MGF
+Câu 5
+Vì sao quỹ mở bạn đầu tư không trả cổ tức bằng tiền mặt?
+A. Hạn chế dòng tiền rút ra
+B. Duy trì NAV ổn định
+C. Tối ưu hóa lãi kép cho nhà đầu tư
+D. Tuân thủ quy định pháp luật
+Câu 6
+Theo báo cáo của Diễn đàn Kinh tế Thế giới (WEF), nhóm ngành nào có tiềm năng nhất trong việc áp dụng Trí tuệ tạo sinh GenAI vào tự động hóa?
+A. Bán lẻ
+B. Ngân hàng
+C. Dịch vụ công
+D. Công nghiệp hóa chất
+
+Câu 7
+Bạn chưa được nhận lương nhưng đang cần thanh toán một khoản 10 triệu VND. Để tối ưu chi phí cơ hội, bạn...
+A. Rút tiền tiết kiệm để thanh toán
+B. Bán danh mục cổ phiếu để thanh toán
+C. Bán danh mục chứng chỉ quỹ để thanh toán
+D. Dùng thẻ tín dụng để thanh toán
+Câu 8
+Theo Luật các tổ chức tín dụng có hiệu lực từ ngày 1/7/2024, bạn không cần chứng minh mục đích sử dụng vốn khả thi nếu vay dưới...
+A. 100 triệu VND
+B. 20 triệu VND
+C. 10 triệu VND
+D. Tất cả các phương án trên
+Câu 9
+Bạn có 200 triệu VND trong một tài khoản tiết kiệm với lãi suất kép hằng năm là 4%. Sau 5 năm, số tiền trong tài khoản là khoảng...
+A. 100 triệu VND
+B. 150 triệu VND
+C. 200 triệu VND
+D. 250 triệu VND
+Câu 10
+Bạn vừa được thừa kế bất động sản từ ông ngoại. Thuế suất thu nhập cá nhân của bạn trên khoản tiền này là...
+A. 5% giá trị bất động sản
+B. 10% giá trị bất động sản
+C. 15% giá trị bất động sản
+D. 0 VND, bạn được miễn thuế thu nhập cá nhân cho khoản thu này
+
+47. ĐỀ CASTING ĐẠI HỌC NGUYỄN TẤT THÀNH
+
+Câu 1
+Bạn đang suy nghĩ về việc mua bất động sản đầu đời. Bạn xác định giá mua thích hợp dựa theo...
+A. Thị trường
+B. Tiềm năng phát triển
+C. Chi phí và chiết khấu
+D. Tất cả các phương án trên
+Câu 2
+Vay mua nhà, trả góp 12 triệu/tháng. Thu nhập trước thuế cỡ bao nhiêu thì mới gọi là “ổn áp”?
+A. 12 triệu VND
+B. 24 triệu VND
+C. 40 triệu VND
+D. 120 triệu VND
+Câu 3
+Bạn sử dụng quy tắc 114 để ước tính...
+A. Cách lạm phát “thao túng” giá trị đồng tiền
+B. Chi phí bảo hiểm hàng năm
+C. Thuế thu nhập cá nhân sau khi được miễn giảm
+D. Thời gian gọi cứu hỏa khi bạn “cháy túi”
+Câu 4
+Tính tới thời điểm 05/2025, Ngành nào chiếm tỷ trọng lớn nhất trong Chỉ số VN DIAMOND?
+A. Bất động sản
+B. Ngân hàng
+C. Công nghệ ô tô
+D. Thực phẩm
+Câu 5
+Bạn vừa “chốt lời” 20 triệu VND khi bán số cổ phiếu mình nắm giữ. Bạn nộp thuế thu nhập cá nhân...
+A. 5 triệu VND
+B. 2 triệu VND
+C. 1 triệu VND
+D. 500.000 VND
+Câu 6
+Bạn trả 120.000 VND/tháng phí duy trì tài khoản ngân hàng, chi phí cơ hội bạn đã bỏ ra là...
+A. 1.440.000 VND/năm
+B. Khả năng sử dụng số tiền này cho mục đích sinh lời khác
+C. Lãi suất của tài khoản ngân hàng
+D. Thời gian quản lý tài khoản
+Câu 7
+Bạn có một khoản tiết kiệm đến hạn nhưng quên không đến nhận tiền lãi. Khi đó...
+A. Bạn mất luôn số tiền lãi
+B. Ngân hàng tính lãi nhập gốc cho bạn
+C. Bạn mất luôn khoản tiết kiệm
+D. Ngân hàng gửi gốc lẫn lãi về địa chỉ thường trú bạn đăng ký
+Câu 8
+Trong trường hợp nào trái phiếu của bạn có thể bị nhà phát hành thu hồi trước thời điểm đáo hạn?
+A. Khi lãi suất thị trường giảm
+B. Khi doanh nghiệp phát hành trái phiếu muốn cơ cấu lại nợ
+C. Chỉ khi trái phiếu có điều khoản mua lại trước hạn
+D. Tất cả các phương án trên
+Câu 9
+Trong suốt 3 năm, mỗi tháng bạn đã gửi 2 triệu VND vào một tài khoản tiết kiệm có lãi suất 6%/năm, lãi nhập gốc hàng tháng. Lúc này bạn đang có...
+A. 28 triệu VND
+B. 76 triệu VND
+C. 102 triệu VND
+D. 154 triệu VND
+Câu 10
+Loại thuế nào sau đây liên quan trực tiếp đến mục tiêu quốc gia Net Zero?
+A. Thuế tiêu thụ đặc biệt
+B. Thuế sử dụng đất
+C. Thuế thu nhập cá nhân
+D. Thuế tài nguyên
+
+48. ĐỀ CASTING ĐẠI HỌC CÔNG THƯƠNG TP HCM
+
+Câu 1
+Bạn mua căn hộ giá 1,2 tỷ, vay 70% trong 15 năm với lãi suất 10%/năm, trả góp đều theo tháng. Tổng tiền lãi gần bạn sẽ phải trả là khoảng...
+A. 125 triệu VND
+B. 275 triệu VND
+C. 785 triệu VND
+D. 1,9 tỷ VND
+Câu 2
+Hàng tháng, bạn trả nợ "thảnh thơi" vì khoản vay mua nhà KHÔNG vượt quá...
+A. 30% thu nhập trước thuế
+B. 40% thu nhập trợ cấp
+C. 50% thu nhập sau thuế
+D. 75% thu nhập chủ động
+Câu 3
+Theo báo cáo Nâng cao Sức khỏe tài chính Người tiêu dùng của Decision Lab (2024), ưu tiên số 1 của người Việt khi lựa chọn tổ chức tín dụng là...
+A. Trải nghiệm dịch vụ
+B. Lãi suất tốt
+C. Tính minh bạch
+D. Màu logo hợp mệnh
+Câu 4
+Khi lên kế hoạch tiết kiệm, bạn nên...
+A. Chia tiền thành các kỳ hạn khác nhau
+B. Tập trung vào ngắn hạn và trung hạn để thanh khoản linh hoạt
+C. Tập trung vào dài hạn để hưởng lãi suất cao
+D. Điều chỉnh theo chu kỳ sao Thủy nghịch hành
+Câu 5
+Bạn gửi tiết kiệm 10 triệu VND với thời hạn 12 tháng và lãi suất 6,5%/năm. Khi đến hạn, bạn nhận được tiền lãi là...
+A. 1,2 triệu VND
+B. 820.000 VND
+C. 650.000 VND
+D. 1,3 triệu VND
+Câu 6
+Bạn đã tích lũy được 3 tỷ đồng và muốn rút tiền để sống từ lãi đầu tư. Theo quy tắc 4%, mỗi năm bạn có thể rút bao nhiêu mà vẫn giữ vốn bền vững?
+A. 65 triệu VND
+B. 120 triệu
+C. 500 triệu VND
+D. 780 triệu VND
+Câu 7
+Bạn góp phần thực hiện cam kết “Net Zero” bằng hành động nào sau đây?
+A. Tăng tỷ trọng đầu tư tài sản số
+B. Đầu tư vào dự án trồng rừng
+C. Tăng cường sử dụng nhiên liệu hóa thạch
+D. Cải thiện hồ sơ tín dụng cá nhân
+Câu 8
+Hệ thống KRX đi vào hoạt động, thị trường chứng khoán Việt Nam được kỳ vọng sẽ...
+A. Đáp ứng tiêu chí nâng hạng thị trường FTSE Russell
+B. Loại bỏ hoàn toàn rủi ro giao dịch
+C. Tăng thời gian thanh toán giao dịch
+D. Giảm số lượng nhà đầu cơ
+Câu 9
+Trong điều kiện thị trường sideway, loại quỹ nào dưới đây có khả năng bảo toàn NAV tốt nhất?
+A. Quỹ cổ phiếu tăng trưởng
+B. Quỹ trái phiếu linh hoạt
+C. Quỹ mạo hiểm
+D. Quỹ ETF mô phỏng VN30
+Câu 10
+Quỹ mở cổ phiếu phải “bó tay” trong việc...
+A. Giao dịch cổ phiếu trên sàn HOSE
+B. Tự ý khóa rút vốn nhà đầu tư bất kỳ lúc nào
+C. Điều chỉnh tỷ trọng cổ phiếu trong danh mục
+D. Mua trái phiếu không niêm yết
+
+49. ĐỀ CASTING ĐẠI HỌC CNTT TRUYỀN THÔNG VIỆT HÀN
+
+Câu 1
+Bạn có thu nhập hàng tháng là 5 triệu VND. Theo quy tắc 50/30/20, bạn chi bao nhiêu tiền cho những nhu cầu thiết yếu?
+A. 2 triệu VND
+B. 2,5 triệu VND
+C. 1,5 triệu VND
+D. 1 triệu VND
+Câu 2
+Đây là doanh nhân nổi tiếng nào trong giới tài chính?
+A. Elon Musk
+B. Warren Buffet
+C. Steve Jobs
+D. Bill Gates
+Câu 3
+Theo khảo sát “Nhận thức và Hành vi tiêu dùng xanh 2024”, phần lớn người tiêu dùng xanh có mức thu nhập...
+A. Dưới 10 triệu VND
+B. 10 – 15 triệu VND
+C. 15 – 30 triệu VND
+D. Trên 30 triệu VND
+Câu 4
+Bạn được miễn hoàn toàn thuế thu nhập cá nhân với khoản thu nào sau đây?
+A. Bạn được chồng chưa cưới tặng một căn hộ chung cư
+B. Bạn chuyển nhượng danh mục chứng khoán của mình cho em ruột
+C. Tiền lương bạn làm thêm giờ
+D. Tiền lãi từ hợp đồng bảo hiểm nhân thọ của bạn
+Câu 5
+Hệ số khả năng thanh khoản cá nhân (liquidity ratio) được hiểu như thế nào?
+A. Khả năng thanh toán những khoản nợ ngắn hạn của bạn
+B. Khả năng thanh toán các chi phí sinh hoạt định kỳ nếu bạn mất thu nhập
+C. Cân bằng giữa nợ và thu nhập của bạn
+D. Thu nhập được chuyển hóa thành tài sản ròng của bạn
+Câu 6
+Từ quan điểm đầu tư dài hạn, mục đích của việc giữ vàng là gì?
+A. “Trú ẩn”
+B. “Lướt sóng”
+C. Mang lại lợi nhuận bền vững
+D. Tất cả các phương án trên
+Câu 7
+Những người sẵn sàng vay vốn với lãi suất rất cao so với trung bình là...
+A. Chuyên gia tài chính
+B. Người thu nhập thấp
+C. Người đang cần tiền gấp
+D. Người giàu
+Câu 8
+Bạn vay ngân hàng để chi tiêu và mua sắm hàng tháng. Phương thức hoàn trả nào sau đây là phù hợp nhất cho mục đích này?
+A. Tín dụng đen
+B. Tín dụng hoàn trả một lần
+C. Tín dụng tuần hoàn
+D. Tất cả các phương án trên
+Câu 9
+Theo báo cáo Ngân hàng số của InCorp (2025), số lượng giao dịch thanh toán qua điện thoại tại Việt Nam đã tăng bao nhiêu so với cùng kỳ năm trước?
+A. 10%
+B. 27%
+C. 75%
+D. Hơn 100%
+Câu 10
+Khoản đầu tư của bạn có lợi suất danh nghĩa 8%/năm. Tỷ lệ lạm phát đang là 5%/năm, lợi suất thực tế bạn nhận được là khoảng...
+A. 0,7%
+B. 2,7%
+C. 5,7%
+D. Không thể kết luận vì thiếu thông tin
+
+50. ĐỀ CASTING ĐẠI HỌC KINH TẾ - ĐẠI HỌC ĐÀ NẴNG
+Câu 1
+Kế hoạch quản lý thanh khoản cá nhân của bạn nhằm mục đích...
+A. Sẵn sàng cho những khoản chi tiêu bất thường
+B. Tối ưu danh mục đầu tư
+C. Gia tăng dòng tiền vào
+D. Quản lý các khoản nợ
+Câu 2
+Theo báo cáo Hành vi tiêu dùng của McKinsey (2023), so với các quốc gia Châu Á – Thái Bình Dương khác, người Việt Nam có xu hướng...
+A. Chi tiêu tiết kiệm hơn
+B. Chi tiêu thoải mái hơn
+C. Chi tiêu thẻ tín dụng nhiều hơn
+D. Chi tiêu trên các sàn thương mại điện tử nhiều hơn
+Câu 3
+Tổng thu nhập tháng này là 16 triệu VND, bạn chi: 10 triệu cho nhà ở – 4 triệu ăn uống, đi lại – 2 triệu giải trí, mua sắm. Bạn đang gặp phải vấn đề gì?
+A. Lương của bạn quá thấp
+B. Không đủ tiền giải trí, mua sắm
+C. Không đủ tiền ăn uống, đi lại
+D. Gánh nặng thuê nhà quá lớn
+Câu 4
+Đây là đường link dẫn đến...
+(Ảnh: https://www.mof.gov.vn)
+A. Website chính thức của chương trình Vũ trụ Đồng tiền
+B. Nền tảng giao dịch chứng khoán
+C. Cổng thông tin điện tử Bộ Tài chính
+D. Website thông tin lừa đảo giả mạo Bộ Tài chính
+Câu 5
+Yếu tố nào sau đây KHÔNG ảnh hưởng tới thu nhập từ lương của bạn?
+A. Giới tính
+B. Tính cách
+C. Giai đoạn sự nghiệp
+D. Không đáp án nào
+Câu 6
+Khi bạn vay tiền ngân hàng để mua nhà thì ngôi nhà đó là tài sản sở hữu của ai?
+A. Ngân hàng
+B. Bạn
+C. Trung gian tài chính
+D. Chính phủ
+Câu 7
+Bạn sử dụng quy tắc 72 trong tài chính cá nhân như thế nào?
+A. Tính số tiền tiết kiệm sau một khoảng thời gian
+B. Ước tính thời gian để số tiền đầu tư tăng gấp đôi
+C. Xác định tỷ lệ lạm phát hàng năm
+D. Tính toán chi phí vay vốn
+Câu 8
+Bạn đầu tư 50 triệu VND, sau 18 tháng có lời 10 triệu VND. Tỷ suất sinh lời năm là của khoản đầu tư này là...
+A. 1,3%
+B. 5,3%
+C. 13,3%
+D. 20,3%
+Câu 9
+Thu nhập hàng tháng của bạn là 5 triệu VND. Theo quy tắc 50/30/20, bạn có thể dành bao nhiêu tiền để uống matcha?
+A. 2 triệu VND
+B. 2,5 triệu VND
+C. 1,5 triệu VND
+D. 1 triệu VND
+Câu 10
+Trên lộ trình “Net Zero”, Việt Nam đặt mục tiêu tỷ trọng năng lượng tái tạo trong tổng cung cấp năng lượng quốc gia là bao nhiêu % vào năm 2050?
+A. Khoảng 70%
+B. Khoảng 50%
+C. Khoảng 40%
+D. Khoảng 10%
+
+51. ĐỀ CASTING ĐẠI HỌC CẢNH SÁT NHÂN DÂN
+
+Câu 1
+Theo quan điểm tài chính cá nhân, đâu là ví dụ của “tiêu sản”?
+A. Danh mục cổ phiếu của bạn
+B. Căn hộ bạn cho thuê
+C. Chiếc xe mới mua để đi làm
+D. Sổ tiết kiệm kỳ hạn 12 tháng
+Câu 3
+Bạn vay 60 triệu đồng mua xe máy, lãi suất 10%/năm tính trên dư nợ giảm dần, trả góp đều trong 12 tháng. Tổng số lãi phải trả là khoảng...
+A. 1,3 triệu VND
+B. 3,3 triệu VND
+C. 6,3 triệu VND
+D. 60 triệu VND
+Câu 4
+Chi phí vay vốn bạn thực sự phải trả hàng năm thể hiện qua thông số nào sau đây?
+A. APR
+B. ROI
+C. FICO
+D. Quy tắc 72
+Câu 5
+Bạn quyết định thử sức đầu tư trái phiếu doanh nghiệp. Lợi ích của loại tài sản này KHÔNG bao gồm...
+A. An toàn hơn tiền gửi tiết kiệm
+B. Rủi ro thấp hơn cổ phiếu
+C. Dễ dàng trao đổi với lãi suất thực nhận
+D. Có thể có lãi định kỳ để tái đầu tư
+Câu 6
+Trong trường hợp nào bạn có thể “hô biến” trái phiếu của mình thành cổ phiếu của tổ chức phát hành?
+A. Bất cứ khi nào bạn muốn
+B. Khi tổ chức phát hành cho phép
+C. Hợp đồng trái phiếu quy định tỷ lệ chuyển đổi, thời điểm và điều kiện
+D. Khi trái phiếu của bạn đáo hạn
+Câu 7
+Bạn vay ngân hàng để đầu tư. Chi phí ẩn bạn cần lưu ý là...
+A. Lãi suất cố định được công khai
+B. Phí phạt trả nợ trễ
+C. Ưu đãi giảm lãi suất
+D. Thời gian phê duyệt khoản vay
+Câu 8
+1 tỷ VND của bạn đang đứng trước 2 ngã rẽ: gửi tiền vào tài khoản tiết kiệm hoặc đầu tư vào bất động sản. Làm thế nào để bạn đưa ra quyết định?
+A. Hỏi mẹ
+B. Trẻ con mới chọn, người lớn làm cả hai
+C. Áp dụng công thức (OC) = FO – CO
+D. Tất cả các phương án trên
+Câu 9
+Muốn tham gia thị trường bất động sản nhưng quan ngại về kiến thức tài chính của bản thân, bạn ủy thác vốn cho một tổ chức đầu tư chuyên nghiệp. Bạn sẽ tham gia vào...
+A. Quỹ REIT
+B. Quỹ tương hỗ
+C. Quỹ ETF
+D. Quỹ phòng hộ
+Câu 10
+Công ty ABC có tổng doanh thu là 500 tỷ VND và 50 triệu cổ phiếu đang lưu hành. Nếu giá thị trường của mỗi cổ phiếu là 60.000 VND, chỉ số P/S của ABC là...
+A. 2
+B. 4
+C. 6
+D. 8
+
+52. ĐỀ CASTING ĐẠI HỌC NGÂN HÀNG TPHCM 
+
+Câu 1/10
+Trong mô hình điểm tín dụng FICO, tiêu chí nào là quan trọng nhất khi các tổ chức tín dụng cân nhắc cho vay hay “chúc bạn may mắn lần sau”?
+A. Lịch sử trả nợ
+B. Dư nợ tại các tổ chức tín dụng
+C. Số lần vay nợ mới
+D. Các loại tín dụng được sử dụng
+Câu 2/10
+Bạn chỉ thanh toán số tiền tối thiểu trên sao kê thẻ tín dụng cho “nhẹ ví”. Tổng chi phí tài chính bạn phải thanh toán…
+A. Nhiều hơn số tiền chi tiêu ban đầu
+B. Ít hơn số tiền chi tiêu ban đầu
+C. Bằng số tiền chi tiêu ban đầu
+D. Không thể kết luận
+Câu 3/10
+Trước khi “chốt đơn” căn nhà mơ ước, bạn nên thủ sẵn bao nhiêu % giá trị căn nhà để khỏi rơi vào cảnh đau đầu vì nợ?
+A. 30%
+B. 50%
+C. 70%
+D. 100%
+Câu 4/10
+Bạn vay ngân hàng mua nhà với thời hạn 20 năm và làm việc chăm chỉ để thanh toán dứt nợ chỉ trong vòng 05 năm đầu. Lúc này…
+A. Bạn mở tiệc ăn mừng
+B. Bạn nhận được nhiều chính sách ưu đãi từ ngân hàng cho những khoản vay sau
+C. Bạn được nâng hạng tín dụng doanh nghiệp
+D. Bạn bị phạt phí thanh toán trước hạn
+Câu 5/10
+Theo báo cáo “Đổi mới công tác tài chính tại Việt Nam WFIS (2025)”, mức tăng trưởng giao dịch qua mã QR năm 2025 đã tăng bao nhiêu % so với cùng kỳ năm trước?
+A. 30%
+B. 44%
+C. 66%
+D. 71%
+Câu 6/10
+Thanh toán không tiền mặt lên ngôi, vậy “nhân vật” nào trong nền kinh tế bỗng dưng được nhiều spotlight hơn?
+A. Chính phủ
+B. Các trung gian tài chính
+C. Các tổ chức phi chính phủ
+D. Ngân hàng Nhà nước
+Câu 7/10
+Khi đầu tư trái phiếu, đâu là chỉ báo quan trọng nhất bạn cần quan tâm?
+A. RSI
+B. Fibonacci
+C. IRR
+D. SMA
+Câu 8/10
+Bạn “xuống tiền” mua trái phiếu 100 triệu VND, kỳ hạn 2 năm, lãi danh nghĩa 9%/năm, trả lãi hằng năm. Sau 2 năm, tổng gốc lãi bạn thu về là…
+A. 110 triệu VND
+B. 126 triệu VND
+C. 118 triệu VND
+D. 134 triệu VND
+Câu 9/10
+Bạn đầu tư 20 triệu VND vào cổ phiếu A với giá 10.000 VND/cổ phiếu. Giá cổ phiếu vừa giảm xuống 7.500 VND/cổ phiếu, bạn chịu lỗ…
+A. 10%
+B. 15%
+C. 20%
+D. 25%
+Câu 10/10
+Người yêu bạn mượn 50 triệu làm ăn, hứa trả góp 5 triệu/tháng không tính lãi. 5 tháng sau mất hút. Bạn nên…
+A. Đưa đơn kiện
+B. Thuê hacker truy vết tài khoản
+C. Đăng status bóc “phốt”
+D. Coi như học phí tình cảm
+53. ĐỀ CASTING ĐẠI HỌC UFM
+
+Câu 1/10
+Theo số liệu của Tổng cục Thống kê, những năm gần đây số lượng lao động thất nghiệp trong độ tuổi thanh niên tăng lên vì lý do...
+A. Số lượng việc làm trên thị trường lao động giảm
+B. Thiếu kênh kết nối nhà tuyển dụng với người lao động
+C. Mức lương cơ bản thấp hơn
+D. Trình độ lao động cao hơn còn cơ hội việc làm thì "chưa đủ wow"
+Câu 2/10
+Mỗi tháng bạn muốn tiêu đều 20 triệu mà không cần đi làm nữa. Theo quy tắc 25, thì cần tích bao nhiêu tiền để “nghỉ chơi” mà ví vẫn không cạn?
+A. 6 tỷ VND
+B. 25 tỷ VND
+C. 20 tỷ VND
+D. 3,5 tỷ VND
+Câu 3/10
+Bạn được trả cổ tức bằng tiền mặt là 1 triệu VND. Bạn cần phải làm gì đầu tiên?
+A. Đóng thuế giá trị gia tăng 10.500 VND
+B. Lên kế hoạch chi tiêu hoặc tái đầu tư
+C. Đóng thuế thu nhập cá nhân 50.000 VND
+D. Tất cả các phương án trên
+Câu 4/10
+Bạn nhắm tậu laptop 36 triệu trong vòng 1 năm tới. Vậy mỗi tháng cần “trích quỹ” bao nhiêu để đến hạn là xuống tiền không run tay?
+A. 3,6 triệu VND
+B. 3 triệu VND
+C. 360.000 VND
+D. 1,2 triệu VND
+Câu 5/10
+Bạn vay 40 triệu để đầu tư, lãi đơn 10%/năm trong 5 năm. Sau 5 năm, ngân hàng sẽ “thu hồi” từ bạn...
+A. 20 triệu VND
+B. 48 triệu VND
+C. 18 triệu VND
+D. 60 triệu VND
+Câu 6/10
+Giá trị những trái phiếu bạn sở hữu sẽ tăng khi nào?
+A. Lãi suất thị trường giảm
+B. Doanh nghiệp phát hành được nâng hạng tín nhiệm
+C. Trái phiếu sắp đáo hạn
+D. Tất cả các phương án trên
+Câu 7/10
+Khi lãi suất điều hành giảm mạnh, nhóm quỹ nào có thể chuyển từ phòng thủ sang tấn công?
+A. Quỹ trái phiếu doanh nghiệp kỳ hạn dài
+B. Quỹ cổ tức ổn định
+C. Quỹ tăng trưởng cổ phiếu mid-cap
+D. Quỹ cân bằng rủi ro
+Câu 8/10
+Chỉ số tracking error càng nhỏ trong quỹ ETF thể hiện điều gì?
+A. Danh mục quỹ có tính đầu cơ cao
+B. Hiệu suất quỹ thấp hơn VN-Index
+C. Quỹ bám sát chỉ số tham chiếu
+D. Quỹ có xu hướng tạo alpha vượt thị trường
+Câu 9/10
+Để góp phần phát triển tài chính bền vững tại Việt Nam, Hiệp hội Thị trường vốn Quốc tế ICMA cung cấp...
+A. Hướng dẫn thành lập báo cáo Phát thải khí nhà kính
+B. Khung đo lường tính minh bạch của báo cáo tài chính
+C. Công nghệ tinh giản các thủ tục hành chính
+D. Nguyên tắc phát hành và sử dụng Trái phiếu xanh
+Câu 10/10
+Tại Việt Nam, đại lý thay Chính phủ phân phối trái phiếu xanh là...
+A. Ngân hàng Nhà nước
+B. Ủy ban Chứng khoán Nhà nước
+C. Tổng công ty Lưu ký và Bù trừ Chứng khoán
+D. Các ngân hàng Thương mại đáp ứng điều kiện
+
+54. ĐỀ CASTING ĐẠI HỌC SÀI GÒN 
+
+Câu 1/10
+Bạn vừa trúng số 100 triệu VND! Việc đầu tiên cần phải làm là...
+A. Lên kế hoạch mua sắm, chi tiêu hợp lý bền vững
+B. Mua chiếc túi hàng hiệu bạn luôn mơ ước
+C. Nộp thuế thu nhập cá nhân
+D. Làm từ thiện
+Câu 2/10
+Bạn “quay vào ô mất lượt” khi vay tiền ngân hàng bởi mục đích vay là...
+A. Trả nợ khoản vay quốc tế
+B. Mua vàng miếng
+C. Gửi tiết kiệm
+D. Tất cả các phương án trên
+Câu 3/10
+Bạn vay 20 triệu VND để đầu tư từ ngân hàng với lãi đơn 8%/năm. Tổng số tiền bạn phải “chia tay” sau 2 năm là bao nhiêu?
+A. 20 triệu VND
+B. 24 triệu VND
+C. 24,8 triệu VND
+D. 23,2 triệu VND
+Câu 4/10
+Bạn dự định mua cổ phiếu với giá 50.000 VND/cổ phiếu và kỳ vọng bán với giá 65.000 VND/cổ phiếu sau 1 năm. Lợi suất đầu tư khi đó là...
+A. 15%
+B. 30%
+C. 20%
+D. 25%
+Câu 5/10
+Rổ chỉ số VNFIN Lead theo dõi biến động của những cổ phiếu đầu ngành tài chính do tổ chức nào phát triển và vận hành?
+A. Ủy ban Giám sát Tài chính Quốc gia
+B. Ủy ban Chứng khoán Nhà nước
+C. Sở giao dịch Chứng khoán Hà Nội
+D. Sở giao dịch Chứng khoán Tp. Hồ Chí Minh
+Câu 6/10
+Nếu giá tham chiếu của cổ phiếu A giao dịch trên sàn HOSE đang ở mức 120.000 VND thì bạn KHÔNG đặt được lệnh giao dịch ở mức giá...
+A. 128.400 VND
+B. 120.000 VND
+C. 110.000 VND
+D. Tất cả các phương án trên
+Câu 7/10
+Quỹ mở bạn tái phân bổ tài sản, đầu tư vào cổ phiếu penny và NAV biến động mạnh. Điều này có thể vi phạm nguyên tắc nào?
+A. Nguyên tắc quản trị rủi ro theo chỉ số Sharpe
+B. Nguyên tắc phân bổ tối đa 10% vào một mã
+C. Nguyên tắc tập trung danh mục vào bluechip
+D. Nguyên tắc minh bạch NAV hằng ngày
+Câu 8/10
+Theo nghiên cứu của Bộ Công Thương về Thói quen Người tiêu dùng Việt Nam 2024, xu hướng mạnh nhất trong mua sắm hiện nay là...
+A. Mua sắm trên các nền tảng số
+B. Tiêu dùng “xanh”
+C. Mua sắm vì mục đích sức khỏe
+D. Tiêu dùng bằng các sản phẩm thẻ tín dụng
+Câu 10/10
+Bạn đang chi 2 triệu VND mỗi tháng cho matcha latte. Nếu bạn cắt giảm 50% khoản này và chuyển vào tiết kiệm có lãi suất 7%/năm, sau 5 năm bạn sẽ có...
+A. 10 triệu VND
+B. 23,5 triệu VND
+C. 71,5 triệu VND
+D. Vóc dáng trong mơ
+
