@@ -4,9 +4,10 @@ import { useState, useEffect, useCallback } from 'react';
 import { questions } from '@/data/questions';
 import demo2026Data from '@/data/2026-demo.json';
 import { motion, AnimatePresence } from 'motion/react';
-import { Play, RotateCcw, CheckCircle2, XCircle, Rocket } from 'lucide-react';
+import { Play, RotateCcw, CheckCircle2, XCircle, Rocket, BookOpen } from 'lucide-react';
+import Terminology from '@/components/Terminology';
 
-type GameMode = 'setup' | 'playing' | 'ended';
+type GameMode = 'setup' | 'playing' | 'ended' | 'terminology';
 type DataSource = 'basic' | '2026';
 
 const demo2026Questions = demo2026Data.map((q: any) => ({
@@ -177,16 +178,29 @@ export default function Quiz() {
                 </div>
               </div>
 
-              <button
-                onClick={startGame}
-                className="group relative w-full md:w-auto md:px-16 py-5 rounded-2xl font-bold text-lg bg-gradient-to-r from-cyan-600 to-blue-600 text-white overflow-hidden transition-all hover:scale-105"
-              >
-                <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out" />
-                <div className="relative flex items-center justify-center gap-3">
-                  <Rocket className="w-5 h-5 text-amber-300 group-hover:-translate-y-1 group-hover:translate-x-1 transition-transform" /> 
-                  <span className="tracking-widest">KHỞI HÀNH</span>
-                </div>
-              </button>
+              <div className="flex flex-col md:flex-row items-center justify-center gap-4 w-full mt-4">
+                <button
+                  onClick={startGame}
+                  className="group relative w-full md:w-auto md:px-16 py-5 rounded-2xl font-bold text-lg bg-gradient-to-r from-cyan-600 to-blue-600 text-white overflow-hidden transition-all hover:scale-105 flex-1"
+                >
+                  <div className="absolute inset-0 bg-white/20 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out" />
+                  <div className="relative flex items-center justify-center gap-3">
+                    <Rocket className="w-5 h-5 text-amber-300 group-hover:-translate-y-1 group-hover:translate-x-1 transition-transform" /> 
+                    <span className="tracking-widest">KHỞI HÀNH</span>
+                  </div>
+                </button>
+
+                <button
+                  onClick={() => setGameStatus('terminology')}
+                  className="group relative w-full md:w-auto md:px-16 py-5 rounded-2xl font-bold text-lg bg-[#0b1120] border border-amber-500/30 text-amber-400 overflow-hidden transition-all hover:scale-105 hover:border-amber-400 hover:shadow-[0_0_20px_rgba(251,191,36,0.3)] flex-1"
+                >
+                  <div className="absolute inset-0 bg-amber-500/10 translate-y-full group-hover:translate-y-0 transition-transform duration-300 ease-out" />
+                  <div className="relative flex items-center justify-center gap-3">
+                    <BookOpen className="w-5 h-5 text-cyan-300 group-hover:-translate-y-1 group-hover:translate-x-1 transition-transform" /> 
+                    <span className="tracking-widest">HỌC THUẬT NGỮ</span>
+                  </div>
+                </button>
+              </div>
             </div>
           </motion.div>
         )}
@@ -369,6 +383,11 @@ export default function Quiz() {
               </button>
             </div>
           </motion.div>
+        )}
+
+        {/* TERMINOLOGY SCREEN */}
+        {gameStatus === 'terminology' && (
+          <Terminology onBack={() => setGameStatus('setup')} />
         )}
       </AnimatePresence>
     </div>

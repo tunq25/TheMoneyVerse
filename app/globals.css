@@ -11,3 +11,12 @@ html, body {
   overflow-x: hidden;
   width: 100%;
 }
+
+/* Ẩn scrollbar cho toàn bộ trang Web nhưng vẫn cho phép scroll */
+::-webkit-scrollbar {
+  display: none;
+}
+* {
+  -ms-overflow-style: none; /* IE and Edge */
+  scrollbar-width: none; /* Firefox */
+}
