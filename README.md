@@ -85,5 +85,5 @@ TheMoneyVerse/
 
 ---
 <div align="center">
-  <i>Được xây dựng với 🩵 và ☕ bởi đội ngũ phát triển TheMoneyVerse.</i>
+  <i>Được xây dựng với 🩵 và ☕ bởi đội ngũ phát triển Qtus.</i>
 </div>
