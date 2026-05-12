@@ -1,13 +1,22 @@
 'use client';
 
-import { useState } from 'react';
+import { useState, useMemo } from 'react';
 import { motion, AnimatePresence } from 'motion/react';
-import terminologyData from '@/data/terminology.json';
+import originalTerminologyData from '@/data/terminology.json';
 import { ChevronLeft, ChevronRight, RotateCcw } from 'lucide-react';
 
 export default function Terminology({ onBack }: { onBack: () => void }) {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [direction, setDirection] = useState(0);
+
+  const terminologyData = useMemo(() => {
+    const shuffled = [...originalTerminologyData];
+    for (let i = shuffled.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [shuffled[i], shuffled[j]] = [shuffled[j], shuffled[i]];
+    }
+    return shuffled;
+  }, []);
 
   const termCount = terminologyData.length;
 

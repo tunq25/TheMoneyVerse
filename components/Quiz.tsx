@@ -31,10 +31,36 @@ export default function Quiz() {
 
   const startGame = () => {
     const sourceData = dataSource === '2026' ? demo2026Questions : questions;
-    let selectedQuestions = [...sourceData].sort(() => 0.5 - Math.random());
+    
+    // 1. Randomize questions using Fisher-Yates
+    let selectedQuestions = [...sourceData];
+    for (let i = selectedQuestions.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [selectedQuestions[i], selectedQuestions[j]] = [selectedQuestions[j], selectedQuestions[i]];
+    }
+
+    // 2. Limit the number of questions if needed
     if (questionCount !== 'All') {
       selectedQuestions = selectedQuestions.slice(0, questionCount as number);
     }
+
+    // 3. Randomize options for each question
+    selectedQuestions = selectedQuestions.map(q => {
+      const shuffledOptions = [...q.options];
+      const correctOptionText = q.options[q.answer];
+      
+      for (let i = shuffledOptions.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [shuffledOptions[i], shuffledOptions[j]] = [shuffledOptions[j], shuffledOptions[i]];
+      }
+
+      return {
+        ...q,
+        options: shuffledOptions as [string, string, string, string],
+        answer: shuffledOptions.indexOf(correctOptionText)
+      };
+    });
+
     setQuestionSet(selectedQuestions);
     setGameStatus('playing');
     setCurrentQuestionIndex(0);
